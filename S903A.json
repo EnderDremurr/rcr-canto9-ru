@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "LCCB Transporter Truck",
+      "place": "Транспортировочный грузовик LCCB",
       "model": "다친베르길리우스",
       "content": "*sigh* Manager Dante, it seems that... I must apologize for what has happened today."
     },
@@ -157,7 +157,7 @@
     },
     {
       "id": 31,
-      "place": "LCCB Transporter Truck",
+      "place": "Транспортировочный грузовик LCCB",
       "model": "다친베르길리우스",
       "content": "Well, Valencina, I don't know how much confidence you're putting in that eyeball, but..."
     },

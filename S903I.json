@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "LCCB Transporter Truck",
+      "place": "Транспортировочный грузовик LCCB",
       "model": "싱클레어",
       "content": "Ugh... He seized the Backdoor side of the truck. Even if the portal opens, we can't—"
     },
@@ -59,7 +59,7 @@
     },
     {
       "id": 10,
-      "place": "LCCB Transporter Truck",
+      "place": "Транспортировочный грузовик LCCB",
       "model": "료슈",
       "content": "... You."
     },
@@ -137,7 +137,7 @@
     },
     {
       "id": 23,
-      "place": "LCCB Transporter Truck",
+      "place": "Транспортировочный грузовик LCCB",
       "model": "료슈",
       "content": "... will break your form, making your swordsmanship as precarious as a tightrope walk headed straight for a fall."
     },
@@ -211,7 +211,7 @@
     },
     {
       "id": 35,
-      "place": "LCCB Transporter Truck",
+      "place": "Транспортировочный грузовик LCCB",
       "model": "료슈",
       "content": "Gah...!"
     },
