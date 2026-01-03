@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 1,
-      "place": "LCE Research Team Laboratory",
+      "place": "Лаборатория исследовательской команды LCE",
       "model": "소지제자",
       "content": "Refrain from any deviations from the plan... Has my humble self neglected to impress upon this matter many times?"
     },
@@ -89,7 +89,7 @@
     {
       "id": 19,
       "model": "소지아비",
-      "teller": "Dihui Star",
+      "teller": "Звезда Дихуэй",
       "content": "......."
     },
     {
