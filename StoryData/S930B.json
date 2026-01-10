@@ -238,7 +238,7 @@
     },
     {
       "id": 47,
-      "place": "LCE Research Team Hallway",
+      "place": "Коридор исследовательской команды LCE",
       "model": "중지아비2",
       "content": "... Oh boy, would you look at the time."
     },
@@ -294,7 +294,7 @@
     },
     {
       "id": 58,
-      "place": "LCE Research Team Hallway",
+      "place": "Коридор исследовательской команды LCE",
       "model": "약지아비",
       "teller": "???",
       "content": "Ah, I must've lost track of time, lured by that light."
