@@ -62,7 +62,7 @@
     {
       "id": 11,
       "model": "호엔하임",
-      "teller": "Radio",
+      "teller": "Рация",
       "content": "Assistant...?"
     },
     {
@@ -78,13 +78,13 @@
     {
       "id": 14,
       "place": "LCE Research Team\nFacility Management Room",
-      "teller": "Radio",
+      "teller": "Рация",
       "title": "???",
       "content": "......."
     },
     {
       "id": 15,
-      "teller": "Radio",
+      "teller": "Рация",
       "title": "???",
       "content": "......."
     },

@@ -2,38 +2,38 @@
   "dataList": [
     {
       "id": 1,
-      "place": "LCE Research Team Hallway",
+      "place": "Коридор исследовательской команды LCE",
       "model": "검지제자2",
-      "content": "Oh! Th-the elevator's just around that corner."
+      "content": "О! Л-лифт сразу за этим углом."
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<Right, I can feel the Golden Bough's presence getting closer...>"
+      "content": "<Да, я чувствую приближение Золотой ветви...>"
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<Huh...?>"
+      "content": "<А...?>"
     },
     {
       "id": 4,
-      "content": "Unlike before, however, the energy from the Golden Bough wasn't coming through clearly."
+      "content": "Однако в этот раз, энергия от Золотых ветвей не шла прямо."
     },
     {
       "id": 5,
-      "content": "As though layers of thin walls were blocking it..."
+      "content": "Будто слой толстых стен блокировал её..."
     },
     {
       "id": 6,
-      "place": "LCE Research Team\nElevator",
+      "place": "Исследовательская команда LCE\nЛифт",
       "model": "료슈",
       "content": "......."
     },
     {
       "id": 7,
       "model": "료슈",
-      "content": "You..."
+      "content": "Т..."
     },
     {
       "id": 8,
@@ -42,106 +42,106 @@
     },
     {
       "id": 9,
-      "content": "The Pinky Nursefather stood in front of the elevator, holding the container full of Golden Boughs."
+      "content": "Опекун Мизинца стояла перед лифтом, держа в руках контейнер, заполненный Золотыми ветвями."
     },
     {
       "id": 10,
-      "content": "And just like before, she stood there without so much as a twitch, almost like she'd been expecting us."
+      "content": "И как и в прошлый раз, она стояла не шевелясь, будто ждала нас."
     },
     {
       "id": 11,
       "model": "호엔하임",
-      "teller": "Radio",
-      "content": "*tzzt* Ah—can you hear me? I would rather this not serve as my eleventh monologue broadcast. I've even activated the signal amplifier for this."
+      "teller": "Рация",
+      "content": "*ззз* Ага - меня слышно? Не хотелось бы, чтоб это стало одиннадцатой передачей-монологом. Я включил усилитель сигнала для этого."
     },
     {
       "id": 12,
       "model": "그레고르",
-      "content": "... Yeah, we read you."
+      "content": "... Да, приём."
     },
     {
       "id": 13,
       "model": "호엔하임",
-      "teller": "Radio",
-      "content": "... Good. Power will be fully restored on our side soon."
+      "teller": "Рация",
+      "content": "... Хорошо. Электричество будет скоро восстановлено на нашей стороне."
     },
     {
       "id": 14,
       "model": "호엔하임",
-      "teller": "Radio",
-      "content": "The Golden Boughs... have you found them?"
+      "teller": "Рация",
+      "content": "Золотые ветви... вы их нашли?"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "... Yeah. They're right in front of us."
+      "content": "... Да. Они прямо перед нами."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Problem is, they're not in our hands... We just found the woman who swiped the container, waiting in front of the elevator."
+      "content": "Проблема в том, что они не в наших руках... Мы только нашли женщину, что украла контейнер, ждущую перед лифтом."
     },
     {
       "id": 17,
       "model": "호엔하임",
-      "teller": "Radio",
-      "content": "... I see."
+      "teller": "Рация",
+      "content": "... Ясно."
     },
     {
       "id": 18,
       "model": "호엔하임",
-      "teller": "Radio",
-      "content": "Can you keep her from taking the elevator? Once the power's back on... she might escape to another floor."
+      "teller": "Рация",
+      "content": "Можете помешать ей использовать лифт? Как только электричество вернется... она может сбежать на другой этаж."
     },
     {
       "id": 19,
-      "content": "Hohenheim's voice sounded off..."
+      "content": "Голос Хохенхайма звучал странно..."
     },
     {
       "id": 20,
-      "content": "Trembling just a bit—like he was holding something back."
+      "content": "Немного трясся - будто он что-то скрывал."
     },
     {
       "id": 21,
       "model": "이상",
-      "content": "Hohenheim."
+      "content": "Хохенхайм."
     },
     {
       "id": 22,
       "model": "이상",
-      "content": "Your voice... Are you all right?"
+      "content": "Ваш голос... что-то не так?"
     },
     {
       "id": 23,
       "model": "호엔하임",
-      "teller": "Radio",
-      "content": "I doubt things are any more pleasant on your side than they are here."
+      "teller": "Рация",
+      "content": "Сомневаюсь, что дела на вашей стороне лучше, чем на моей."
     },
     {
       "id": 24,
       "model": "그레고르",
-      "content": "Sure, but still... How's the situation there?"
+      "content": "Есть такое, но всё-же... Что у тебя там?"
     },
     {
       "id": 25,
       "model": "호엔하임",
-      "teller": "Radio",
-      "content": "... Best focus on your own situation than mine."
+      "teller": "Рация",
+      "content": "... Лучше сфокусируйтесь на своём положении, чем на моем."
     },
     {
       "id": 26,
       "model": "그레고르",
-      "content": "Right... At least it's just a single enemy here—we'll manage."
+      "content": "Хорошо... Хотя бы тут всего один враг - мы справимся."
     },
     {
       "id": 27,
       "model": "료슈",
-      "content": "Don't drop your guard. She's a Nursefather..."
+      "content": "Не расслабляйся. Она Опекун..."
     },
     {
       "id": 28,
       "model": "료슈",
-      "content": "Which means she's on a whole different level from her lackey."
+      "content": "Что значит, она на совершенно другом уровне в сравнении со своим лакеем."
     },
     {
       "id": 29,
@@ -150,118 +150,118 @@
     },
     {
       "id": 30,
-      "content": "Given our current numbers... even the sort of enemy we could normally beat would push us to our limits."
+      "content": "С учетом нашего количества... даже враг, которого мы можем обычно победить, довел бы нас до изнеможения."
     },
     {
       "id": 31,
-      "content": "If only I had all 12 Sinners here with me... we might've had a better chance."
+      "content": "Если бы только все двенадцать Грешников были здесь, со мной... у нас могли бы быть более высокие шансы."
     },
     {
       "id": 32,
-      "content": "But that doesn't mean we're just going to be twiddling our thumbs while the enemy gets away with the Golden Boughs right in front of our eyes."
+      "content": "Но это не значит, что мы будет просто сидеть сложа руки, пока враг уходит с Золотыми ветвями прям перед нашими глазами."
     },
     {
       "id": 33,
       "model": "단테",
-      "content": "<Be ready... to die more than a few times.>"
+      "content": "<Приготовьтесь... умереть больше одного раза.>"
     },
     {
       "id": 34,
       "model": "라비",
-      "content": "This... doesn't look good. Are you going to fight her?"
+      "content": "Выглядит... нехорошо. Вы будете с ней сражаться?"
     },
     {
       "id": 35,
       "model": "이상",
-      "content": "... It seems unavoidable."
+      "content": "... Это кажется неизбежным."
     },
     {
       "id": 36,
       "model": "라비",
-      "content": "I could've assisted you had I been supplied with a suitable E.G.O gear..."
+      "content": "Я бы мог вам помочь, будь у меня подходящая Э.Г.О экипировка..."
     },
     {
       "id": 37,
       "model": "라비",
-      "content": "... but it doesn't look like there's anything I can do here. I'm sorry."
+      "content": "... но мне кажется я не могу ничем помочь. Простите."
     },
     {
       "id": 38,
       "model": "그레고르",
-      "content": "Right. Smart call."
+      "content": "Правильно. Умная мысль."
     },
     {
       "id": 39,
       "model": "라비",
-      "content": "Sora...? You have that shackle-shaped E.G.O. You'll be helping them, I assume?"
+      "content": "Сора...? У тебя есть это Э.Г.О в форме оков. Ты будешь им помогать, я предполагаю?"
     },
     {
       "id": 40,
       "model": "검지제자2",
-      "content": "H-huh...? I... I thought we were all going to take the elevator and escape together..."
+      "content": "О-ох...? Я... Я думала мы все сядем на лифт и выберемся вместе..."
     },
     {
       "id": 41,
       "model": "그레고르",
-      "content": "Well, as you can see, one of the assailants got the Golden Boughs."
+      "content": "Ну, как видишь, у одного из нападавших Золотые ветви."
     },
     {
       "id": 42,
       "model": "검지제자2",
-      "content": "B-but she's got to be really, really strong... A-all my colleagues together wouldn't stand a chance against her. She'd snuff us out like candles in the wind."
+      "content": "Н-но она должно быть очень, очень сильная... В-все мои коллеги вместе не смогли бы ничего ей сделать. Она сдует нас как свечи на ветру."
     },
     {
       "id": 43,
       "model": "라비",
-      "content": "How do you know that...?"
+      "content": "Откуда ты знаешь...?"
     },
     {
       "id": 44,
       "model": "그레고르",
-      "content": "We get it. You and Ravi just stay as far back as you can. You'll want to stay behind cover unless you wanna get caught in the middle of it."
+      "content": "Мы поняли. Ты и Рави стойте как можно дальше отсюда. Вам стоит спрятаться за преграду, если не хотите попасть под горячую руку."
     },
     {
       "id": 45,
       "model": "검지제자2",
-      "content": "N-no, I'll probably get scolded if I did that..."
+      "content": "Н-нет, меня наверное наругают если я так поступлю..."
     },
     {
       "id": 46,
       "model": "검지제자2",
-      "content": "I don't want that. I've been doing a g-good job so far... I just want to be told I did okay..."
+      "content": "Я не хочу этого. Пока, я делала всё хорошо... я хочу чтобы мне сказали, что я умница..."
     },
     {
       "id": 47,
       "model": "라비",
-      "content": "Sora...?"
+      "content": "Сора...?"
     },
     {
       "id": 48,
       "model": "라비",
-      "content": "Kergh..."
+      "content": "Грх..."
     },
     {
       "id": 49,
       "model": "검지제자2",
-      "content": "I'm-I'm so sorry. Mister Rien said... if I ever met the f-family... I should help them."
+      "content": "Мне-мне так жаль. Мистер Риен сказал... если я когда-то встречу кого-то из с-семьи... я должна им помочь."
     },
     {
       "id": 50,
-      "content": "Just as Sora turned and rushed toward me, Yi Sang and Meursault moved to block her..."
+      "content": "Как только Сора повернулась и рванулась ко мне, И Сан и Мерсо подвинулись чтобы заблокировать её..."
     },
     {
       "id": 51,
-      "content": "... and Ryōshū shoved me out of the way."
+      "content": "... и Рёшу вытолкнула меня с пути."
     },
     {
       "id": 52,
       "model": "그레고르",
-      "content": "Yeah, figured that's how this'd go down."
+      "content": "Ну да, догадался, что так и будет."
     },
     {
       "id": 53,
       "model": "이상",
-      "content": "Dante!"
+      "content": "Данте!"
     },
     {
       "id": 54,
@@ -270,138 +270,138 @@
     },
     {
       "id": 55,
-      "content": "Ryōshū's sheathed blade came swinging down with enough force to cut Sora down where she stood..."
+      "content": "Меч Решу в ножнах обрушился с такой силой, достаточной, чтобы разрезать Сору на месте..."
     },
     {
       "id": 56,
-      "content": "But no sooner had I heard the metallic rattle of chains behind me than a sharp pain tore through my shoulder."
+      "content": "Но едва я услышал за спиной металлический лязг цепей, как острая боль пронзила мое плечо."
     },
     {
       "id": 57,
       "model": "단테",
-      "content": "<Gah...!>"
+      "content": "<Ай...!>"
     },
     {
       "id": 58,
       "model": "료슈",
-      "content": "That movement... You must be the Index Nursefather's N.C."
+      "content": "Эти движения... Должно быть Н.Р. Опекуна Указательного."
     },
     {
       "id": 59,
-      "content": "Losing my balance, I crumpled to the floor. When I looked up... Sora was already braced for combat, slipping into a battle stance."
+      "content": "Потеряв баланс, я свалился на пол. Когда я поднял свой взгляд... Сора уже готовилась к бою, ускальзывая в боевую стойку."
     },
     {
       "id": 61,
       "model": "검지제자",
-      "content": "I-I didn't want to hurt any of you, really. I just wanted to take the elevator and leave with all of you..."
+      "content": "Я-я не хотела делать вам больно, правда. Я просто хотела сесть в лифт и уехать со всеми вами..."
     },
     {
       "id": 62,
       "model": "검지제자",
-      "content": "B-but the Prescript told me otherwise. B-besides, I do prefer to d-do what Mister Rien wants..."
+      "content": "Н-но Предписание сказало по-другому. И е-ещё, я предпочитаю д-делать то, что хочет Мистер Риен..."
     },
     {
       "id": 63,
       "model": "이상",
-      "content": "... As expected. You are of the House of Spiders."
+      "content": "... Как мы и ожидали. Ты из Дома пауков."
     },
     {
       "id": 64,
       "model": "검지제자",
-      "content": "I-I wish Ravi and I could've had that vanilla ice cream together..."
+      "content": "Я-я хотела чтобы я с Рави могли вместо покушать ванильного мороженного..."
     },
     {
       "id": 65,
       "model": "검지제자",
-      "content": "Th-the other children... they were never that nice to me."
+      "content": "Др-другие дети... никогда не были так добры ко мне."
     },
     {
       "id": 66,
       "model": "그레고르",
-      "content": "... Ravi was nice to you because he believed you were a colleague."
+      "content": ".... Рави относился к тебе по-доброму, потому что верил, что ты - его коллега."
     },
     {
       "id": 67,
       "model": "검지제자",
-      "content": "Oh, r-right. That gear I had on, I'd borrowed it from a corpse... Then I guess Ravi... wouldn't have wanted to share vanilla ice cream with me after all..."
+      "content": "Ох, в-верно. Эта экипировка, что была на мне - я взяла её у трупа... Тогда я думаю Рави... всё же не хотел вместе покушать ванильного мороженного..."
     },
     {
       "id": 68,
       "model": "이상",
-      "content": "And Ravi..."
+      "content": "И Рави..."
     },
     {
       "id": 69,
       "model": "료슈",
-      "content": "O.O.F. He's gone."
+      "content": "О.Б.С. Он мёртв."
     },
     {
       "id": 70,
       "model": "뫼르소",
-      "content": "Our mutual, tacit recognition of the threat allowed us to quickly distance the manager and the new hire away from the assailant. However, the circumstances of the attack forced us to choose one over the other."
+      "content": "Наше взаимное, молчаливое признание угрозы позволило нам быстро отвести менеджера и нового сотрудника подальше от нападавшего. Однако обстоятельства нападения заставили нас выбрать одного из них вместо другого."
     },
     {
       "id": 71,
-      "content": "... Ravi lay in the corner of the corridor, half his body torn apart."
+      "content": "... Рави лежал посредине коридора, его тело разорвано на части."
     },
     {
       "id": 72,
       "model": "료슈",
-      "content": "Clock. Can you stand?"
+      "content": "Часы. Можешь встать?"
     },
     {
       "id": 73,
       "model": "단테",
-      "content": "<Hrrk... Don't think so.>"
+      "content": "<Кхх... Не думаю.>"
     },
     {
       "id": 74,
       "model": "검지제자",
-      "content": "Y-you're the leader, so I thought I should take you out first... S-sorry."
+      "content": "В-вы - лидер, так что я думала что вас нужно убить первым... Простите..."
     },
     {
       "id": 75,
       "model": "검지제자",
-      "content": "I-I really liked listening... to the tick-tock. What a shame... It sounded a bit like Mister Rien's p-pager."
+      "content": "М-мне очень нравилось слушать... тиканье. Как жаль... оно было немного похоже на пейджер Мистера Риена."
     },
     {
       "id": 76,
-      "content": "Sora gazed down at me, face drawn into a tearful pout as though she were genuinely apologetic."
+      "content": "Сора смотрела на меня, закатив губу, будто искренне извиняясь."
     },
     {
       "id": 77,
       "model": "검지제자",
-      "content": "T-too bad, no one here can fix your wounds..."
+      "content": "О-очень плохо, что никто здесь не может вас подлечить..."
     },
     {
       "id": 78,
-      "content": "... It was hard to deny that."
+      "content": "... Было трудно поспорить."
     },
     {
       "id": 79,
-      "content": "If only I'd had more power... maybe Ravi could've been saved. At the very least, I wouldn't be this badly hurt."
+      "content": "Если бы только я был сильнее... может мы бы смогли спасти Рави. Как минимум, я бы не был так тяжело ранен."
     },
     {
       "id": 80,
-      "content": "I probably should've done something too while Sinclair was going through his training."
+      "content": "Наверное мне стоило тоже позаниматься, когда Синклер проходил тренировку."
     },
     {
       "id": 81,
       "model": "료슈",
-      "content": "You can still keep ticking, can't you?"
+      "content": "Еще можешь тикать?"
     },
     {
       "id": 82,
       "model": "단테",
-      "content": "<... Yeah.>"
+      "content": "<... Да.>"
     },
     {
       "id": 83,
-      "content": "But this isn't the time to dwell on what I could've done."
+      "content": "Но сейчас не время задумываться о том, что я мог бы сделать."
     },
     {
       "id": 84,
-      "content": "First... I have to do what I must. What I can do now."
+      "content": "Сначала... я должен сделать, что должен. То, что я могу сейчас."
     }
   ]
 }
