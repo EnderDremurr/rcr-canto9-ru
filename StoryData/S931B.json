@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "LCE Research Team\nElevator",
+      "place": "Исследовательская команда LCE\nЛифт",
       "model": "단테",
       "content": "<... What is that?>"
     },
@@ -64,12 +64,12 @@
     {
       "id": 14,
       "model": "료슈",
-      "content": "Araya."
+      "content": "Арайа."
     },
     {
       "id": 15,
       "model": "단테",
-      "content": "<... Ryōshū!>"
+      "content": "<... Рёшу!>"
     },
     {
       "id": 16,
@@ -95,8 +95,8 @@
       "id": 21,
       "place": -1,
       "model": "료슈딸",
-      "teller": "Araya",
-      "title": "Daughter",
+      "teller": "Арайа",
+      "title": "Дочь",
       "content": "Is this my name?"
     },
     {
@@ -107,22 +107,22 @@
     {
       "id": 23,
       "model": "료슈딸",
-      "teller": "Araya",
-      "title": "Daughter",
+      "teller": "Арайа",
+      "title": "Дочь",
       "content": "It's too hard to read..."
     },
     {
       "id": 24,
       "model": "료슈딸",
-      "teller": "Araya",
-      "title": "Daughter",
+      "teller": "Арайа",
+      "title": "Дочь",
       "content": "Hope it's not something as random as Saru!"
     },
     {
       "id": 25,
       "model": "료슈딸",
-      "teller": "Araya",
-      "title": "Daughter",
+      "teller": "Арайа",
+      "title": "Дочь",
       "content": "How do you write your name, Mommy?"
     },
     {
@@ -133,38 +133,38 @@
     {
       "id": 27,
       "model": "과거료슈3",
-      "content": "Go on, read it."
+      "content": "Давай, прочти."
     },
     {
       "id": 28,
       "model": "료슈딸",
-      "teller": "Araya",
-      "title": "Daughter",
-      "content": "Uh... Ryō... shū...?"
+      "teller": "Арайа",
+      "title": "Дочь",
+      "content": "Эээ... Рё... шу...?"
     },
     {
       "id": 29,
       "model": "과거료슈3",
-      "content": "No... That's not how you read those letters..."
+      "content": "Нет... Эти символы не так читаются..."
     },
     {
       "id": 30,
       "model": "과거료슈3",
-      "content": "\"Yoshihide.\" That's how you say it."
+      "content": "\"Йошихиде.\" Произносится так."
     },
     {
       "id": 31,
       "model": "료슈딸",
-      "teller": "Araya",
-      "title": "Daughter",
-      "content": "\"Ryō-shū!\""
+      "teller": "Арайа",
+      "title": "Дочь",
+      "content": "\"Рё-шу!\""
     },
     {
       "id": 32,
       "model": "료슈딸",
-      "teller": "Araya",
-      "title": "Daughter",
-      "content": "It's prettier and easier!"
+      "teller": "Арайа",
+      "title": "Дочь",
+      "content": "Так красивее и проще!"
     },
     {
       "id": 33,
@@ -505,8 +505,8 @@
     {
       "id": 99,
       "model": "료슈딸",
-      "teller": "Araya",
-      "title": "Daughter",
+      "teller": "Арайа",
+      "title": "Дочь",
       "content": "Mhm! I'll be fine. I'll be waiting for you here, Mommy!"
     },
     {
