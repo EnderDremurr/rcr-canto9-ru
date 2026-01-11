@@ -23,7 +23,7 @@
     },
     {
       "id": 4,
-      "content": "Ryōshū hurried toward the safe left behind by the Index Nursefather."
+      "content": "Рёшу бросилась к сейфу, оставленному Опекуном Указательного."
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
     },
     {
       "id": 16,
-      "content": "We..."
+      "content": "Мы..."
     },
     {
       "id": 17,
@@ -168,7 +168,7 @@
     },
     {
       "id": 33,
-      "place": "Limbus Company Portal Monitoring Room",
+      "place": "Комната наблюдения за порталами Компании Лимбус",
       "model": "호엔하임2",
       "content": "The facility has been restored. Of course, ... would take time, but the LCC..."
     },
@@ -329,9 +329,9 @@
     },
     {
       "id": 65,
-      "teller": "Announcement",
-      "title": "Limbus Company HQ",
-      "content": "5..."
+      "teller": "Оповещение",
+      "title": "Штаб Компании Лимбус",
+      "content": "Пять..."
     },
     {
       "id": 66,
@@ -365,9 +365,9 @@
     },
     {
       "id": 72,
-      "teller": "Announcement",
-      "title": "Limbus Company HQ",
-      "content": "4..."
+      "teller": "Оповещение",
+      "title": "Штаб Компании Лимбус",
+      "content": "Четыре..."
     },
     {
       "id": 73,
@@ -421,9 +421,9 @@
     },
     {
       "id": 83,
-      "teller": "Announcement",
-      "title": "Limbus Company HQ",
-      "content": "3..."
+      "teller": "Оповещение",
+      "title": "Штаб Компании Лимбус",
+      "content": "Три..."
     },
     {
       "id": 84,
@@ -452,9 +452,9 @@
     },
     {
       "id": 89,
-      "teller": "Announcement",
-      "title": "Limbus Company HQ",
-      "content": "2..."
+      "teller": "Оповещение",
+      "title": "Штаб Компании Лимбус",
+      "content": "Два..."
     },
     {
       "id": 90,
@@ -483,9 +483,9 @@
     },
     {
       "id": 95,
-      "teller": "Announcement",
-      "title": "Limbus Company HQ",
-      "content": "1..."
+      "teller": "Оповещение",
+      "title": "Штаб Компании Лимбус",
+      "content": "Один..."
     },
     {
       "id": 96,
@@ -511,8 +511,8 @@
     },
     {
       "id": 100,
-      "teller": "Announcement",
-      "title": "Limbus Company HQ",
+      "teller": "Оповещение",
+      "title": "Штаб Компании Лимбус",
       "content": "Operation Spider Pyre. Commence Mission."
     },
     {
