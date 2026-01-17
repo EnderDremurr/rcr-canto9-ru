@@ -4,23 +4,23 @@
       "id": 0,
       "place": "Коридор Безымянного",
       "model": "싱클레어",
-      "content": "I don't see..."
+      "content": "Я никого..."
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "... anyone in here."
+      "content": "... здесь не вижу."
     },
     {
       "id": 2,
       "model": "9장소드다침",
       "teller": "Рация",
-      "content": "All teams have entered the House of Spiders according to plan. All stations, remain on alert for any movements."
+      "content": "Все команды попали в Дом Пауков согласно плану. Всем постам оставаться начеку, обращайте внимание на любые движения."
     },
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "Is everyone... okay?"
+      "content": "Все... в порядке?"
     },
     {
       "id": 4,
@@ -30,17 +30,17 @@
     {
       "id": 5,
       "model": "알리사",
-      "content": "Not really. Doc said I'll be facing some challenges in my daily life for the next few months."
+      "content": "Не совсем. Док сказал у меня будут проблемы в повседневной жизни на несколько месяцев."
     },
     {
       "id": 6,
       "model": "호엔하임2",
-      "content": "And here I was, looking forward to this rare chance of witnessing the mythical \"paid sick leave.\" I still find it baffling that you've denied yourself that opportunity."
+      "content": "И тут-же я, ждущий редкого шанса запечатлеть этот мифический \"оплачиваемый больничный.\" Мне до сих пор непонятно, почему ты отказалась от этой возможности."
     },
     {
       "id": 7,
       "model": "호엔하임2",
-      "content": "To be entirely honest, I am starting to think that you may have gone completely mad."
+      "content": "По правде, я начинаю думать что ты совсем сошла с ума."
     },
     {
       "id": 8,
@@ -55,18 +55,18 @@
     {
       "id": 10,
       "model": "싱클레어",
-      "content": "... What did they do with Mister Marton?"
+      "content": "... Как они обошлись с мистером Мартоном?"
     },
     {
       "id": 11,
       "model": "9장소드다침",
       "teller": "Рация",
-      "content": "... His remains have been retrieved."
+      "content": "... Его останки были собраны."
     },
     {
       "id": 12,
       "model": "호엔하임2",
-      "content": "Retrieved? Since when did we become part of District 14?"
+      "content": "Собраны? Когда мы успели стать частью четырнадцатого Района?"
     },
     {
       "id": 13,
