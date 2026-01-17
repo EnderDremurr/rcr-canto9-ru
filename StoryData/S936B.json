@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Corridor of the Ring",
+      "place": "Коридор Безымянного",
       "model": "싱클레어",
       "content": "I don't see..."
     },
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "model": "9장소드다침",
-      "teller": "Radio",
+      "teller": "Рация",
       "content": "All teams have entered the House of Spiders according to plan. All stations, remain on alert for any movements."
     },
     {
@@ -60,7 +60,7 @@
     {
       "id": 11,
       "model": "9장소드다침",
-      "teller": "Radio",
+      "teller": "Рация",
       "content": "... His remains have been retrieved."
     },
     {
@@ -76,7 +76,7 @@
     {
       "id": 14,
       "model": "9장소드다침",
-      "teller": "Radio",
+      "teller": "Рация",
       "content": "... Maybe they will, should the two of you return safely."
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "id": 16,
-      "place": "Limbus Company Portal Monitoring Room, some time ago",
+      "place": "Комната наблюдения за порталами Компании Лимбус, какое-то время назад",
       "model": "파우스트",
       "content": "The assignments are final. Ensure that your line-ups are in order."
     },
