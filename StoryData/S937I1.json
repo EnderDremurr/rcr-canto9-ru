@@ -4,7 +4,7 @@
       "id": 0,
       "place": "Коридор Безымянного",
       "model": "약지아비",
-      "content": "Ah! Welcome, welcome. I've been so absorbed with trimming my ingredients that I was delayed. I hope my Albina has been a most wonderful host to you all in my absence?"
+      "content": "Ах! Добро-добро пожаловать. Я был настолько увлечен подрезкой ингредиентов, что задержался. Надеюсь моя Альбина была для вас прекрасной хозяйкой во время моего отсутствия?"
     },
     {
       "id": 1,
@@ -14,17 +14,17 @@
     {
       "id": 2,
       "model": "이스마엘",
-      "content": "You..."
+      "content": "Ты..."
     },
     {
       "id": 3,
       "model": "약지제자2",
-      "content": "Yes, Maestro. They've denied my offer of friendship, but I've been trying nonetheless."
+      "content": "Да, Маэстро. Они отклонили моё предложение о дружбе, но я всё равно старалась."
     },
     {
       "id": 4,
       "model": "약지아비",
-      "content": "I see. Oh, it's such a pleasure to meet you all again. This gallery hardly ever sees visitors... so I was at once its only audience and Maestro."
+      "content": "Эту галерею мало кто посещает... так что я был одновременно и её единственным посетителем, и Маэстро."
     },
     {
       "id": 5,
@@ -44,7 +44,7 @@
     {
       "id": 8,
       "model": "싱클레어",
-      "content": "... *gag*"
+      "content": "... *рвотный рефлекс*"
     },
     {
       "id": 9,
@@ -79,12 +79,12 @@
     {
       "id": 15,
       "model": "알리사",
-      "content": "Ah... aah..."
+      "content": "А... ааа..."
     },
     {
       "id": 16,
       "model": "싱클레어",
-      "content": "Miss Alyssa...?"
+      "content": "Мисс Алисса...?"
     },
     {
       "id": 17,
@@ -94,17 +94,17 @@
     {
       "id": 18,
       "model": "약지아비",
-      "content": "So please, please do take your time as you tour through my gallery. Tell me how it all appears in your eyes—"
+      "content": "Так что пожалуйста, не спешите с осмотром моей галереи. Скажите, как оно смотрится в ваших глазах-"
     },
     {
       "id": 19,
       "model": "알리사",
-      "content": "My eyes...?"
+      "content": "В моих глазах...?"
     },
     {
       "id": 20,
       "model": "알리사",
-      "content": "I'd rather gouge out my own eyeballs, you murdering fuck...!"
+      "content": "Я лучше их вырву, ты, блядский убийца...!"
     }
   ]
 }
