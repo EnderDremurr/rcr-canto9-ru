@@ -6,7 +6,7 @@
     },
     {
       "id": "UnitKeyword_KING_OF_ALL_COCKROACHES",
-      "content": "Lord of all Roaches"
+      "content": "Лорд всех тараканов"
     },
     {
       "id": "UnitKeyword_WINGS_ULTIMATEWEAPON",
@@ -14,11 +14,11 @@
     },
     {
       "id": "UnitKeyword_EMPEROR_OF_PESTS",
-      "content": "Emperor of Pests"
+      "content": "Император насекомых"
     },
     {
       "id": "UnitKeyword_ROYAL",
-      "content": "Royalty"
+      "content": "Королевская кровь"
     },
     {
       "id": "UnitKeyword_HIDDEN_KEYWORD",
@@ -26,11 +26,11 @@
     },
     {
       "id": "UnitKeyword_SIGN_FUTURE",
-      "content": "The Sign [Future]"
+      "content": "Метка [Будущее]"
     },
     {
       "id": "UnitKeyword_SMOKE_WAR_2ND",
-      "content": "The Second Smoke War"
+      "content": "Вторая дымовая война"
     },
     {
       "id": "UnitKeyword_HIDDEN_KEYWORD_2ND",
@@ -38,11 +38,11 @@
     },
     {
       "id": "UnitKeyword_ABRAXAS_CHARIOT",
-      "content": "Abraxas Chariot"
+      "content": "Колесница Абраксаса"
     },
     {
       "id": "UnitKeyword_HEAVENLY_KILLING_STAR",
-      "content": "Tiansha Star"
+      "content": "Звезда Тянша"
     },
     {
       "id": "UnitKeyword_BIG_BROTHER_PAST",
@@ -54,11 +54,11 @@
     },
     {
       "id": "UnitKeyword_ERROR",
-      "content": "Smoke War"
+      "content": "Дымовая война"
     },
     {
       "id": "UnitKeyword_TEMPORARY_UNIT",
-      "content": "War Hero"
+      "content": "Герой войны"
     },
     {
       "id": "UnitKeyword_TEMPORARY_ASSO",
@@ -66,7 +66,7 @@
     },
     {
       "id": "UnitKeyword_MAYORS",
-      "content": "<color=#d40000><s>Maestro<s></color>"
+      "content": "<color=#d40000><s>Маэстро<s></color>"
     }
   ]
 }

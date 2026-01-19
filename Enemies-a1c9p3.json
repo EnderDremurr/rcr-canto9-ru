@@ -7,8 +7,8 @@
     },
     {
       "id": 131401,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Тело",
+      "desc": "Часть"
     },
     {
       "id": 1327,
@@ -17,7 +17,7 @@
     },
     {
       "id": 132701,
-      "name": "Body",
+      "name": "Тело",
       "desc": "The Middle Nursefather Part"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "id": 132801,
-      "name": "Body",
+      "name": "Тело",
       "desc": "The Middle Apprentice Part"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "id": 134701,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Тело",
+      "desc": "Часть"
     },
     {
       "id": 1348,
@@ -47,8 +47,8 @@
     },
     {
       "id": 134801,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Тело",
+      "desc": "Часть"
     },
     {
       "id": 1331,
@@ -57,8 +57,8 @@
     },
     {
       "id": 133101,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Тело",
+      "desc": "Часть"
     },
     {
       "id": 1332,
@@ -67,18 +67,18 @@
     },
     {
       "id": 133201,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Тело",
+      "desc": "Часть"
     },
     {
       "id": 1339,
-      "name": "The Roach Emperor",
+      "name": "Император тараканов",
       "desc": "G Corp. Weapon"
     },
     {
       "id": 133901,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Тело",
+      "desc": "Часть"
     },
     {
       "id": 1323,
@@ -92,33 +92,33 @@
     },
     {
       "id": 1343,
-      "name": "Ryōshū",
-      "desc": "Ryōshū"
+      "name": "Рёшу",
+      "desc": "Рёшу"
     },
     {
       "id": 134301,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Тело",
+      "desc": "Часть"
     },
     {
       "id": 1337,
       "name": "The Index Apprentice - Sora",
-      "desc": "Ryōshū"
+      "desc": "Рёшу"
     },
     {
       "id": 133701,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Тело",
+      "desc": "Часть"
     },
     {
       "id": 1338,
       "name": "The Pinky Apprentice - Ren",
-      "desc": "Ryōshū"
+      "desc": "Рёшу"
     },
     {
       "id": 133801,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Тело",
+      "desc": "Часть"
     }
   ]
 }

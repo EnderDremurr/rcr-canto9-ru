@@ -2,72 +2,72 @@
   "dataList": [
     {
       "id": 400009,
-      "name": "Vespa",
+      "name": "Веспа",
       "desc": "Assist Unit Name"
     },
     {
       "id": 40000901,
-      "name": "Body",
+      "name": "Тело",
       "desc": "Vespa Part"
     },
     {
       "id": 400010,
-      "name": "Moses",
+      "name": "Мозес",
       "desc": "Assist Unit Name"
     },
     {
       "id": 40001001,
-      "name": "Body",
+      "name": "Тело",
       "desc": "Moses Part"
     },
     {
       "id": 400011,
-      "name": "Ezra",
+      "name": "Эзра",
       "desc": "Assist Unit Name"
     },
     {
       "id": 40001101,
-      "name": "Body",
+      "name": "Тело",
       "desc": "Ezra Part"
     },
     {
       "id": 400007,
-      "name": "LCE E.G.O::Ardor Blossom Star Alyssa",
+      "name": "Э.Г.О LCE::Звезда пылкого цветения Алисса",
       "desc": "Assist Unit Name"
     },
     {
       "id": 40000701,
-      "name": "Body",
+      "name": "Тело",
       "desc": "Alyssa Part"
     },
     {
       "id": 400008,
-      "name": "Lobotomy E.G.O::Lamp Hohenheim",
+      "name": "Э.Г.О Лоботомии::Лампа Хохенхайм",
       "desc": "Assist Unit Name"
     },
     {
       "id": 40000801,
-      "name": "Body",
+      "name": "Тело",
       "desc": "Hohenheim Part"
     },
     {
       "id": 400013,
-      "name": "A Certain Sinclair",
+      "name": "Определённый Синклер",
       "desc": "Assist Unit Name"
     },
     {
       "id": 40001301,
-      "name": "Body",
+      "name": "Тело",
       "desc": "A Certain Sinclair Part"
     },
     {
       "id": 400015,
-      "name": "Muga Ryōshū",
+      "name": "Муга Рёшу",
       "desc": "Assist Unit Name"
     },
     {
       "id": 40001501,
-      "name": "Body",
+      "name": "Тело",
       "desc": "Ryōshū Part"
     }
   ]

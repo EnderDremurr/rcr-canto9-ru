@@ -3,128 +3,128 @@
     {
       "id": 0,
       "model": "료슈",
-      "content": "It's..."
+      "content": "Это..."
     },
     {
       "id": 1,
       "model": "료슈",
-      "content": "It's a thread."
+      "content": "Это нить."
     },
     {
       "id": 2,
       "place": "Коридор Мизинца",
-      "content": "Ryōshū wraps her fingers around the sword that pierced through the Pinky Nursefather."
+      "content": "Рёшу сжимает пальцы вокруг меча, что пронзил Опекуна Мизинца."
     },
     {
       "id": 3,
-      "content": "The blade then unravels into a single thread in her hand."
+      "content": "И меч разматывается в единую нить в её руке."
     },
     {
       "id": 4,
       "place": -1,
       "model": "료슈",
-      "content": "Children can sense it, as if by instinct:"
+      "content": "Дети чувствуют, как по инстинкту:"
     },
     {
       "id": 5,
       "model": "료슈",
-      "content": "Who loves them, who despises them,"
+      "content": "Кто их любит, кто их презирает,"
     },
     {
       "id": 6,
       "model": "료슈",
-      "content": "who means them harm, and who gives them care."
+      "content": "кто для них опасен, и кто о них заботится."
     },
     {
       "id": 7,
       "model": "료슈",
-      "content": "The Nursefathers raised me."
+      "content": "Опекуны вырастили меня."
     },
     {
       "id": 8,
       "model": "엄지아비",
-      "content": "Ticket! *burp* Ever pour rice into a bowl of vodka?"
+      "content": "Тикет! *рыг* Когда-то наваливала риса в миску водки?"
     },
     {
       "id": 9,
       "model": "료슈",
-      "content": "Each in their own distinct way,"
+      "content": "Каждый своими уникальными методами,"
     },
     {
       "id": 10,
       "model": "검지아비",
-      "content": "Darling, which story shall I read to you today?"
+      "content": "Дорогая, какую историю мне прочитать тебе сегодня?"
     },
     {
       "id": 11,
       "model": "료슈",
-      "content": "Each unchanging and uncompromising,"
+      "content": "Каждый неизменный и бескомпромиссный,"
     },
     {
       "id": 12,
       "model": "중지아비",
-      "content": "Hey, Buddy! Just say the word if you've got your eye on something! Dad'll get the whole damn shelf for you."
+      "content": "Эй, подружка! Просто скажи, если что-то понравилось! Папа купит тебе всю херову полку."
     },
     {
       "id": 13,
       "model": "료슈",
-      "content": "Each with a different measure of affection,"
+      "content": "Каждый с разной долей ласки,"
     },
     {
       "id": 14,
       "model": "약지아비",
-      "content": "Now, please take this lesson to your heart: Upon the rock of knowledge are beauty and strength built—your study of aesthetics begins now, Yoshihide, so you may one day create a gallery of your own."
+      "content": "Теперь, пожалуйста, запомни этот урок: на фундаменте знаний строятся красота и сила - твое изучение эстетики начинается сейчас, Йошихиде, чтобы однажды ты могла создать свою собственную галерею."
     },
     {
       "id": 15,
       "model": "료슈",
-      "content": "Each with their own portion of care."
+      "content": "Каждый со своей степенью заботы."
     },
     {
       "id": 16,
       "model": "소지아비2",
-      "content": "Don't you dare smile."
+      "content": "Не смей улыбаться."
     },
     {
       "id": 17,
       "model": "소지아비2",
-      "content": "I suffer in such misery—it's only fair that you suffer too."
+      "content": "Я страдаю в таких унижениях - будет справедливо страдать и тебе."
     },
     {
       "id": 18,
       "model": "료슈",
-      "content": "In spite of it all, they were my parents."
+      "content": "Несмотря ни на что, они были моими родителями."
     },
     {
       "id": 19,
       "model": "료슈",
-      "content": "A tiny life jerks and twists in my hands."
+      "content": "Крохотная жизнь дергается и извивается в моих руках."
     },
     {
       "id": 20,
       "model": "료슈",
-      "content": "It relies on me, it welcomes me—its eyes follow every movement I make."
+      "content": "Она полагается на меня, она радуется мне - её глаза следят за каждым моим движением."
     },
     {
       "id": 21,
       "model": "료슈",
-      "content": "It cannot survive on its own."
+      "content": "Она не может выжить сама по себе."
     },
     {
       "id": 22,
       "model": "료슈",
-      "content": "Without my care, its time will come to a premature end."
+      "content": "Без моей заботы, её время придет к преждевременному концу."
     },
     {
       "id": 23,
       "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
-      "content": "That feeling is called \"pity.\""
+      "content": "Это чувство называется \"жалость.\""
     },
     {
       "id": 24,
       "model": "과거료슈2",
-      "content": "Pity? What's that?"
+      "content": "Жалость? Что это?"
     },
     {
       "id": 25,
@@ -139,7 +139,7 @@
     {
       "id": 27,
       "model": "과거료슈2",
-      "content": "Yeah."
+      "content": "Ага."
     },
     {
       "id": 28,
@@ -154,7 +154,7 @@
     {
       "id": 30,
       "model": "과거료슈2",
-      "content": "Okay."
+      "content": "Ладно."
     },
     {
       "id": 31,
@@ -174,17 +174,17 @@
     {
       "id": 34,
       "model": "검지아비",
-      "content": "Because this... is the House of Spiders, darling."
+      "content": "Потому, что... это Дом пауков, дорогая.."
     },
     {
       "id": 35,
       "model": "검지아비",
-      "content": "And Spiders... <i>hunt</i>."
+      "content": "А пауки... <i>охотятся</i>."
     },
     {
       "id": 36,
       "model": "과거료슈2",
-      "content": "... Hunt."
+      "content": "... Охотятся."
     },
     {
       "id": 37,
@@ -234,17 +234,17 @@
     {
       "id": 46,
       "model": "과거료슈2",
-      "content": "... Okay. But I can still feel \"pity.\" Only I can."
+      "content": "... Ладно. Но я всё еще могу чувствовать \"жалость.\" Только я могу."
     },
     {
       "id": 47,
       "model": "과거료슈2",
-      "content": "So may I please... keep Saru?"
+      "content": "Поэтому можно, пожалуйста... оставить Сару?"
     },
     {
       "id": 48,
       "model": "검지아비",
-      "content": "You may, but I don't recommend it."
+      "content": "Можно, но я не советую."
     },
     {
       "id": 49,
@@ -281,12 +281,12 @@
       "id": 55,
       "place": "Комната Рёшу, Прошлое",
       "model": "과거료슈2",
-      "content": "... No."
+      "content": "... Нет."
     },
     {
       "id": 56,
       "model": "소지아비2",
-      "content": "\"No?\" Do you believe you can back out of this with a simple \"no?\""
+      "content": "\"Нет?\" Ты и вправду веришь, что можешь избежать всего простым \"нет?\""
     },
     {
       "id": 57,
@@ -311,7 +311,7 @@
     {
       "id": 61,
       "model": "소지아비2",
-      "content": "... Rien, give me that."
+      "content": "... Риен, дай мне вот это."
     },
     {
       "id": 62,
@@ -321,22 +321,22 @@
     {
       "id": 63,
       "model": "엄지아비",
-      "content": "Still don't know your way around Rien?"
+      "content": "Всё еще не знаешь как обращаться с Риеном?"
     },
     {
       "id": 64,
       "model": "엄지아비",
-      "content": "That crazy bitch won't even lift a finger unless you name exactly what you need."
+      "content": "Этот безумный сучонок и пальцем не двинет если не скажешь, что именно хочешь."
     },
     {
       "id": 65,
       "model": "소지아비2",
-      "content": "... Give me Zenon's Tortoise Spiral."
+      "content": "... Дай мне Черепашью спираль Зенона."
     },
     {
       "id": 66,
       "model": "검지아비",
-      "content": "Mm. Here you go."
+      "content": "Мм. Пожалуйста."
     },
     {
       "id": 67,
@@ -351,22 +351,22 @@
     {
       "id": 69,
       "model": "과거료슈2",
-      "content": "Saru!!"
+      "content": "Сару!!"
     },
     {
       "id": 70,
       "model": "소지아비2",
-      "content": "You know how to unlock it, yes?"
+      "content": "Ты знаешь как её открыть, да?"
     },
     {
       "id": 71,
       "model": "소지아비2",
-      "content": "You will get the password once you return with the job done."
+      "content": "Ты получишь пароль, когда вернешься с выполненной работой."
     },
     {
       "id": 72,
       "model": "소지아비2",
-      "content": "Delay, and Saru will die."
+      "content": "Задержись - и Сару умрет."
     },
     {
       "id": 73,
@@ -376,12 +376,12 @@
     {
       "id": 74,
       "model": "소지아비2",
-      "content": "Do you understand what it means to die?"
+      "content": "Понимаешь, что значит - умереть?"
     },
     {
       "id": 75,
       "model": "소지아비2",
-      "content": "What it means to cut deep enough to kill?"
+      "content": "Что значит - порезать так глубоко, чтобы убить?"
     },
     {
       "id": 76,
@@ -398,17 +398,17 @@
       "id": 78,
       "teller": "Target of the House of Spiders",
       "title": "???",
-      "content": "Hrrk...!"
+      "content": "Агх...!"
     },
     {
       "id": 79,
       "model": "료슈",
-      "content": "Someone I'm not acquainted with. An orange suit."
+      "content": "Кто-то, кого я не знала. Оранжевый костюм."
     },
     {
       "id": 80,
       "model": "료슈",
-      "content": "What dreadful fashion sense."
+      "content": "Какой ужасный вкус."
     },
     {
       "id": 81,
@@ -423,28 +423,28 @@
     {
       "id": 83,
       "model": "료슈",
-      "content": "To die is to have it all end."
+      "content": "Умереть - значит всему кончиться."
     },
     {
       "id": 84,
       "place": "Коридор Мизинца, Прошлое",
       "model": "과거료슈2",
-      "content": "... The password. Now."
+      "content": "... Пароль. Сейчас."
     },
     {
       "id": 85,
       "model": "소지아비2",
-      "content": "... Did you cut the target down?"
+      "content": "... Ты зарезала цель?"
     },
     {
       "id": 86,
       "model": "소지아비2",
-      "content": "It's only been... 2 hours."
+      "content": "Прошло только... два часа."
     },
     {
       "id": 87,
       "model": "과거료슈2",
-      "content": "... The password."
+      "content": "... Пароль."
     },
     {
       "id": 88,
@@ -454,7 +454,7 @@
     {
       "id": 89,
       "model": "과거료슈2",
-      "content": "Cut them all dead. Doesn't matter how."
+      "content": "Порубила всех насмерть. Неважно как."
     },
     {
       "id": 90,
@@ -474,7 +474,7 @@
     {
       "id": 93,
       "model": "료슈",
-      "content": "Saru was spared, as promised."
+      "content": "Сару помиловали, как было обещано."
     },
     {
       "id": 94,
@@ -567,12 +567,12 @@
       "id": 111,
       "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
-      "content": "Oh, this?"
+      "content": "А, это?"
     },
     {
       "id": 112,
       "model": "검지아비",
-      "content": "Sweetheart. This... is called a \"spiral.\""
+      "content": "Милая. Это... называется \"спираль.\""
     },
     {
       "id": 113,
@@ -597,22 +597,22 @@
     {
       "id": 117,
       "model": "검지아비",
-      "content": "\"Doubt.\""
+      "content": "\"Сомнение.\""
     },
     {
       "id": 118,
       "model": "과거료슈1",
-      "content": "No, Dad."
+      "content": "Нет, Пап."
     },
     {
       "id": 119,
       "model": "과거료슈1",
-      "content": "It's freeze tag!"
+      "content": "Это салочки с заморозкой!"
     },
     {
       "id": 120,
       "model": "검지아비",
-      "content": "... What's... freeze tag?"
+      "content": "... Что такое... салочки с заморозкой?"
     },
     {
       "id": 121,
@@ -622,7 +622,7 @@
     {
       "id": 122,
       "model": "검지아비",
-      "content": "I see."
+      "content": "Ясно."
     },
     {
       "id": 123,
@@ -633,7 +633,7 @@
       "id": 124,
       "place": -1,
       "model": "료슈",
-      "content": "I couldn't understand what he meant at the time."
+      "content": "Тогда я не могла понять, что он имел ввиду."
     },
     {
       "id": 125,
@@ -653,27 +653,27 @@
     {
       "id": 128,
       "model": "료슈딸",
-      "content": "Look, Mommy! I made a spiderweb. But if you twist it like this..."
+      "content": "Смотри, Мамочка! Я сделала паутинку. Но если повернуть вот так..."
     },
     {
       "id": 129,
       "model": "료슈딸",
-      "content": "Ta-da! It becomes a ladder. Cool, right?"
+      "content": "Та-да! Она становится лестничкой. Круто, правда?"
     },
     {
       "id": 130,
       "model": "과거료슈3",
-      "content": "Are you..."
+      "content": "Тебе..."
     },
     {
       "id": 131,
       "model": "과거료슈3",
-      "content": "... bored?"
+      "content": "... скучно?"
     },
     {
       "id": 132,
       "model": "료슈딸",
-      "content": "Nuh-uh! I can totally play on my own!"
+      "content": "Не-а! Я могу играть сама с собой!"
     },
     {
       "id": 133,
@@ -683,22 +683,22 @@
     {
       "id": 134,
       "model": "과거료슈3",
-      "content": "Don't you want to go to school?"
+      "content": "Не хочешь пойти в школу?"
     },
     {
       "id": 135,
       "model": "료슈딸",
-      "content": "... Whoa."
+      "content": "... Ооо."
     },
     {
       "id": 136,
       "model": "료슈딸",
-      "content": "I wanna! I wanna!"
+      "content": "Хочу! Хочу!"
     },
     {
       "id": 137,
       "model": "료슈",
-      "content": "Araya must've been around 8 years old back then."
+      "content": "Арае в тот момент должно было быть примерно восемь лет."
     },
     {
       "id": 138,
@@ -724,17 +724,17 @@
       "id": 142,
       "place": "Комната Рёшу и Араи, Прошлое",
       "model": "료슈딸2",
-      "content": "Look, Mommy!"
+      "content": "Посмотри, Мамочка!"
     },
     {
       "id": 143,
       "model": "료슈딸2",
-      "content": "It's the randoseru that's all the rage lately!"
+      "content": "Это рандосэру, такие сейчас очень популярные!"
     },
     {
       "id": 144,
       "model": "과거료슈3",
-      "content": "I know. I'm the one who bought it for you."
+      "content": "Я знаю. Это я тебе его принесла."
     },
     {
       "id": 145,
@@ -947,7 +947,7 @@
     {
       "id": 186,
       "model": "과거료슈3",
-      "content": "Dad..."
+      "content": "Пап..."
     },
     {
       "id": 187,
@@ -962,17 +962,17 @@
     {
       "id": 189,
       "model": "검지아비",
-      "content": "Don't worry. Saru..."
+      "content": "Не волнуйся. Сару..."
     },
     {
       "id": 190,
       "model": "검지아비",
-      "content": "Saru is resting peacefully in your hands."
+      "content": "Сару мирно отдыхает у тебя на руках."
     },
     {
       "id": 191,
       "model": "과거료슈3",
-      "content": "Okay..."
+      "content": "Ладно..."
     },
     {
       "id": 192,
@@ -988,17 +988,17 @@
     {
       "id": 194,
       "model": "과거료슈3",
-      "content": "so give up, shut up, and..."
+      "content": "так что успокойся, заткнись, и..."
     },
     {
       "id": 195,
       "model": "료슈딸2",
-      "content": "Mommy! Guess what I learned at school today...!"
+      "content": "Мамочка! Угадай, что я узнала сегодня в школе...!"
     },
     {
       "id": 196,
       "model": "과거료슈3",
-      "content": "Get inside."
+      "content": "Зайди внутрь."
     },
     {
       "id": 197,
@@ -1013,7 +1013,7 @@
     {
       "id": 199,
       "model": "과거료슈3",
-      "content": "I said get inside, Araya."
+      "content": "Я сказала зайди внутрь, Арайа."
     },
     {
       "id": 200,
@@ -1023,27 +1023,27 @@
     {
       "id": 201,
       "model": "료슈딸2",
-      "content": "Ookay..."
+      "content": "Ооокееей..."
     },
     {
       "id": 202,
       "model": "뇌횡",
-      "content": "Aw fiddlesticks, now that really hurts a man's heart. Coulda at least let the kid say hi to Uncle Lei Heng."
+      "content": "Ну ёлки-иголки, вот это теперь и вправду заставляет сердце мужчины болеть. Могла хотя бы дать девочке сказать привет дяде Лей Хену."
     },
     {
       "id": 203,
       "model": "과거료슈3",
-      "content": "I told you to fuck off."
+      "content": "Я сказала завали ебало."
     },
     {
       "id": 204,
       "model": "뇌횡",
-      "content": "So that peanut's yer leash, huh."
+      "content": "Выходит эта тыковка - твой поводок, хех."
     },
     {
       "id": 205,
       "model": "과거료슈3",
-      "content": "What?"
+      "content": "Что?"
     },
     {
       "id": 206,
@@ -1099,47 +1099,47 @@
     {
       "id": 216,
       "model": "료슈딸2",
-      "content": "That's not it."
+      "content": "Неправильно."
     },
     {
       "id": 217,
       "model": "료슈딸2",
-      "content": "That's not how you shorten it!"
+      "content": "Не так сокращается!"
     },
     {
       "id": 218,
       "model": "과거료슈3",
-      "content": "W.I.?"
+      "content": "Ч.Н.?"
     },
     {
       "id": 219,
       "model": "료슈딸2",
-      "content": "What?"
+      "content": "Что?"
     },
     {
       "id": 220,
       "model": "과거료슈3",
-      "content": "It means \"What do you mean It's not?\"."
+      "content": "Это значит \"Что ты имеешь ввиду под Не так?\"."
     },
     {
       "id": 221,
       "model": "료슈딸2",
-      "content": "Nooo..."
+      "content": "Нееет..."
     },
     {
       "id": 222,
       "model": "료슈딸2",
-      "content": "You're doing it wrong, Mommy!"
+      "content": "Ты делаешь неправильно, Мамочка!"
     },
     {
       "id": 223,
       "model": "료슈딸2",
-      "content": "Just follow after me."
+      "content": "Просто повторяй за мной."
     },
     {
       "id": 224,
       "model": "료슈딸2",
-      "content": "Mommy, ILY so much!"
+      "content": "Мамочка, ILY так сильно!"
     },
     {
       "id": 225,
@@ -1149,32 +1149,32 @@
     {
       "id": 226,
       "model": "료슈딸2",
-      "content": "... You didn't get it, did you?"
+      "content": "... Ты не поняла, да?"
     },
     {
       "id": 227,
       "model": "과거료슈3",
-      "content": "Nope."
+      "content": "Не-а."
     },
     {
       "id": 228,
       "model": "과거료슈3",
-      "content": "Have some watermelon, Araya."
+      "content": "Покушай немного арбузика, Арайа."
     },
     {
       "id": 229,
       "model": "료슈딸2",
-      "content": "You're supposed to say HSWA! Hmm, that doesn't work."
+      "content": "Ты должна была сказать ПНАА! Хмм, так не пойдет."
     },
     {
       "id": 230,
       "model": "료슈딸2",
-      "content": "Mmhmm. Anyway..."
+      "content": "Ммммм. Ну ладно..."
     },
     {
       "id": 231,
       "model": "료슈딸2",
-      "content": "Let's try again later."
+      "content": "Давай позже ещё раз попробуем."
     },
     {
       "id": 232,
@@ -1189,53 +1189,53 @@
     {
       "id": 234,
       "model": "료슈딸2",
-      "content": "It's pretty, right, Mommy?"
+      "content": "Оно красивое, правда, Мамочка?"
     },
     {
       "id": 235,
       "model": "과거료슈3",
-      "content": "Yeah."
+      "content": "Ага."
     },
     {
       "id": 236,
       "model": "과거료슈3",
-      "content": "M. thinks it's P."
+      "content": "М. думает, что оно К."
     },
     {
       "id": 237,
       "model": "료슈딸2",
-      "content": "Wrong again...!"
+      "content": "Опять неправильно...!"
     },
     {
       "id": 238,
       "model": "과거료슈3",
-      "content": "Heh..."
+      "content": "Хе..."
     },
     {
       "id": 239,
       "model": "뇌횡",
-      "content": "So that peanut's yer leash, huh."
+      "content": "Выходит эта тыковка - твой поводок, хех."
     },
     {
       "id": 240,
       "model": "료슈",
-      "content": "I have to get out of here. And..."
+      "content": "Мне нужно выбраться отсюда. И..."
     },
     {
       "id": 241,
       "model": "료슈",
-      "content": "I need to get her out too."
+      "content": "Мне нужно вытащить и её."
     },
     {
       "id": 242,
       "model": "료슈",
-      "content": "Before the House of Spiders decides she's no longer necessary."
+      "content": "До того, как Дом пауков решит, что она больше не нужна."
     },
     {
       "id": 243,
       "place": "Коридор Безымянного, Прошлое",
       "model": "약지아비",
-      "content": "Dearest Yoshihide, that blade..."
+      "content": "Дорожайшая Йошихиде, этот меч..."
     },
     {
       "id": 244,
@@ -1250,12 +1250,12 @@
     {
       "id": 246,
       "model": "과거료슈2",
-      "content": "Can't <i>you</i> draw the blade, Dad?"
+      "content": "А <i>ты</i> не можешь достать этот меч, Пап?"
     },
     {
       "id": 247,
       "model": "약지아비",
-      "content": "No, I cannot."
+      "content": "Нет, я не могу."
     },
     {
       "id": 248,
@@ -1271,7 +1271,7 @@
       "id": 250,
       "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
-      "content": "The name of that sword is Arayashiki."
+      "content": "Имя этого меча - Арайашики."
     },
     {
       "id": 251,
@@ -1324,7 +1324,7 @@
     {
       "id": 260,
       "model": "료슈",
-      "content": "4 times before Araya came, and 5 times after."
+      "content": "Четыре раза до появления Арайи, и пять раз после."
     },
     {
       "id": 261,
@@ -1377,7 +1377,7 @@
       "id": 270,
       "place": "Комната Рёшу и Араи, Прошлое",
       "model": "과거료슈3",
-      "content": "Araya."
+      "content": "Арайа."
     },
     {
       "id": 271,
@@ -1414,7 +1414,7 @@
     {
       "id": 277,
       "model": "검지아비",
-      "content": "You must draw the sword."
+      "content": "Ты должна обнажить меч."
     },
     {
       "id": 278,
@@ -1500,7 +1500,7 @@
       "id": 294,
       "place": "Комната Рёшу и Араи, Прошлое",
       "model": "과거료슈3",
-      "content": "Araya."
+      "content": "Арайа."
     },
     {
       "id": 295,
@@ -1515,47 +1515,47 @@
     {
       "id": 297,
       "model": "과거료슈3",
-      "content": "Come here."
+      "content": "Иди сюда."
     },
     {
       "id": 298,
       "model": "과거료슈3",
-      "content": "Wait in here for a bit."
+      "content": "Подожди немного внутри."
     },
     {
       "id": 299,
       "model": "료슈딸2",
-      "content": "Mommy?"
+      "content": "Мамочка?"
     },
     {
       "id": 300,
       "model": "과거료슈3",
-      "content": "It'll be..."
+      "content": "Будет..."
     },
     {
       "id": 301,
       "model": "과거료슈3",
-      "content": "It'll be quiet and dark, but... when you're in here, everything passes quickly."
+      "content": "Будет тихо и темно, но... когда ты внутри, время очень быстро проходит."
     },
     {
       "id": 302,
       "model": "과거료슈3",
-      "content": "Mommy... used to hide here all the time."
+      "content": "Мамочка... раньше всегда здесь пряталась."
     },
     {
       "id": 303,
       "model": "과거료슈3",
-      "content": "So stay in here and wait for me, Araya."
+      "content": "Так что сиди здесь и жди меня, Арайа."
     },
     {
       "id": 304,
       "model": "과거료슈3",
-      "content": "I promise I'll come back for you."
+      "content": "Я обещаю, я вернусь к тебе."
     },
     {
       "id": 305,
       "model": "료슈딸2",
-      "content": "Mhm! I'll be fine. I'll be waiting for you here, Mommy!"
+      "content": "Угу! Я буду в порядке! Я буду ждать тебя здесь, мамочка!"
     },
     {
       "id": 306,
@@ -1581,12 +1581,12 @@
     {
       "id": 310,
       "model": "엄지아비",
-      "content": "My eye...! No!!!!!"
+      "content": "Мой глаз...! Нет!!!!!"
     },
     {
       "id": 311,
       "model": "과거료슈3",
-      "content": "Eyeball, cut."
+      "content": "Глазное яблоко - вырезано."
     },
     {
       "id": 312,
@@ -1609,17 +1609,17 @@
       "id": 315,
       "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
-      "content": "Sweetheart."
+      "content": "Милая."
     },
     {
       "id": 316,
       "model": "검지아비",
-      "content": "You've hurt me enough. I'm in a lot of pain."
+      "content": "Ты уже достаточно ранила меня. Мне очень больно."
     },
     {
       "id": 317,
       "model": "검지아비",
-      "content": "Stop swinging that sword at me."
+      "content": "Перестань бить меня этим мечем."
     },
     {
       "id": 318,
@@ -1645,33 +1645,33 @@
     {
       "id": 322,
       "model": "료슈",
-      "content": "And then..."
+      "content": "И тогда..."
     },
     {
       "id": 323,
       "place": "Коридор Мизинца, Прошлое",
       "model": "소지아비2",
-      "content": "... Canno- be f-ee -rom -ere... wi-hou-..."
+      "content": "... Не мож-- быть с-бодн-- от -ого -ста... не- ра---ав..."
     },
     {
       "id": 324,
       "model": "소지아비2",
-      "content": "... wi-hou- -evering... -he spi-er's --read..."
+      "content": "... н- -орвав... па-учь- --ть..."
     },
     {
       "id": 325,
       "model": "과거료슈3",
-      "content": "... No..."
+      "content": "... Нет..."
     },
     {
       "id": 326,
       "model": "소지아비2",
-      "content": "Guh...!"
+      "content": "Агх...!"
     },
     {
       "id": 327,
       "model": "과거료슈3",
-      "content": "Araya..."
+      "content": "Арайа..."
     },
     {
       "id": 328,
