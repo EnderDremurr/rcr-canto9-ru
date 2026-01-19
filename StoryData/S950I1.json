@@ -4,17 +4,17 @@
       "id": 0,
       "place": "Крыша Дома пауков",
       "model": "검지아비2",
-      "content": "... If I let you go here, you will never come home again."
+      "content": "... Если я дам тебе уйти, ты больше никогда не вернешься домой."
     },
     {
       "id": 1,
       "model": "검지아비2",
-      "content": "I could force you to stay, but I'd get nothing out of it."
+      "content": "Я могу силой заставить тебя остаться, но я ничего за это не получу."
     },
     {
       "id": 2,
       "model": "검지아비2",
-      "content": "But that's still better than letting this empty regret burrow through the heart, isn't it?"
+      "content": "Но это всё еще лучше, чем давать этому пустому сожалению пронзать моё сердце, я прав?"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
     {
       "id": 4,
       "model": "검지아비2",
-      "content": "Hah. Alright. Let's get started."
+      "content": "Ха. Ладненько. Давайте начнем."
     }
   ]
 }
