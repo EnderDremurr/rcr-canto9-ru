@@ -9,17 +9,17 @@
     {
       "id": 1,
       "model": "검지아비2",
-      "content": "It was sure to burn again once you returned home anyway..."
+      "content": "Она точно бы начала снова жечь, когда ты вернулась бы домой..."
     },
     {
       "id": 2,
       "model": "검지아비2",
-      "content": "May as well get used to it, right?"
+      "content": "Думаю можно к этому и привыкнуть, верно?"
     },
     {
       "id": 3,
       "model": "료슈",
-      "content": "You talk... as if I'm gonna choose to stay."
+      "content": "Ты говоришь... будто я решу остаться."
     },
     {
       "id": 4,
@@ -29,12 +29,12 @@
     {
       "id": 5,
       "model": "검지아비2",
-      "content": "Sweetie, all would be well if you'd just stay. The House of Spiders doesn't have to disappear."
+      "content": "Милая, всё будет хорошо если ты просто останешься. Дому пауков не нужно исчезать."
     },
     {
       "id": 6,
       "model": "검지아비2",
-      "content": "So please... don't leave."
+      "content": "Так что пожалуйста... не уходи."
     }
   ]
 }
