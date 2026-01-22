@@ -4,117 +4,117 @@
       "id": 0,
       "place": "Крыша Дома пауков",
       "model": "검지아비",
-      "content": "Now, let me ask you something... do any of you remember who you just fought?"
+      "content": "Теперь, позвольте спросить... кто-то из вас помнит, с кем вы только что сражались?"
     },
     {
       "id": 1,
       "model": "검지아비",
-      "content": "They've both become so faint to me that I can't even recall their names. This can only mean... that her completion is within reach."
+      "content": "Они оба стали столь блеклыми для меня, что я не могу даже вспомнить их имён. Это может значить лишь одно... её завершение находится на расстоянии вытянутой руки."
     },
     {
       "id": 2,
       "model": "검지아비",
-      "content": "All that's left is to wait."
+      "content": "Всё, что осталось - ждать."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<... My memory's fine.>"
+      "content": "<... Моя память в порядке.>"
     },
     {
       "id": 4,
       "model": "단테",
-      "content": "<I still remember their names too. Sora and Ren.>"
+      "content": "<И имена их я всё еще помню. Сора и Рен.>"
     },
     {
       "id": 5,
       "model": "오티스",
-      "content": "Comparing your perception with mine... I can tell that this is no mere memory wipe procedure, Executive Manager."
+      "content": "Сравнивая ваше восприятие с моим... Я могу сказать, что это не какая-то процедура стирания памяти, Менеджер."
     },
     {
       "id": 6,
       "model": "오티스",
-      "content": "What the House of Spiders sought to shape Ryōshū into..."
+      "content": "То, во что Дом пауков пытался превратить Рёшу, это..."
     },
     {
       "id": 7,
       "model": "오티스",
-      "content": "... seems to be some sort of Concept Incinerator."
+      "content": "... видимо что-то вроде Сжигателя концепций."
     },
     {
       "id": 8,
       "model": "검지아비",
-      "content": "As you may well know, in the City..."
+      "content": "Как вы можете знать, в Городе..."
     },
     {
       "id": 9,
       "model": "검지아비",
-      "content": "... getting rid of anything is quite a pain."
+      "content": "... избавиться от чего-то достаточно тяжело."
     },
     {
       "id": 10,
       "model": "검지아비",
-      "content": "Tear a piece of napkin into pieces, burn it, swallow it, destroy every evidence of its existence..."
+      "content": "Разорви кусок салфетки на части, сожги её, проглоти её, уничтожь любое доказательство её существования..."
     },
     {
       "id": 11,
       "model": "검지아비",
-      "content": "But if there is even one person left to remember that it once existed, then there is also a way to dig up whatever's left of it."
+      "content": "Но если останется хоть один человек, помнящий, что она когда-то существовала - тогда будет и способ откопать что-то от неё оставшееся."
     },
     {
       "id": 12,
       "model": "뫼르소",
-      "content": "If concepts can be destroyed with a simple slash of the sword... it would indeed be a technology of an unprecedented convenience."
+      "content": "Если концепции могут быть уничтожены обычным ударом меча... это и вправду будет технологией беспрецедентного удобства."
     },
     {
       "id": 13,
       "model": "검지아비",
-      "content": "A pit that forever buries all that enters it..."
+      "content": "Яма, что навсегда закапывает то, что в неё попадёт..."
     },
     {
       "id": 14,
       "model": "검지아비",
-      "content": "... has long been a thing of dreams for many in the City."
+      "content": "... многое время была мечтой для многих в Городе."
     },
     {
       "id": 15,
       "model": "검지아비",
-      "content": "That's the reason the House of Spiders has come into being to serve."
+      "content": "Это и есть причина, по которой был создан Дом пауков."
     },
     {
       "id": 16,
       "model": "검지아비",
-      "content": "A joint enterprise of the Five Fingers... with the Thumb, the Index, the Middle, the Ring, and the Pinky as the stakeholders."
+      "content": "Совместное предприятие пяти Пальцев... с Большим, Указательным, Средним, Безымянным и Мизинцем в качестве акционеров."
     },
     {
       "id": 17,
       "model": "검지아비",
-      "content": "Everything they wish to \"forget\" can simply be thrown into this pit—to the House of Spiders, located in the heart of the abyss."
+      "content": "Всё, что они хотят \"забыть\" может просто быть сброшено в эту яму - в Дом пауков, находящийся в сердце бездны."
     },
     {
       "id": 18,
       "model": "검지아비",
-      "content": "Call it a landfill. A bottomless well where secrets can sink for all eternity. A grave where cherry blossoms bury the incidents beyond the veil of oblivion."
+      "content": "Называйте это свалкой. Бездонный колодец, где секреты могут тонуть вечность. Могила, где лепестки сакуры погребают случаи за покровом забвения."
     },
     {
       "id": 19,
       "model": "검지아비",
-      "content": "People can simply cast whatever ugly secret they want buried, whatever they'd rather forget in here, and it will never resurface—nor can it be <i>made</i> to resurface."
+      "content": "Люди могу просто сбросить сюда любой их мерзкий секрет, что они хотят похоронить, всё, что они хотят забыть, и это никогда не всплывет - и его нельзя будет <i>заставить</i> всплыть."
     },
     {
       "id": 20,
       "model": "검지아비",
-      "content": "The Nursefathers who have died, those who survived, and the rest of you who've made it all the way here... Marvelous job, everyone."
+      "content": "Опекуны, кто погибли; те, кто выжили; и каждый из вас, кто дожил до этого момента... Великолепная работа."
     },
     {
       "id": 21,
       "model": "검지아비",
-      "content": "The objective was to elevate my darling daughter into a state of complete emptiness... and to accomplish that, we had to forge a fetter; for fetters inevitably invite nihility."
+      "content": "Целью было поднять мою дорогую дочь в состояние абсолютной пустоты... и что-бы добиться этого, на нужно было сковать кандалы; ведь кандалы неизбежно приглашают ничтожность."
     },
     {
       "id": 22,
       "model": "검지아비",
-      "content": "Now, the crevice of that void... will be filled with loneliness... and transform into a veritable hell of blades that slashes away at the world until nothing of it remains."
+      "content": "Теперь, брешь этой пустоты... будет заполнена одиночеством... и превратиться в истинный ад из клинков, что будет резать мир, пока ничего не останется."
     },
     {
       "id": 23,
@@ -124,7 +124,7 @@
     {
       "id": 24,
       "model": "검지아비",
-      "content": "I always told her to quit smoking, you know... but she never listened."
+      "content": "Я всегда говорил ей перестать курить, знаете... но она никогда не слушала."
     },
     {
       "id": 25,
@@ -138,19 +138,19 @@
     },
     {
       "id": 27,
-      "content": "Right then..."
+      "content": "В этот момент..."
     },
     {
       "id": 28,
       "place": -1,
-      "content": "A voice called out to me."
+      "content": "Голос позвал меня."
     },
     {
       "id": 29,
       "model": "료슈딸2",
       "teller": "???",
       "title": "???",
-      "content": "Hey, um..."
+      "content": "Эй, ээ..."
     },
     {
       "id": 30,
@@ -160,24 +160,24 @@
     {
       "id": 31,
       "model": "료슈딸2",
-      "content": "Have you ever seen a ball of yarn?"
+      "content": "Ты когда нибудь видел шарик из пряжи?"
     },
     {
       "id": 32,
       "model": "료슈딸2",
-      "content": "The one with the two ends of the same thread touching each other."
+      "content": "Тот, где два конца одной нити касаются друг-друга."
     },
     {
       "id": 33,
       "place": -1,
       "model": "단테",
-      "content": "<Araya...?>"
+      "content": "<Арая...?>"
     },
     {
       "id": 34,
       "place": "Крыша Дома пауков",
       "model": "오티스",
-      "content": "... She <i>talked</i> to you, Executive Manager?"
+      "content": "... Она <i>говорила</i> с вами, Менеджер?"
     },
     {
       "id": 35,
@@ -205,7 +205,7 @@
     {
       "id": 40,
       "model": "단테",
-      "content": "<Ryōshū... What's happening to Ryōshū?>"
+      "content": "<Рёшу... Что случилось с Рёшу?>"
     },
     {
       "id": 41,
@@ -217,49 +217,49 @@
       "id": 42,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "Among the days I had spent with my mother..."
+      "content": "Среди дней, что я провела с мамой..."
     },
     {
       "id": 43,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "... is a day when we went to get a snack called dragon's beard candy."
+      "content": "... был день, когда мы прогулялись чтоб купить конфету, называемую Бородой дракона."
     },
     {
       "id": 44,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "First, it started off as a single strand of thread, which split into 2, then 4, then 16..."
+      "content": "Сначала, она была одним отрезком нити, который разделился на два, потом на четыре, потом на шестнадцать..."
     },
     {
       "id": 45,
       "model": "아라야20대",
-      "content": "Until it became a roll of tens of thousands of sugary strings."
+      "content": "Пока она не стала мотком десятков тысяч сахарных ниточек."
     },
     {
       "id": 46,
       "model": "아라야20대",
-      "content": "Mom and I watched it together."
+      "content": "Мы с мамой вместе на это смотрели."
     },
     {
       "id": 47,
       "model": "아라야20대",
-      "content": "And I'm watching it, even now."
+      "content": "И я на это смотрю, до сих пор."
     },
     {
       "id": 48,
       "model": "아라야10대",
-      "content": "See? I was right. Mommy had three more pieces than me."
+      "content": "Видишь? Я была права. Мама съела на три кусочка больше, чем я."
     },
     {
       "id": 49,
       "model": "아라야10대",
-      "content": "And..."
+      "content": "И..."
     },
     {
       "id": 50,
       "model": "아라야10대",
-      "content": "Those threads she's cutting off now... may appear severed..."
+      "content": "Нити, что она сейчас режет... могут показаться разорванными..."
     },
     {
       "id": 51,
@@ -292,17 +292,17 @@
     {
       "id": 56,
       "model": "아라야20대",
-      "content": "That's why..."
+      "content": "Потому..."
     },
     {
       "id": 57,
       "model": "료슈딸2",
-      "content": "I'm gonna tell her."
+      "content": "Я скажу ей."
     },
     {
       "id": 58,
       "model": "료슈딸2",
-      "content": "I'm gonna tell her, \"Thanks for coming to find me!\""
+      "content": "Скажу ей, \"Спасибо, что пришла за мной!\""
     },
     {
       "id": 59,
@@ -341,26 +341,26 @@
     {
       "id": 67,
       "model": "단테",
-      "content": "<Take this chain and let it guide your way.>"
+      "content": "<Возьми эту цепь и позволь ей провести тебя.>"
     },
     {
       "id": 68,
       "model": "단테",
-      "content": "<Go and tell her.>"
+      "content": "<Иди и скажи ей.>"
     },
     {
       "id": 69,
       "model": "단테",
-      "content": "<Tell her everything you never got to say.>"
+      "content": "<Скажи ей всё, что не смогла.>"
     },
     {
       "id": 70,
       "model": "아라야10대",
-      "content": "... This thread just might work."
+      "content": "... Эта нить может сработать."
     },
     {
       "id": 71,
-      "content": "Araya grabs the red, searing chain."
+      "content": "Арая берёт красную, раскаленную цепь."
     },
     {
       "id": 72,
@@ -369,7 +369,7 @@
     {
       "id": 73,
       "model": "료슈딸2",
-      "content": "I gotta go now. Mommy's waiting for me!"
+      "content": "Мне пора. Мамочка меня ждёт!"
     },
     {
       "id": 74,
@@ -383,57 +383,57 @@
       "id": 76,
       "place": -1,
       "model": "료슈9장다침",
-      "content": "Cut and sever."
+      "content": "Разрезать и разорвать."
     },
     {
       "id": 77,
       "model": "료슈9장다침",
-      "content": "Everything."
+      "content": "Всё."
     },
     {
       "id": 78,
       "model": "료슈9장다침",
-      "content": "Whatever they are."
+      "content": "Чем бы это ни было."
     },
     {
       "id": 79,
       "model": "료슈9장다침",
-      "content": "Whoever they are."
+      "content": "Кем бы они ни были."
     },
     {
       "id": 80,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "Mommy,"
+      "content": "Мамочка,"
     },
     {
       "id": 81,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "in the heart of every moment,"
+      "content": "в сердце каждого момента,"
     },
     {
       "id": 82,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "I hear <i>you-mom-her-mother-Ryōshū</i>."
+      "content": "Я слышу <i>тебя-маму-её-матерь-Рёшу</i>."
     },
     {
       "id": 83,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "Dear lost child of mine, should the way back home elude you..."
+      "content": "Моё дорогое, потерянное дитя, коль дорога домой ускользнёт от тебя..."
     },
     {
       "id": 84,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "... why don't we follow the thread back to the very first knot that hurt the most?"
+      "content": "... почему бы нам не последовать по нити до самого первого узла, боль от которого будет наисильнейшей."
     },
     {
       "id": 85,
       "model": "료슈딸2",
-      "content": "So how do you write your name, Mommy?"
+      "content": "Тогда, как твоё имя пишется, Мамочка?"
     },
     {
       "id": 86,
@@ -443,27 +443,27 @@
     {
       "id": 87,
       "model": "과거료슈3",
-      "content": "Go on, read it."
+      "content": "Давай, прочти."
     },
     {
       "id": 88,
       "model": "료슈딸2",
-      "content": "Uh... Ryō... shū...?"
+      "content": "Эээ... Рё... шу...?"
     },
     {
       "id": 89,
       "model": "과거료슈3",
-      "content": "No... That's not how you read those letters..."
+      "content": "Нет... Эти символы не так читаются..."
     },
     {
       "id": 90,
       "model": "과거료슈3",
-      "content": "\"Yoshihide.\" That's how you say it."
+      "content": "\"Йошихиде.\" Произносится так."
     },
     {
       "id": 91,
       "model": "료슈딸2",
-      "content": "Ryō-shū! It's prettier and easier!"
+      "content": "Рё-шу! Так красивее и проще!"
     },
     {
       "id": 92,
@@ -494,22 +494,22 @@
     {
       "id": 97,
       "model": "료슈",
-      "content": "Can you read the letters properly now?"
+      "content": "Можешь теперь прочесть эти символы правильно?"
     },
     {
       "id": 98,
       "model": "료슈딸2",
-      "content": "Mmhmm! Ya bet!"
+      "content": "Уугуу! Ещё бы!"
     },
     {
       "id": 99,
       "model": "료슈딸2",
-      "content": "But, you know..."
+      "content": "Но, знаешь..."
     },
     {
       "id": 100,
       "model": "료슈딸2",
-      "content": "I still like Ryō-shū more!"
+      "content": "Рё-шу мне всё еще больше нравится!"
     },
     {
       "id": 101,
@@ -519,17 +519,17 @@
     {
       "id": 102,
       "model": "료슈",
-      "content": "I'm sorry, Araya."
+      "content": "Мне жаль, Арая."
     },
     {
       "id": 103,
       "model": "료슈딸2",
-      "content": "That's ok."
+      "content": "Всё окей."
     },
     {
       "id": 104,
       "model": "료슈딸2",
-      "content": "I... I'm glad I was your daughter. Because..."
+      "content": "Я... Я рада, что была твоей дочерью. Потому что..."
     },
     {
       "id": 105,
@@ -568,7 +568,7 @@
     {
       "id": 112,
       "model": "과거료슈3",
-      "content": "What do you want to be... when you grow up?"
+      "content": "Кем ты хочешь быть... когда вырастешь?"
     },
     {
       "id": 113,
@@ -583,7 +583,7 @@
     {
       "id": 115,
       "model": "료슈딸2",
-      "content": "Because then, it'll be my turn to give you lots and lots of love!"
+      "content": "Потому что тогда будет моя очередь давать тебе много-премного любви!"
     },
     {
       "id": 116,
@@ -603,12 +603,12 @@
     {
       "id": 119,
       "model": "료슈딸2",
-      "content": "Mommy, I learned something new at school today."
+      "content": "Мамочка, сегодня в школе я узнала кое-что новое."
     },
     {
       "id": 120,
       "model": "료슈딸2",
-      "content": "Just follow after me."
+      "content": "Просто повторяй за мной."
     },
     {
       "id": 121,
@@ -634,30 +634,30 @@
       "id": 125,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "<i><color=#5c53e7>Come on...</i></color>"
+      "content": "<i><color=#5c53e7>Нуууу...</i></color>"
     },
     {
       "id": 126,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "<i><color=#5c53e7>That's not it...</i></color>"
+      "content": "<i><color=#5c53e7>Так неправильно...</i></color>"
     },
     {
       "id": 127,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "<i><color=#5c53e7>That's not how you shorten it...</i></color>"
+      "content": "<i><color=#5c53e7>Не так сокращается...</i></color>"
     },
     {
       "id": 128,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "<i><color=#5c53e7>I'll teach you one last time, okay?</i></color>"
+      "content": "<i><color=#5c53e7>Я научу тебя в последний раз, хорошо?</i></color>"
     },
     {
       "id": 129,
       "model": "료슈9장다침",
-      "content": "And so, little by little, I forget the smile I can never afford to lose..."
+      "content": "И теперь, понемногу, я забываю улыбку, которую не могла позволить себе потерять..."
     }
   ]
 }

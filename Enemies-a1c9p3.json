@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 1314,
-      "name": "The Thumb Nursefather - Valencina",
+      "name": "Опекун Большого - Валенчина",
       "desc": "The Thumb Nursefather"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "id": 1327,
-      "name": "The Middle Nursefather - Matthias",
+      "name": "Опекун Среднего - Маттиас",
       "desc": "The Middle Nursefather"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "id": 1328,
-      "name": "The Middle Apprentice - Kira",
+      "name": "Ученик Среднего - Кира",
       "desc": "The Middle Apprentice"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "id": 1347,
-      "name": "The Index Nursefather - Rien",
+      "name": "Опекун Указательного - Риен",
       "desc": "The Index Nursefather"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "id": 1348,
-      "name": "The Index Nursefather - Rien",
+      "name": "Опекун Указательного - Риен",
       "desc": "The Index Nursefather"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "id": 1331,
-      "name": "The Ring Nursefather - Callisto",
+      "name": "Опекун Безымянного - Каллисто",
       "desc": "The Ring Nursefather"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "id": 1332,
-      "name": "Corpus Theater",
+      "name": "Выставочное тело",
       "desc": "Unit spawned by The Ring Nursefather's Skill"
     },
     {
@@ -73,7 +73,7 @@
     {
       "id": 1339,
       "name": "Император тараканов",
-      "desc": "G Corp. Weapon"
+      "desc": "Оружие корп. G"
     },
     {
       "id": 133901,
@@ -82,13 +82,13 @@
     },
     {
       "id": 1323,
-      "name": "The Pinky Nursefather - Shiomi Yoru",
-      "desc": "The Pinky Nursefather"
+      "name": "Опекун Мизинца - Шиоми Йору",
+      "desc": "Опекун Мизинца"
     },
     {
       "id": 1324,
-      "name": "The Pinky Nursefather - ???",
-      "desc": "The Pinky Nursefather"
+      "name": "Опекун Мизинца - ???",
+      "desc": "Опекун Мизинца"
     },
     {
       "id": 1343,
@@ -102,7 +102,7 @@
     },
     {
       "id": 1337,
-      "name": "The Index Apprentice - Sora",
+      "name": "Ученик Указательного - Сора",
       "desc": "Рёшу"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "id": 1338,
-      "name": "The Pinky Apprentice - Ren",
+      "name": "Ученик Мизинца - Рен",
       "desc": "Рёшу"
     },
     {
