@@ -113,32 +113,32 @@
     {
       "id": "9SV-BAT6-BR1-1-01",
       "desc": "에즈라 알라스 1스킬 1",
-      "dlg": "Acceleration Punch!"
+      "dlg": "Удар ускорения!"
     },
     {
       "id": "9SV-BAT6-BR1-1-02",
       "desc": "에즈라 알라스 1스킬 2",
-      "dlg": "Acceleration Punch!"
+      "dlg": "Удар ускорения!"
     },
     {
       "id": "9SV-BAT6-BR1-1-03",
       "desc": "에즈라 알라스 1스킬 3",
-      "dlg": "Acceleration Punch!"
+      "dlg": "Удар ускорения!"
     },
     {
       "id": "9SV-BAT6-BR1-1-04",
       "desc": "에즈라 알라스 1스킬 4",
-      "dlg": "Acceleration Punch!"
+      "dlg": "Удар ускорения!"
     },
     {
       "id": "9SV-BAT6-BR1-1-05",
       "desc": "에즈라 알라스 1스킬 5",
-      "dlg": "Acceleration Punch!"
+      "dlg": "Удар ускорения!"
     },
     {
       "id": "9SV-BAT6-BR1-1",
       "desc": "에즈라 알라스 1스킬 6",
-      "dlg": "Acceleration Punch!"
+      "dlg": "Удар ускорения!"
     },
     {
       "id": "9SV-BAT6-BR1-3-01",
@@ -243,37 +243,37 @@
     {
       "id": "9SV-BAT6-BR4-2-01",
       "desc": "에즈라 유리아 도끼 3",
-      "dlg": "YuRia Axe!"
+      "dlg": "Топор ЮРии!"
     },
     {
       "id": "9SV-BAT6-BR4-2-02",
       "desc": "에즈라 유리아 도끼 4",
-      "dlg": "YuRia Axe!"
+      "dlg": "Топор ЮРии!"
     },
     {
       "id": "9SV-BAT6-BR4-2-03",
       "desc": "에즈라 유리아 도끼 5",
-      "dlg": "YuRia Axe!"
+      "dlg": "Топор ЮРии!"
     },
     {
       "id": "9SV-BAT6-BR4-2",
       "desc": "에즈라 유리아 도끼 6",
-      "dlg": "YuRia Axe!"
+      "dlg": "Топор ЮРии!"
     },
     {
       "id": "9SV-BAT6-BR4-5-01",
       "desc": "에즈라 유리아 도끼 7",
-      "dlg": "TAAAAKE THAAAAT!"
+      "dlg": "ПООООЛУЧААААААААЙ"
     },
     {
       "id": "9SV-BAT6-BR4-5-02",
       "desc": "에즈라 유리아 도끼 8",
-      "dlg": "TAAAAKE THAAAAT!"
+      "dlg": "ПООООЛУЧААААААААЙ"
     },
     {
       "id": "9SV-BAT6-BR4-5",
       "desc": "에즈라 유리아 도끼 9",
-      "dlg": "TAAAAKE THAAAAT!"
+      "dlg": "ПООООЛУЧААААААААЙ"
     },
     {
       "id": "9SV-BAT6-BR4-8",
@@ -423,12 +423,12 @@
     {
       "id": "9SV-BAT3-13",
       "desc": "중지 아비 스킬 2회 피격시",
-      "dlg": "You...!"
+      "dlg": "Ты...!"
     },
     {
       "id": "9SV-BAT3-13-01",
       "desc": "중지 아비 스킬 2회 피격시",
-      "dlg": "You...!"
+      "dlg": "Ты...!"
     },
     {
       "id": "9SV-BAT3-12-1",
@@ -1193,12 +1193,12 @@
     {
       "id": "9SV-BAT17-10",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 0 -> 1 될 때",
-      "dlg": "One."
+      "dlg": "Один."
     },
     {
       "id": "9SV-BAT17-11",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 1 -> 2 될 때",
-      "dlg": "Two."
+      "dlg": "Два."
     },
     {
       "id": "9SV-BAT17-12",
@@ -1208,12 +1208,12 @@
     {
       "id": "9SV-BAT17-13",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 3 -> 4 될 때",
-      "dlg": "Four."
+      "dlg": "Четыре."
     },
     {
       "id": "9SV-BAT17-14",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 4 -> 5 될 때",
-      "dlg": "Five."
+      "dlg": "Пять."
     },
     {
       "id": "9SV-BAT17-15",
@@ -1223,17 +1223,17 @@
     {
       "id": "9SV-BAT17-16",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 6 -> 7 될 때",
-      "dlg": "Seven. Two to go."
+      "dlg": "Семь. Осталось два."
     },
     {
       "id": "9SV-BAT17-17",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 7 -> 8 될 때",
-      "dlg": "Eight. One left."
+      "dlg": "Восемь. Осталось одно."
     },
     {
       "id": "9SV-BAT17-18",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 8 -> 9 될 때",
-      "dlg": "Neuf. Executed."
+      "dlg": "Neuf. Выполнено."
     },
     {
       "id": "9SV-BAT17-19",
