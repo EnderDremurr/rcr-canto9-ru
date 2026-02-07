@@ -2,91 +2,91 @@
   "dataList": [
     {
       "id": "announcer_9SV-SA1_90003_1",
-      "dlg": "Mission control, providing command support. Come on, let's finish this before the Ring Nursefather gets here.",
+      "dlg": "Центр управления миссиями, предоставляю командную поддержку. Соберитесь, давайте закончим до того, как Опекун Безымянного сюда доберется.",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_2",
-      "dlg": "Combustion reaction detected from corpse manikins! Destroy them before they're fully primed!",
+      "dlg": "У трупов-манекенов обнаружена реакция самовозгорания! Уничтожьте их до того, как они разгорятся!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_3",
-      "dlg": "Wear her down as much as possible before she— Before the sword comes at you with greater ferocity!",
+      "dlg": "Изнурите её как сможете, до того, как она- До того, как меч обрушится на вас с большей свирепостью!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_4",
-      "dlg": "Wait, I recognize that from the postmortem report—ah! R-remain on standby and don't engage! Don't attack her now!",
+      "dlg": "Постойте, я узнаю это из посмертного отчета - ах! О-оставайтесь начеку и не вступайте в схватку! Не атакуйте её сейчас!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_5",
-      "dlg": "Hohenheim's done well... The target will be neutralized soon.",
+      "dlg": "Хохенхайм хорошо справился... Цель скоро будет нейтрализована.",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_6",
-      "dlg": "You're facing a Maestro of the Ring... But there's no way around this fight. Everyone, please do your best...!",
+      "dlg": "Перед вами Маэстро Безымянного... Но вам никак не избежать этого боя. Все, пожалуйста, постарайтесь...!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_7",
-      "dlg": "One of our allies is—! Quick, destroy that effigy!",
+      "dlg": "Один из наших союзников-! Быстро, уничтожьте это чучело!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_8",
-      "dlg": "Wear her down as much as possible before she— Before the sword comes at you with greater ferocity!",
+      "dlg": "Изнурите её как сможете, до того, как она- До того, как меч обрушится на вас с большей свирепостью!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_9",
-      "dlg": "This attack'll cover the entire battlefield...! There's no time to get out of its area—you have to stand your ground and meet it head-on...!",
+      "dlg": "Эта атака покроет всё поле боя...! Нет времени убегать из её зоны - вам нужно занять позицию и принять удар...!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_10",
-      "dlg": "Miss Alyssa... What are you doing?!",
+      "dlg": "Мисс Алисса... Что ты делаешь?!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_11",
-      "dlg": "B2-Level Emergency confirmed! Please inject the wounded with the K Corp. Ampule as per the protocol.",
+      "dlg": "Подтверждена чрезвычайная ситуация уровня B2! Пожалуйста сделайте раненым инъекцию Ампулы корп. K как следует по протоколу.",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_12",
-      "dlg": "What... what is happening? Sinclair's combat parameters are...!",
+      "dlg": "Что... что происходит? Боевые параметры Синклера...!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_13",
-      "dlg": "They... they can't handle this much force from both enemies...! Th-there's got to be a way to counter this...!",
+      "dlg": "Они... они не могут справится с таким натиском от обоих врагов...! Д-должен быть способ им противостоять...!",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_14",
-      "dlg": "He wiped them all out with just a single strike...",
+      "dlg": "Он уничтожил всех, всего одним ударом...",
       "imgStr": "Saude_announcer",
       "isHide": true
     },
     {
       "id": "announcer_9SV-SA1_90003_15",
-      "dlg": "... Battle forecast updated... \"Dominating.\" Sinclair, just how...?",
+      "dlg": "... Прогноз битвы обновлен... \"Доминация.\" Синклер, но как...?",
       "imgStr": "Saude_announcer",
       "isHide": true
     }

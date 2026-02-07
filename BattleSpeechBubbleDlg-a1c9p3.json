@@ -153,32 +153,32 @@
     {
       "id": "9SV-BAT6-BR2-1-01",
       "desc": "에즈라 나미르 1스킬 1",
-      "dlg": "Five times the weight!"
+      "dlg": "В пять раз тяжелее!"
     },
     {
       "id": "9SV-BAT6-BR2-1",
       "desc": "에즈라 나미르 1스킬 2",
-      "dlg": "Five times the weight!"
+      "dlg": "В пять раз тяжелее!"
     },
     {
       "id": "9SV-BAT6-BR2-2-01",
       "desc": "에즈라 나미르 1스킬 3",
-      "dlg": "Engage Spicy Fists Mode!"
+      "dlg": "Включить режим Горячих кулаков!"
     },
     {
       "id": "9SV-BAT6-BR2-2-02",
       "desc": "에즈라 나미르 1스킬 4",
-      "dlg": "Engage Spicy Fists Mode!"
+      "dlg": "Включить режим Горячих кулаков!"
     },
     {
       "id": "9SV-BAT6-BR2-2",
       "desc": "에즈라 나미르 1스킬 5",
-      "dlg": "Engage Spicy Fists Mode!"
+      "dlg": "Включить режим Горячих кулаков!"
     },
     {
       "id": "9SV-BAT6-BR2",
       "desc": "에즈라 나미르 1스킬 6",
-      "dlg": "Engage Spicy Fists Mode!"
+      "dlg": "Включить режим Горячих кулаков!"
     },
     {
       "id": "9SV-BAT6-BR3-3-01",
@@ -353,12 +353,12 @@
     {
       "id": "9SV-BAT3-BR5-1-01",
       "desc": "중지 아비 반격 1",
-      "dlg": "C'mere!"
+      "dlg": "Ди сюда!"
     },
     {
       "id": "9SV-BAT3-BR5-1",
       "desc": "중지 아비 반격 2",
-      "dlg": "C'mere!"
+      "dlg": "Ди сюда!"
     },
     {
       "id": "9SV-BAT3-06_1",
@@ -388,27 +388,27 @@
     {
       "id": "9SV-BAT3-BR8-4-01",
       "desc": "중지 아비 4단계 3스킬",
-      "dlg": "Hah! Bullseye!"
+      "dlg": "Хах! В яблочко!"
     },
     {
       "id": "9SV-BAT3-BR8-4",
       "desc": "중지 아비 4단계 3스킬",
-      "dlg": "Hah! Bullseye!"
+      "dlg": "Хах! В яблочко!"
     },
     {
       "id": "9SV-BAT3-BR9-1-01",
       "desc": "중지 아비 4단계 반격 1",
-      "dlg": "C'mere!"
+      "dlg": "Ди сюда!"
     },
     {
       "id": "9SV-BAT3-BR9-1-02",
       "desc": "중지 아비 4단계 반격 2",
-      "dlg": "C'mere!"
+      "dlg": "Ди сюда!"
     },
     {
       "id": "9SV-BAT3-BR9-1",
       "desc": "중지 아비 4단계 반격 3",
-      "dlg": "C'mere!"
+      "dlg": "Ди сюда!"
     },
     {
       "id": "9SV-BAT3-11",
@@ -623,22 +623,22 @@
     {
       "id": "9SV-BAT8-11-2",
       "desc": "회피 스킬로 실패시",
-      "dlg": "Shit!"
+      "dlg": "Дерьмо!"
     },
     {
       "id": "9SV-BAT8-11-2-01",
       "desc": "회피 스킬로 실패시",
-      "dlg": "Shit!"
+      "dlg": "Дерьмо!"
     },
     {
       "id": "9SV-BAT8-11-2-02",
       "desc": "회피 스킬로 실패시",
-      "dlg": "Shit!"
+      "dlg": "Дерьмо!"
     },
     {
       "id": "9SV-BAT8-11-2-03",
       "desc": "회피 스킬로 실패시",
-      "dlg": "Shit!"
+      "dlg": "Дерьмо!"
     },
     {
       "id": "9SV-BAT8-12",
