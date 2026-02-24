@@ -4,7 +4,7 @@
       "id": 0,
       "place": "Коридор Безымянного, Прошлое",
       "model": "약지아비",
-      "content": "So, what do you think, Yoshihide? This concept is called \"Minimalism.\""
+      "content": "Ну, что думаешь, Йошихиде? Эта концепция называется \"Минимализм.\""
     },
     {
       "id": 1,
@@ -18,25 +18,25 @@
     },
     {
       "id": 3,
-      "teller": "Terrified Victim",
-      "title": "The Ring's Art Ingredient",
-      "content": "I'm scared..."
+      "teller": "Испуганная жертва",
+      "title": "Ингредиент для искусства Безымянного",
+      "content": "Мне страшно..."
     },
     {
       "id": 4,
-      "teller": "Terrified Victim",
-      "title": "The Ring's Art Ingredient",
-      "content": "Father... Where... are you..."
+      "teller": "Испуганная жертва",
+      "title": "Ингредиент для искусства Безымянного",
+      "content": "Отец... Где... ты..."
     },
     {
       "id": 5,
       "model": "과거료슈1",
-      "content": "Dad..."
+      "content": "Папа..."
     },
     {
       "id": 6,
       "model": "과거료슈1",
-      "content": "This is just too cruel... I don't wanna see it...!"
+      "content": "Это уж слишком жестоко... Я не хочу этого видеть...!"
     },
     {
       "id": 7,
@@ -46,7 +46,7 @@
     {
       "id": 8,
       "model": "약지아비",
-      "content": "Yoshihide, that is because you are focusing only on the present. Allow yourself to look beyond the subject's momentary suffering—and there you will discover the perpetuity of the structure we will shape from it."
+      "content": "Йошихиде, это потому, что ты фокусируешься на настоящем. Позволь себе посмотреть за мгновения страданий субъекта - там ты найдешь бессмертие структуры, что мы из него сделаем."
     },
     {
       "id": 9,
@@ -71,33 +71,33 @@
     {
       "id": 13,
       "model": "과거료슈3",
-      "content": "I'd say my tastes lean closer to..."
+      "content": "Я бы сказала, что мои вкусы ближе к..."
     },
     {
       "id": 14,
       "model": "과거료슈3",
-      "content": "... the appreciation of the negative space. Not this kind of butchershop job."
+      "content": "... любованию негативным пространством. Не к такому продукту из мясничьей лавки."
     },
     {
       "id": 15,
       "model": "약지아비",
-      "content": "Butchershop, Yoshihide? I was simply hoping to replicate the striking visual imagery of Fauvism."
+      "content": "Мясничьей лавки, Йошихиде? I was simply hoping to replicate the striking visual imagery of Fauvism."
     },
     {
       "id": 16,
-      "teller": "Dying Victim",
-      "title": "The Ring's Art Ingredient",
-      "content": "Nngh... Do you have any idea who I am?! I'm—I'm—!"
+      "teller": "Умирающая жертва",
+      "title": "Ингредиент для искусства Безымянного",
+      "content": "Нгеех... Вы хоть представляете, кто я?! Я- Я-!"
     },
     {
       "id": 17,
       "model": "과거료슈3",
-      "content": "Her squealing's getting... real grating."
+      "content": "Её визги начинают... реально раздражать."
     },
     {
       "id": 18,
       "model": "과거료슈3",
-      "content": "I prefer my canvases quiet."
+      "content": "Я предпочитаю тихие холсты."
     },
     {
       "id": 19,
@@ -107,7 +107,7 @@
     {
       "id": 20,
       "model": "약지아비",
-      "content": "I'm so happy, Yoshihide..."
+      "content": "Я так рад, Йошихиде..."
     },
     {
       "id": 21,
@@ -123,12 +123,12 @@
       "id": 23,
       "place": "Коридор Безымянного",
       "model": "약지아비",
-      "content": "How I miss those days."
+      "content": "Как я скучаю по тем временам."
     },
     {
       "id": 24,
       "model": "알리사",
-      "content": "Nngh..."
+      "content": "Аагх..."
     },
     {
       "id": 25,
@@ -138,7 +138,7 @@
     {
       "id": 26,
       "model": "이스마엘다침",
-      "content": "Alyssa...!"
+      "content": "Алисса...!"
     },
     {
       "id": 27,
@@ -148,7 +148,7 @@
     {
       "id": 28,
       "model": "알리사",
-      "content": "Agh... nngh... It... hurts... so much..."
+      "content": "Агх... кгхх... Так... так... больно..."
     },
     {
       "id": 29,
@@ -168,7 +168,7 @@
     {
       "id": 32,
       "model": "약지아비",
-      "content": "The body does not lie, after all."
+      "content": "Тело не лжёт, как-никак."
     },
     {
       "id": 33,
@@ -183,7 +183,7 @@
     {
       "id": 35,
       "model": "약지아비",
-      "content": "Precisely."
+      "content": "В точку."
     },
     {
       "id": 36,
@@ -194,41 +194,41 @@
       "id": 37,
       "model": "9장소드다침2",
       "teller": "Рация",
-      "content": "Ah..."
+      "content": "А..."
     },
     {
       "id": 38,
       "model": "9장소드다침2",
       "teller": "Рация",
-      "content": "Apologies, everyone. Let me continue."
+      "content": "Прошу прощения, ребята. Позвольте продолжить."
     },
     {
       "id": 39,
       "model": "9장소드다침2",
       "teller": "Рация",
-      "content": "... More manikins incoming. Prepare for battle."
+      "content": "... Больше манекенов наступает. Приготовьтесь к бою."
     },
     {
       "id": 40,
       "model": "이스마엘다침",
-      "content": "Dammit..."
+      "content": "Чтоб его..."
     },
     {
       "id": 41,
       "model": "9장소드다침2",
       "teller": "Рация",
-      "content": "Sinclair, listen. Let's just... focus on the mission, okay?"
+      "content": "Синклер, слушай. Давай просто... сместим фокус на миссию, ладно?"
     },
     {
       "id": 42,
       "model": "9장소드다침2",
       "teller": "Рация",
-      "content": "Don't look down, don't look away—look ahead."
+      "content": "Не смотри вниз, не смотри в сторону - смотри вперёд."
     },
     {
       "id": 43,
       "model": "싱클레어다침",
-      "content": "B-but..."
+      "content": "Н-но..."
     },
     {
       "id": 44,
@@ -245,69 +245,69 @@
     {
       "id": 46,
       "model": "약지제자2",
-      "content": "Maestro, may I share some of the remaining ingredient with Fascia? She'll be happy."
+      "content": "Маэстро, можно мне поделиться частью оставшихся ингредиентов с Фасцией? Она будет счастлива."
     },
     {
       "id": 47,
       "model": "약지아비",
-      "content": "You may, Albina."
+      "content": "Можно, Альбина."
     },
     {
       "id": 48,
       "model": "알리사",
-      "content": "Hnngh..."
+      "content": "Аагх..."
     },
     {
       "id": 49,
       "model": "9장소드다침2",
       "teller": "Рация",
-      "content": "It's time... to leave that burning village, Sinclair."
+      "content": "Время... забыть ту горящую деревню, Синклер."
     },
     {
       "id": 50,
       "model": "9장소드다침2",
       "teller": "Рация",
-      "content": "Let's leave that painful memory in the past."
+      "content": "Давай оставим это болезненное воспоминание в прошлом."
     },
     {
       "id": 51,
       "model": "싱클레어다침",
-      "content": "The past..."
+      "content": "В прошлом..."
     },
     {
       "id": 52,
       "model": "약지아비",
-      "content": "What sparked your wrath?"
+      "content": "Что побудило твой гнев?"
     },
     {
       "id": 53,
       "model": "약지아비",
-      "content": "Please, do tell. What caused you to run headlong into this premature death?"
+      "content": "Пожалуйста, скажи. Что заставило тебя броситься с головой к этой ранней смерти?"
     },
     {
       "id": 54,
       "model": "알리사",
-      "content": "Why..."
+      "content": "Зачем..."
     },
     {
       "id": 55,
       "model": "알리사",
-      "content": "If you were just after the Golden Bough, why..."
+      "content": "Если вам были нужны лишь Золотые ветви, зачем..."
     },
     {
       "id": 56,
       "model": "알리사",
-      "content": "... did you have to kill them?"
+      "content": "... было их всех убивать?"
     },
     {
       "id": 57,
       "model": "약지아비",
-      "content": "Ah, camaraderie. Even your motivation is ugly."
+      "content": "Ах, дух товарищества. Даже если твоя мотивация уродлива."
     },
     {
       "id": 58,
       "model": "약지아비",
-      "content": "To ask \"why\" the House of Spiders hunts is akin to asking someone why they exist."
+      "content": "Спрашивать \"почему\" Дом пауков охотится - то-же, что спросить человека, зачем он существует."
     },
     {
       "id": 59,
@@ -527,7 +527,7 @@
     {
       "id": 102,
       "model": "호엔하임2",
-      "content": "... Hohenheim."
+      "content": "... Хохенхайм."
     },
     {
       "id": 103,
@@ -557,7 +557,7 @@
     {
       "id": 108,
       "model": "싱클레어다침",
-      "content": "But—"
+      "content": "Но-"
     },
     {
       "id": 109,
@@ -683,7 +683,7 @@
     {
       "id": 134,
       "model": "약지제자2",
-      "content": "Maestro!"
+      "content": "Маэстро!"
     },
     {
       "id": 135,
@@ -718,7 +718,7 @@
     {
       "id": 141,
       "model": "싱클레어다침",
-      "content": "... Ishmael! Faust!"
+      "content": "... Ишмаэль! Фауст!"
     },
     {
       "id": 142,
@@ -803,7 +803,7 @@
     {
       "id": 158,
       "model": "싱클레어다침",
-      "content": "The future..."
+      "content": "Будущее..."
     },
     {
       "id": 159
@@ -811,17 +811,17 @@
     {
       "id": 160,
       "model": "싱클레어다침",
-      "content": "... Suffusing within me..."
+      "content": "... Окутывающее меня..."
     },
     {
       "id": 161,
       "model": "싱클레어다침",
-      "content": "... is a scent..."
+      "content": "... это запах..."
     },
     {
       "id": 162,
       "model": "싱클레어다침",
-      "content": "A stench..."
+      "content": "Вонь..."
     },
     {
       "id": 163,
@@ -831,12 +831,12 @@
     {
       "id": 164,
       "model": "싱클레어다침",
-      "content": "The stench that sticks... the stench of... rot..."
+      "content": "Вонь, что не смывается... зловоние... гнилья..."
     },
     {
       "id": 165,
       "model": "싱클레어다침",
-      "content": "I see..."
+      "content": "Ясно..."
     },
     {
       "id": 166,
@@ -845,7 +845,7 @@
     {
       "id": 167,
       "model": "싱클레어다침",
-      "content": "The Smoke... was blue."
+      "content": "Дым... был синим."
     },
     {
       "id": 168,
