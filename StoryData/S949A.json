@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Крыша Дома пауков",
       "model": "검지아비",
+      "place": "Крыша Дома пауков",
       "content": "Теперь, позвольте спросить... кто-то из вас помнит, с кем вы только что сражались?"
     },
     {
@@ -99,17 +99,17 @@
     {
       "id": 19,
       "model": "검지아비",
-      "content": "Люди могу просто сбросить сюда любой их мерзкий секрет, что они хотят похоронить, всё, что они хотят забыть, и это никогда не всплывет - и его нельзя будет <i>заставить</i> всплыть."
+      "content": "Люди могу просто сбросить сюда любой их мерзкий секрет, что они хотят похоронить - всё, что они хотят забыть, и это никогда не всплывет - и это нельзя будет <i>заставить</i> всплыть."
     },
     {
       "id": 20,
       "model": "검지아비",
-      "content": "Опекуны, кто погибли; те, кто выжили; и каждый из вас, кто дожил до этого момента... Великолепная работа."
+      "content": "Опекуны, что погибли; те, кто выжили; и каждый из вас, кто дожил до этого момента... Великолепная работа."
     },
     {
       "id": 21,
       "model": "검지아비",
-      "content": "Целью было поднять мою дорогую дочь в состояние абсолютной пустоты... и что-бы добиться этого, на нужно было сковать кандалы; ведь кандалы неизбежно приглашают ничтожность."
+      "content": "Целью было поднять мою дорогую дочь в состояние абсолютной пустоты... и что-бы добиться этого, нам нужно было сковать кандалы; ведь кандалы неизбежно приглашают ничтожность."
     },
     {
       "id": 22,
@@ -129,12 +129,12 @@
     {
       "id": 25,
       "model": "검지아비",
-      "content": "Perhaps my darling daughter has always recognized the aesthetics of beauty, captured within that one last drag of the cigarette."
+      "content": "Наверное моя дорогая дочь всегда осознавала эстетику красоты, заключенной в том, последнем, вдохе сигареты."
     },
     {
       "id": 26,
       "model": "검지아비",
-      "content": "How beautiful that lone ember is—consuming its own being, cutting itself loose, releasing a speck of light as it fades in self-immolation."
+      "content": "Как прекрасен этот одинокий уголёк - поглощая собственное существо, отрываясь, испуская проблеск света, пока он угасает в самосожжении."
     },
     {
       "id": 27,
@@ -142,7 +142,7 @@
     },
     {
       "id": 28,
-      "place": -1,
+      "place": "-1",
       "content": "Голос позвал меня."
     },
     {
@@ -169,38 +169,38 @@
     },
     {
       "id": 33,
-      "place": -1,
       "model": "단테",
+      "place": "-1",
       "content": "<Арая...?>"
     },
     {
       "id": 34,
-      "place": "Крыша Дома пауков",
       "model": "오티스",
+      "place": "Крыша Дома пауков",
       "content": "... Она <i>говорила</i> с вами, Менеджер?"
     },
     {
       "id": 35,
       "model": "오티스",
-      "content": "I'm afraid I didn't hear a thing. I was on high alert, entirely focused on watching the Index Nursefather and Ryōshū. It's possible I simply missed it due to the heat of the moment."
+      "content": "Я боюсь, что ничего не слышала. Я была начеку, полностью сфокусирована на наблюдением за Опекуном Указательного и Рёшу. Возможно я просто пропустила этот звук в связи с накалённостью ситуации."
     },
     {
       "id": 36,
       "model": "뫼르소",
-      "content": "Mm... I saw her clinging weakly to the Manager's ankle in a near-death state. The Manager did not make a single ticking sound, and..."
+      "content": "Мм... Я видел, как она слабо хваталась за лодыжку Менеджера в предсмертном состоянии. Менеджер не издал ни единого звука тиканья, и..."
     },
     {
       "id": 37,
-      "content": "The moment little Araya approached,"
+      "content": "В момент, когда маленькая Арая подошла,"
     },
     {
       "id": 38,
-      "content": "Memories from neither past nor present, but the future, rushed into me for a split second before scattering away."
+      "content": "Воспоминания и не из прошлого, и не из настоящего, но из будущего на мгновение поглотили меня, перед тем как рассеяться."
     },
     {
       "id": 39,
       "model": "아라야20대",
-      "content": "The more Mom tried to sever away all the threads, the more my yarn puffed up."
+      "content": "Чем больше Мама пыталась разорвать все нити, тем сильнее раздувался клубок."
     },
     {
       "id": 40,
@@ -264,30 +264,30 @@
     {
       "id": 51,
       "model": "아라야10대",
-      "content": "But that's not what it looks like to me. They're only getting longer and longer and silkier and silkier, like that candy."
+      "content": "Но для меня это так не выглядит. Они лишь становятся длиннее и длиннее, шелковистей и шелковистей, как та конфета."
     },
     {
       "id": 52,
       "model": "아라야10대",
-      "content": "Slashing away at the threads won't sever it."
+      "content": "Изрезание нитей их не разорвёт."
     },
     {
       "id": 53,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "Mother and I are tied together on every path. I see it now."
+      "content": "Мать и я связаны вместе на каждом пути. Теперь я вижу."
     },
     {
       "id": 54,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "I can also see her whitened knuckles gripping tightly onto the thread, refusing to ever let go."
+      "content": "А еще, я могу увидеть её побледневшие кулаки, крепко сжимающие эту нить, отказываясь её отпускать."
     },
     {
       "id": 55,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "How could one bear witness to those layers upon layers of time... and dismiss them as mere \"fleeting\" moments?"
+      "content": "Как кто-то может наблюдать за этими множественными слоями времени... и отмахиваться от них, как от каких-то \"мимолётных\" мгновений?"
     },
     {
       "id": 56,
@@ -311,32 +311,33 @@
     },
     {
       "id": 60,
-      "content": "It's true that the threads will keep multiplying the more Ryōshū cuts at them..."
+      "content": "Верно, что нити продолжат становиться многочисленнее, чем больше Рёшу их разрезает..."
     },
     {
       "id": 61,
-      "content": "... But eventually, the strands will be spread so thinly that they'll scatter into the murky void before they can even reach her."
+      "content": "... Но рано или поздно, отрезки распластаются так тонко, что рассеются в мутной пустоте до того, как достигнут её."
     },
     {
       "id": 62,
-      "content": "If that's the case... perhaps a chain will work instead. The same chain she already cut off, the same stubborn one that brought her back from death countless times..."
+      "content": "Если так... быть может вместо них подойдёт цепь? Та-же цепь, что она уже отрезала, та-же, упрямая, что возвращала её из мёртвых бесчисленное количество раз..."
     },
     {
-      "id": 63
+      "id": 63,
+      "content": ""
     },
     {
       "id": 64,
-      "content": "Melt down the severed chain and reforge it in the roaring kiln of one's heart."
+      "content": "Расплавь разорванную цепь, и перекуй её в ревущей печи своего сердца."
     },
     {
       "id": 65,
       "model": "단테",
-      "content": "<The resolve to sever everything, and the blade that cuts through all...>"
+      "content": "<Воля разрывать всё, и меч, что режет всё...>"
     },
     {
       "id": 66,
       "model": "단테",
-      "content": "<They both started from the same wish—the wish to protect.>"
+      "content": "<Оба из них начались из единого желания - желания защитить>"
     },
     {
       "id": 67,
@@ -364,7 +365,7 @@
     },
     {
       "id": 72,
-      "content": "Ryōshū had already severed the chain once. It was discarded in the throes of her agony, but it is <i>our</i> strand, <i>our</i> own spider's thread, woven by time itself."
+      "content": "Рёшу уже однажды разорвала цепь. Она была отвергнута в глубине её агонии, но это <i>наша</i> нить, <i>наша</i> личная паутинка, сотканная самим временем."
     },
     {
       "id": 73,
@@ -373,16 +374,16 @@
     },
     {
       "id": 74,
-      "content": "Araya makes her way toward the translucent sphere with perky and light footsteps, as if she's heading out on a picnic."
+      "content": "Арая подходит к прозрачной сфере живыми и лёгкими шагами, будто идя на пикник."
     },
     {
       "id": 75,
-      "content": "Araya has entered the fathoms of Ryōshū, and at the same time, she exists outside of her."
+      "content": "Арая ступила в глубины сознания Рёшу, и в то-же время, она существует вне её."
     },
     {
       "id": 76,
-      "place": -1,
       "model": "료슈9장다침",
+      "place": "-1",
       "content": "Разрезать и разорвать."
     },
     {
@@ -469,22 +470,23 @@
       "id": 92,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "Mommy, you wouldn't know this, but..."
+      "content": "Мамочка, ты не знаешь, но..."
     },
     {
       "id": 93,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "You never once let go of me, no matter which strand of thread I peered into."
+      "content": "Ни разу ты не отпускала меня, не важно в какую нить я заглядывала."
     },
     {
       "id": 94,
       "model": "아라야정장2",
       "teller": "Арая",
-      "content": "That's how I know the ends and the beginnings of all of our journeys."
+      "content": "Вот как я знаю концы и начала всех наших путешествий."
     },
     {
-      "id": 95
+      "id": 95,
+      "content": ""
     },
     {
       "id": 96,
@@ -533,32 +535,33 @@
     },
     {
       "id": 105,
-      "place": -1,
       "model": "료슈딸2",
-      "content": "I got to do everything I wanted to... together with you."
+      "place": "-1",
+      "content": "Мне удалось сделать всё, что я хотела.. вместе с тобой."
     },
     {
       "id": 106,
       "model": "료슈딸2",
-      "content": "There was this day I totally flubbed my guitar performance, but you were there in the front row, clapping louder than anyone..."
+      "content": "Был тот день, когда я полностью облажалась со своим выступлением на гитаре, но ты была там, на первом ряду, хлопая громче всех..."
     },
     {
       "id": 107,
       "model": "료슈딸2",
-      "content": "And the sausages in the lunchbox didn't look like octopus at all, but they were still really yummy."
+      "content": "И сосиски в ланчбоксе совсем не были похожи на осьминогов, но они всё-равно были очень вкусными."
     },
     {
       "id": 108,
       "model": "료슈딸2",
-      "content": "From the moment I saw you again, all I really felt..."
+      "content": "После того, как я снова тебя увидела, всё, что я чувствовала..."
     },
     {
       "id": 109,
       "model": "료슈딸2",
-      "content": "... was how much I missed you."
+      "content": "... было то, как сильно я по тебе скучала."
     },
     {
-      "id": 110
+      "id": 110,
+      "content": ""
     },
     {
       "id": 111,
