@@ -4,12 +4,12 @@
       "id": 0,
       "place": "Коридор Большого",
       "model": "엄지아비",
-      "content": "... Hey."
+      "content": "... Эй."
     },
     {
       "id": 1,
       "model": "엄지아비",
-      "content": "You guys are, uh... late."
+      "content": "Вы ребята, ээ... опоздали."
     },
     {
       "id": 2,
@@ -79,7 +79,7 @@
     {
       "id": 15,
       "model": "엄지아비",
-      "content": "*sigh* Ha ha. You know what?"
+      "content": "*вздох* Ха ха. Знаешь что?"
     },
     {
       "id": 16,
@@ -134,7 +134,7 @@
     {
       "id": 26,
       "model": "엄지아비",
-      "content": "Fuck you!"
+      "content": "Иди нахуй!"
     },
     {
       "id": 27,
@@ -149,12 +149,12 @@
     {
       "id": 29,
       "model": "엄지아비",
-      "content": "*sigh* Textbook. Gimme another drink."
+      "content": "*вздох* Учебник. Gimme another drink."
     },
     {
       "id": 30,
       "model": "엄지제자다침",
-      "content": "Yes, Master."
+      "content": "Да, Мастер."
     },
     {
       "id": 31,
@@ -214,17 +214,17 @@
     {
       "id": 42,
       "model": "엄지아비",
-      "content": "Ticket... Ticket's all I need to get it all back..."
+      "content": "Тикет... Тикет - это всё, что мне нужно, чтобы всё вернуть..."
     },
     {
       "id": 43,
       "model": "엄지아비",
-      "content": "My rank, in the shitter..."
+      "content": "Мой ранг, в сральне..."
     },
     {
       "id": 44,
       "model": "엄지아비",
-      "content": "All those decades wasted in this shithole..."
+      "content": "Все эти десятилетия, что я потратила в той параше..."
     },
     {
       "id": 45,
@@ -234,7 +234,7 @@
     {
       "id": 46,
       "model": "베르길리우스3",
-      "content": "... Huh."
+      "content": "... Хах."
     },
     {
       "id": 47,
@@ -296,7 +296,7 @@
     {
       "id": 58,
       "model": "과거료슈1",
-      "content": "Mom..."
+      "content": "Мама..."
     },
     {
       "id": 59,
@@ -316,7 +316,7 @@
     {
       "id": 62,
       "model": "엄지아비",
-      "content": "Hey, Ticket. Clean yourself up with this. You're not looking pretty."
+      "content": "Эй, Тикет. Clean yourself up with this. You're not looking pretty."
     },
     {
       "id": 63,
@@ -331,7 +331,7 @@
     {
       "id": 65,
       "model": "과거료슈1",
-      "content": "Hehe."
+      "content": "Хехе."
     },
     {
       "id": 66,
@@ -341,17 +341,17 @@
     {
       "id": 67,
       "model": "과거료슈1",
-      "content": "Mommy, I..."
+      "content": "Мамочка, я..."
     },
     {
       "id": 68,
       "model": "과거료슈1",
-      "content": "I'll be your Golden Ticket."
+      "content": "Я буду твоей Golden Ticket."
     },
     {
       "id": 69,
       "model": "과거료슈1",
-      "content": "Not some s-sh-shitty scrap paper."
+      "content": "Не какой-то г-го-говняной бумажкой."
     },
     {
       "id": 70,
@@ -361,12 +361,12 @@
     {
       "id": 71,
       "model": "엄지아비",
-      "content": "Can you really do that for me, Ticket?"
+      "content": "Правда сможешь сделать это ради меня, Тикет?"
     },
     {
       "id": 72,
       "model": "과거료슈1",
-      "content": "Yes!"
+      "content": "Да!"
     },
     {
       "id": 73,
@@ -417,7 +417,7 @@
     {
       "id": 82,
       "model": "엄지제자다침",
-      "content": "Yes, Master."
+      "content": "Да, Мастер."
     },
     {
       "id": 83,
@@ -452,7 +452,7 @@
     {
       "id": 89,
       "model": "히스클리프",
-      "content": "Huh..."
+      "content": "Хах..."
     },
     {
       "id": 90,

@@ -14,12 +14,12 @@
     {
       "id": 2,
       "model": "오티스",
-      "content": "Executive Manager, the Golden Bough's location is...?"
+      "content": "Менеджер, местоположение Золотой ветви...?"
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<It's not here. But it's not far, either.>"
+      "content": "<Она не здесь. Но и не далеко, тоже.>"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
     {
       "id": 5,
       "model": "단테",
-      "content": "<Yeah, that's the plan.>"
+      "content": "<Да, таков план.>"
     },
     {
       "id": 6,
@@ -49,12 +49,12 @@
       "id": 9,
       "place": "Коридор Указательного",
       "model": "검지아비",
-      "content": "You're home."
+      "content": "Ты дома."
     },
     {
       "id": 10,
       "model": "검지아비",
-      "content": "I was just thinking about you."
+      "content": "Я как раз думал о тебе."
     },
     {
       "id": 11,
@@ -190,7 +190,7 @@
     {
       "id": 38,
       "model": "료슈",
-      "content": "Just answer my question."
+      "content": "Просто ответь на мой вопрос."
     },
     {
       "id": 39,
@@ -306,17 +306,17 @@
     {
       "id": 61,
       "model": "검지아비",
-      "content": "And you, sweetie..."
+      "content": "И ты, милая..."
     },
     {
       "id": 62,
       "model": "검지아비",
-      "content": "... you like these books too, don't you?"
+      "content": "... ты любишь эти книги, я прав?"
     },
     {
       "id": 63,
       "model": "과거료슈2",
-      "content": "... I don't hate them."
+      "content": "... Не ненавижу."
     },
     {
       "id": 64,
@@ -366,7 +366,7 @@
     {
       "id": 73,
       "model": "검지아비",
-      "content": "Yes. I'll swallow a thousand needles."
+      "content": "Да. Я проглочу тысячу иголок."
     },
     {
       "id": 74,

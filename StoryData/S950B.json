@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Крыша Дома пауков",
       "model": "검지아비",
+      "place": "Крыша Дома пауков",
       "content": "Милая."
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "id": 5,
-      "content": "She emerges, her fingers around the scabbard closed from all that leaves and lives."
+      "content": "Она поднимается, её пальцы вокруг ножен, закрытых от всего, что уходит и живёт."
     },
     {
       "id": 6,
       "model": "검지아비",
-      "content": "You sent away the most precious thing in the world with your own hands."
+      "content": "Ты собственными руками отправила вдаль самую дорогу вещь в мире."
     },
     {
       "id": 7,
@@ -57,17 +57,17 @@
     {
       "id": 11,
       "model": "료슈9장이후노담배",
-      "content": "Right."
+      "content": "Верно."
     },
     {
       "id": 12,
       "model": "료슈9장이후노담배",
-      "content": "I've lost... everything."
+      "content": "Я потеряла... всё."
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<That's not true, Ryōshū.>"
+      "content": "<Это не правда, Рёшу.>"
     },
     {
       "id": 14,
@@ -76,7 +76,7 @@
     },
     {
       "id": 15,
-      "content": "Ryōshū slowly opens her fist..."
+      "content": "Рёшу медленно разжимает свой кулак..."
     },
     {
       "id": 16,
@@ -139,17 +139,17 @@
     {
       "id": 28,
       "model": "료슈9장이후노담배",
-      "content": "... Is there even a single thing about you..."
+      "content": "... В тебе есть хоть одна вещь..."
     },
     {
       "id": 29,
       "model": "료슈9장이후노담배",
-      "content": "... that doesn't come from the Prescripts?"
+      "content": "... что не была решена Предписанием?"
     },
     {
       "id": 30,
       "model": "검지아비",
-      "content": "Hmm... now that you mention it, sweetie..."
+      "content": "Хмм... now that you mention it, sweetie..."
     },
     {
       "id": 31,
@@ -159,22 +159,22 @@
     {
       "id": 32,
       "model": "검지아비",
-      "content": "One day, the Prescript told me to change my name,"
+      "content": "В один день, Предписание сказало мне сменить имя,"
     },
     {
       "id": 33,
       "model": "검지아비",
-      "content": "so I made a new one."
+      "content": "поэтому я придумал новое."
     },
     {
       "id": 34,
       "model": "검지아비",
-      "content": "One day, the Prescript told me to start a family,"
+      "content": "В один день, Предписание сказало мне завести семью,"
     },
     {
       "id": 35,
       "model": "검지아비",
-      "content": "so I got married and raised a child."
+      "content": "поэтому я поженился и вырастил ребенка."
     },
     {
       "id": 36,
@@ -254,7 +254,7 @@
     {
       "id": 51,
       "model": "검지아비",
-      "content": "That is why I must remain in the House of Spiders."
+      "content": "Это и есть причина, по которой я должен остаться в Доме пауков."
     }
   ]
 }

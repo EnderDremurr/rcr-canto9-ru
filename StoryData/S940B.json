@@ -19,7 +19,7 @@
     {
       "id": 3,
       "model": "료슈",
-      "content": "Hasn't changed a bit, this place."
+      "content": "Совсем не изменилось, это место."
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
       "id": 10,
       "place": -1,
       "model": "료슈딸",
-      "content": "Mommy... Mommy!"
+      "content": "Мамочка... Мамочка!"
     },
     {
       "id": 11,
@@ -62,7 +62,7 @@
     {
       "id": 12,
       "model": "과거료슈3",
-      "content": "... No."
+      "content": "... Нет."
     },
     {
       "id": 13,
@@ -77,17 +77,17 @@
     {
       "id": 15,
       "model": "료슈딸",
-      "content": "It's \"ran-do-seru\"!"
+      "content": "Это \"ран-до-серу\"!"
     },
     {
       "id": 16,
       "model": "료슈딸",
-      "content": "'Cause I'm still in elementary school! <i>Ele-men-tary</i>!"
+      "content": "Потому что я всё еще в начальной школе! <i>На-чаль-ной</i>!"
     },
     {
       "id": 17,
       "model": "과거료슈3",
-      "content": "Have some watermelon. It's sweet."
+      "content": "Покушай арбузика. Он сладкий."
     },
     {
       "id": 18,
@@ -97,37 +97,37 @@
     {
       "id": 19,
       "model": "료슈딸",
-      "content": "No way. It's super sweet... This watermelon's the GOAT!"
+      "content": "Ну нет. Такой сладкий... Этот арбузик реально GOAT!"
     },
     {
       "id": 20,
       "model": "과거료슈3",
-      "content": "... Uh-huh."
+      "content": "... Ага."
     },
     {
       "id": 21,
       "model": "료슈딸",
-      "content": "... You didn't get it, did you?"
+      "content": "... Ты не поняла, да?"
     },
     {
       "id": 22,
       "model": "과거료슈3",
-      "content": "Nuh-uh..."
+      "content": "Не-а..."
     },
     {
       "id": 23,
       "model": "료슈딸",
-      "content": "GOAT means \"Greatest Of All Time!\""
+      "content": "GOAT значит \"Greatest Of All Time!\""
     },
     {
       "id": 24,
       "model": "과거료슈3",
-      "content": "... Unnecessary shortening, in my opinion."
+      "content": "... Необязательное сокращение, как мне кажется."
     },
     {
       "id": 25,
       "model": "료슈딸",
-      "content": "You mean \"IMO?\""
+      "content": "Ты имеешь ввиду \"КМК?\""
     },
     {
       "id": 26,
@@ -152,7 +152,7 @@
     {
       "id": 30,
       "model": "료슈딸",
-      "content": "But Mommy, it'll be fun."
+      "content": "Но Мамочка, будет весело."
     },
     {
       "id": 31,
@@ -162,7 +162,7 @@
     {
       "id": 32,
       "model": "료슈딸",
-      "content": "You gotta learn these if you dun wanna fall behind! Seriously, SMH!"
+      "content": "You gotta learn these if you dun wanna fall behind! Серьёзно, SMH!"
     },
     {
       "id": 33,
@@ -172,32 +172,32 @@
     {
       "id": 34,
       "model": "료슈딸",
-      "content": "It means... \"<b>S</b>haking... <b>M</b>y... <b>H</b>ead.\" Ta-da! And that's SMH!"
+      "content": "Это значит... \"<b>S</b>haking... <b>M</b>y... <b>H</b>ead.\" Та-да! И получается SMH!"
     },
     {
       "id": 35,
       "model": "료슈딸",
-      "content": "... Aaaand this is how ya shorten the other ones."
+      "content": "... Иииии вот так ты сокращаешь остальные."
     },
     {
       "id": 36,
       "model": "료슈딸",
-      "content": "Look, look! Okie?"
+      "content": "Смотри, смотри! Оки?"
     },
     {
       "id": 37,
       "model": "과거료슈3",
-      "content": "Yep."
+      "content": "Агась."
     },
     {
       "id": 38,
       "model": "료슈딸",
-      "content": "Ugh, SMH! Try this one!"
+      "content": "Уу, SMH! Попробуй это!"
     },
     {
       "id": 39,
       "model": "과거료슈3",
-      "content": "Nodding M.H."
+      "content": "Киваю С.Г."
     },
     {
       "id": 40,
@@ -309,7 +309,7 @@
       "id": 61,
       "teller": "???",
       "title": "???",
-      "content": "... Bya!"
+      "content": "... Бя!"
     },
     {
       "id": 62,
@@ -359,7 +359,7 @@
     {
       "id": 71,
       "model": "중지아비",
-      "content": "So... what's her name gonna be?"
+      "content": "Тогда... какое будет её имя?"
     },
     {
       "id": 72,
@@ -369,7 +369,7 @@
     {
       "id": 73,
       "model": "검지아비",
-      "content": "... Mm."
+      "content": "... Мм."
     },
     {
       "id": 74,
@@ -379,17 +379,17 @@
     {
       "id": 75,
       "model": "엄지아비",
-      "content": "... Says the Prescript?"
+      "content": "... Говорит Предписание?"
     },
     {
       "id": 76,
       "model": "검지아비",
-      "content": "Yes."
+      "content": "Да."
     },
     {
       "id": 77,
       "model": "엄지아비",
-      "content": "*puff* Well, whatever your precious Prescript says goes, right? It's better than crap like Elisa or whatever, anyway."
+      "content": "*пых* Well, whatever your precious Prescript says goes, right? It's better than crap like Elisa or whatever, anyway."
     },
     {
       "id": 78,
@@ -400,7 +400,7 @@
       "id": 79,
       "teller": "???",
       "title": "???",
-      "content": "... Mya!"
+      "content": "... Мя!"
     },
     {
       "id": 80,
@@ -460,7 +460,7 @@
     {
       "id": 91,
       "model": "검지아비",
-      "content": "Hm..."
+      "content": "Хм..."
     },
     {
       "id": 92,
@@ -481,18 +481,18 @@
       "id": 95,
       "teller": "???",
       "title": "???",
-      "content": "... Ma!"
+      "content": "... Ма!"
     },
     {
       "id": 96,
       "model": "소지아비2",
-      "content": "You... "
+      "content": "Ты... "
     },
     {
       "id": 97,
       "teller": "???",
       "title": "???",
-      "content": "... Bya!"
+      "content": "... Бя!"
     },
     {
       "id": 98,
@@ -512,7 +512,7 @@
     {
       "id": 101,
       "model": "소지아비2",
-      "content": "And then you happened."
+      "content": "И потом случилась ты."
     },
     {
       "id": 102,
@@ -552,12 +552,12 @@
     {
       "id": 109,
       "model": "소지아비2",
-      "content": "Okay?"
+      "content": "Окей?"
     },
     {
       "id": 110,
       "model": "과거료슈3",
-      "content": "... *puff*"
+      "content": "... *пых*"
     },
     {
       "id": 111,
@@ -567,17 +567,17 @@
     {
       "id": 112,
       "model": "소지아비2",
-      "content": "Have you started smoking?"
+      "content": "Ты начала курить?"
     },
     {
       "id": 113,
       "model": "과거료슈3",
-      "content": "Yeah."
+      "content": "Ага."
     },
     {
       "id": 114,
       "model": "소지아비2",
-      "content": "... Give me a light."
+      "content": "... Подкури."
     },
     {
       "id": 115,
@@ -731,7 +731,7 @@
     {
       "id": 145,
       "model": "소지아비",
-      "content": "Or..."
+      "content": "Или..."
     },
     {
       "id": 146,
@@ -801,7 +801,7 @@
     {
       "id": 159,
       "model": "소지아비",
-      "content": "... No."
+      "content": "... Нет."
     },
     {
       "id": 160,
@@ -827,12 +827,12 @@
       "id": 164,
       "place": -1,
       "model": "료슈딸",
-      "content": "... mmy!"
+      "content": "... очка!"
     },
     {
       "id": 165,
       "model": "료슈딸",
-      "content": "It's Mommy!"
+      "content": "Это Мамочка!"
     }
   ]
 }

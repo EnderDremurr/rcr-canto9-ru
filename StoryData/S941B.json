@@ -145,12 +145,12 @@
       "id": 28,
       "place": "Коридор Большого",
       "model": "엄지아비",
-      "content": "You're back."
+      "content": "Ты вернулась."
     },
     {
       "id": 29,
       "model": "과거료슈3",
-      "content": "... I am."
+      "content": "... Да."
     },
     {
       "id": 30,
@@ -205,12 +205,12 @@
     {
       "id": 40,
       "model": "엄지아비",
-      "content": "By the way, Ticket?"
+      "content": "Кстати, Тикет?"
     },
     {
       "id": 41,
       "model": "엄지아비",
-      "content": "About that thing in your bag..."
+      "content": "Насчёт этой штуковины в твоей сумке..."
     },
     {
       "id": 42,
@@ -225,7 +225,7 @@
     {
       "id": 44,
       "model": "과거료슈3",
-      "content": "I can... keep her?"
+      "content": "Я могу... оставить её?"
     },
     {
       "id": 45,
@@ -240,23 +240,23 @@
     {
       "id": 47,
       "model": "과거료슈3",
-      "content": "... Okay."
+      "content": "... Окей."
     },
     {
       "id": 48,
       "place": "Комната Рёшу, Прошлое",
       "model": "료슈딸연구실",
-      "content": "See, see?"
+      "content": "Видишь, видишь?"
     },
     {
       "id": 49,
       "model": "료슈딸연구실",
-      "content": "I'm good at hiding, right?"
+      "content": "Я хорошо прячусь, да?"
     },
     {
       "id": 50,
       "model": "과거료슈3",
-      "content": "... You are."
+      "content": "... Да."
     },
     {
       "id": 51,
@@ -271,7 +271,7 @@
     {
       "id": 53,
       "model": "료슈딸연구실",
-      "content": "Uh-huh, not half bad."
+      "content": "Ага, not half bad."
     },
     {
       "id": 54,
@@ -291,17 +291,17 @@
     {
       "id": 57,
       "model": "과거료슈3",
-      "content": "You do."
+      "content": "У тебя есть."
     },
     {
       "id": 58,
       "model": "과거료슈3",
-      "content": "... So..."
+      "content": "... Тогда..."
     },
     {
       "id": 59,
       "model": "과거료슈3",
-      "content": "... what do you want to do now?"
+      "content": "... чем теперь хочешь заняться?"
     },
     {
       "id": 60,
@@ -311,7 +311,7 @@
     {
       "id": 61,
       "model": "료슈딸연구실",
-      "content": "Wanna learn to play music, and, uh... Wanna..."
+      "content": "Хочу научиться играть музыку, и, аа... Хочу..."
     },
     {
       "id": 62,
@@ -353,7 +353,7 @@
       "id": 69,
       "place": -1,
       "model": "료슈딸2",
-      "content": "Mommy..."
+      "content": "Мамочка..."
     },
     {
       "id": 70,
@@ -513,7 +513,7 @@
       "id": 100,
       "place": -1,
       "model": "과거료슈3",
-      "content": "Dihui Star, you..."
+      "content": "Звезда Дихуэй, ты..."
     },
     {
       "id": 101,
@@ -568,7 +568,7 @@
     {
       "id": 111,
       "model": "과거료슈3",
-      "content": "Shut up!"
+      "content": "Заткнись!"
     },
     {
       "id": 112
@@ -603,22 +603,22 @@
       "id": 118,
       "place": -1,
       "model": "소지아비2",
-      "content": "... -ou..."
+      "content": "... -ы..."
     },
     {
       "id": 119,
       "model": "소지아비2",
-      "content": "... -ou..."
+      "content": "... -ы..."
     },
     {
       "id": 120,
       "model": "소지아비2",
-      "content": "... Canno- be f-ee -rom -ere... wi-hou-..."
+      "content": "... Не може- осв-иться -т -юда... б-з..."
     },
     {
       "id": 121,
       "model": "소지아비2",
-      "content": "... wi-hou- -evering... -he spi-er's --read..."
+      "content": "... б-з -вания... пау-ей --ти..."
     },
     {
       "id": 122,
