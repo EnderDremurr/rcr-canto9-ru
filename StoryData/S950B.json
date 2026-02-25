@@ -37,22 +37,22 @@
     {
       "id": 7,
       "model": "검지아비",
-      "content": "Everything that made up that child... has now been cut away because of you."
+      "content": "Всё, что было этим ребёнком... теперь отрезано из-за тебя."
     },
     {
       "id": 8,
       "model": "검지아비",
-      "content": "What you returned here for, what you wished to protect, what you longed to meet again..."
+      "content": "Ради чего ты сюда вернулась, что ты желала защитить, что ты жаждала снова встретить..."
     },
     {
       "id": 9,
       "model": "검지아비",
-      "content": "All of it is gone now. You have nothing left."
+      "content": "Всё это пропало. У тебя ничего не осталось."
     },
     {
       "id": 10,
       "model": "검지아비",
-      "content": "We on the outside, we still remember... But ironically, it was within yourself that it all passed into oblivion."
+      "content": "Мы, снаружи, мы всё ещё помним... Но иронично, это внутри тебя - где всё кануло в забвение."
     },
     {
       "id": 11,
@@ -72,7 +72,7 @@
     {
       "id": 14,
       "model": "단테",
-      "content": "<You're still holding it in your hand.>"
+      "content": "<Ты всё еще держишь её в руке.>"
     },
     {
       "id": 15,
@@ -80,11 +80,11 @@
     },
     {
       "id": 16,
-      "content": "... as if she wasn't aware she'd been clenching it."
+      "content": "... будто она не осознавала, что крепко её сжимала."
     },
     {
       "id": 17,
-      "content": "Resting in her palm, the scabbard presses against her skin, its shape and weight filling her senses."
+      "content": "Лежа в ёё ладони, ножны прижимаются к её коже, их форма и вес наполняя её чувства."
     },
     {
       "id": 18,
@@ -119,12 +119,12 @@
     {
       "id": 24,
       "model": "료슈9장이후노담배",
-      "content": "And had I reached completion..."
+      "content": "И достигнув я завершения..."
     },
     {
       "id": 25,
       "model": "료슈9장이후노담배",
-      "content": "What would <i>you</i> have had left?"
+      "content": "Что бы осталось у <i>тебя</i>?"
     },
     {
       "id": 26,
@@ -134,7 +134,7 @@
     {
       "id": 27,
       "model": "검지아비",
-      "content": "Only Hermes, who deigns to grace me with the whispers, would know the answer to that."
+      "content": "Только Хермес, кто милует меня своими шёпотами, может знать на это ответ."
     },
     {
       "id": 28,
@@ -149,12 +149,12 @@
     {
       "id": 30,
       "model": "검지아비",
-      "content": "Хмм... now that you mention it, sweetie..."
+      "content": "Хмм... раз ты заговорила об этом, милая..."
     },
     {
       "id": 31,
       "model": "검지아비",
-      "content": "I suppose there really isn't."
+      "content": "Я полагаю нет и вправду ничего."
     },
     {
       "id": 32,
@@ -179,77 +179,77 @@
     {
       "id": 36,
       "model": "검지아비",
-      "content": "Then another day, the Prescript told me that someone would be killed right before my eyes, and that I was to do nothing but watch it happen."
+      "content": "И в другой день, Предписание сказало мне, что кого-то убьют прямо перед моими глазами, и что я должен не делать ничего, кроме как позволить этому случиться."
     },
     {
       "id": 37,
       "model": "검지아비",
-      "content": "And so, I waited... without lifting a finger."
+      "content": "И так, я ждал... не поведя пальцем."
     },
     {
       "id": 38,
       "model": "검지아비",
-      "content": "Even in their final moments, my wife and child never understood why I simply watched it happen to them."
+      "content": "Даже в их последние мгновения, моя жена и ребёнок никак не понимали, почему я просто смотрел, как с ними это происходит."
     },
     {
       "id": 39,
       "model": "료슈9장이후노담배",
-      "content": "And you just... accepted that?"
+      "content": "И ты просто... принял это?"
     },
     {
       "id": 40,
       "model": "검지아비",
-      "content": "Hmm... Do you think I shouldn't have?"
+      "content": "Хмм... Думаешь, не должен был?"
     },
     {
       "id": 41,
       "model": "검지아비",
-      "content": "Darling, remember that story about a spider that wanted to leave its web?"
+      "content": "Дорогая, помнишь ту историю о пауке, что хотел покинуть свою паутину?"
     },
     {
       "id": 42,
       "model": "검지아비",
-      "content": "Unsatisfied with merely gazing upon the sky, it wished to be free of its webs."
+      "content": "Неудовлетворённый лишь банальным созерцанием неба, он хотел освободиться от своей паутины."
     },
     {
       "id": 43,
       "model": "검지아비",
-      "content": "Seeing that, a long-lived chrysalis, who was as wise as it was old, told the Spider...."
+      "content": "Видя это, пожилая куколка, что была так-же мудра, как и стара, сказала Пауку..."
     },
     {
       "id": 44,
       "model": "검지아비",
-      "content": "... to circle its web 3,000 times. If nothing changes, another 3,000 times. Another set should nothing change still."
+      "content": "... обойти свою паутину вокруг три тысячи раз. Если ничего не изменится, ещё три тысячи раз. И ещё раз, коль ничего всё-равно не измениться."
     },
     {
       "id": 45,
       "model": "검지아비",
-      "content": "Round and round, the hopeful spider circled its web more times than it could count, yet even after thousands of repetitions... all it saw was the same old web."
+      "content": "Круг за кругом, обнадёженный паук кружился по своей паутине больше раз, чем мог сосчитать, но даже после тысячи повторов... всё что он видел - была лишь та-же, старая паутина."
     },
     {
       "id": 46,
       "model": "검지아비",
-      "content": "The spider, full of despair, went to confront the chrysalis, who had now metamorphosed into a butterfly. \"I have circled my web countless times,\" it said. \"Why hasn't anything changed?\""
+      "content": "Паук, полный отчаяния, стал пред куколкой, что к этому моменту превратилась в бабочку. \"Я обошёл свою паутину несличенное количество раз,\" - сказал он. \"Почему ничего не изменилось?\""
     },
     {
       "id": 47,
       "model": "검지아비",
-      "content": "Flying off into the distance, the butterfly answered:"
+      "content": "Улетая вдаль, бабочка ответила:"
     },
     {
       "id": 48,
       "model": "검지아비",
-      "content": "\"Resign yourself to the fact that you are forever bound to the web, and close your heart to the beautiful sky above until it ceases to stir any feelings in you.\""
+      "content": "\"Смирись с фактом того, что ты навсегда связан с паутиной, и закрой своё сердце от прекрасного неба над тобой, пока оно не перестанет вызывать в тебе хоть какие-то чувства.\""
     },
     {
       "id": 49,
       "model": "검지아비",
-      "content": "\"That is the only way to be truly free of the web.\""
+      "content": "\"Это единственный способ быть поистине свободным от паутины.\""
     },
     {
       "id": 50,
       "model": "검지아비",
-      "content": "My darling daughter, you'll end up losing everything if you let yourself be shackled by what gives you these feelings—happiness, wrath, sorrow, joy... Because once you get a taste of them, you'll learn the truth that to live is to suffer."
+      "content": "Моя дорогая дочь, в конце концов ты потеряешь всё, если позволишь себе быть скованной тем, что вызывает в тебе эти чувства - счастье, гнев, грусть, радость... Потому что, как только ты попробуешь их на вкус, ты познаешь истину, что жить - значит страдать."
     },
     {
       "id": 51,
