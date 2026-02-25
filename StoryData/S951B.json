@@ -38,7 +38,7 @@
     },
     {
       "id": 9,
-      "content": "был обнаружен красный рюкзак, с ярлыком, заполненным детским неряшливым почерком..."
+      "content": "был обнаружен красный рюкзак, с ярлыком, заполненным детским, неряшливым почерком..."
     },
     {
       "id": 10,
@@ -322,25 +322,25 @@
       "teller": "Рациональная и Талантливая Фауст",
       "title": "Гесселшафт",
       "place": "???",
-      "content": "... It has been some time since one such means of oral communication was engaged."
+      "content": "... Прошло некоторое время с тех пор, как такие способы оральной коммуникации были задействованы."
     },
     {
       "id": 69,
       "teller": "Несгибаемая, Предприимчивая и Сообразительная Фауст",
       "title": "Гесселшафт",
-      "content": "This macabre atmosphere... It seems the congregation this time is in the form of levitating stones. A fitting representation for the discussion of serious agenda... However, there are no subjects that rise to such gravity at present."
+      "content": "Эта мрачная атмосфера... Видимо собрание в этот раз проходит в форме левитирующих камней. Подходящая репрезентация для дискуссии серьёзной темы... Однако, нет тем, поднимающих такую серьёзность, на данный момент. "
     },
     {
       "id": 70,
       "teller": "Почтенная и Великодушная Фауст",
       "title": "Гесселшафт",
-      "content": "Which Faust is the audacious Faust that dared to force-convene a \"Classical Walpurgisnacht\" at such a busy moment as this?"
+      "content": "Какая Фауст - та бесстрашная Фауст, что посмела принудительно созвать \"Классическую Вальпургиеву ночь\" в такой загруженный момент?"
     },
     {
       "id": 71,
       "teller": "Прекрасная и Пронырливая Фауст",
       "title": "Гесселшафт",
-      "content": "It is unimaginable that such an ignorant and tactless Faust should exist among Fausts... save for \"Naive Faust.\""
+      "content": "Непредставимо, что настолько недалёкая и бестактная Фауст может существовать среди Фауст... кроме как \"Наивная Фауст.\""
     },
     {
       "id": 72,
@@ -360,31 +360,31 @@
       "model": "파우스트",
       "teller": "Наивная Фауст?",
       "title": "Гесселшафт",
-      "content": "Yes. This meeting has been convened by Naive Faust. There is a question that begs the answer of Administrator Fausts of the Gesellschaft management."
+      "content": "Да. Это собрание было созвано Наивной Фауст. Есть вопрос, что требует ответа Фауст-Администраторов из управления Гесселшафта."
     },
     {
       "id": 75,
       "teller": "Рациональная и Талантливая Фауст",
       "title": "Гесселшафт",
-      "content": "... Rational and Brilliant Faust knows what it is that Naive Faust seeks to ask..."
+      "content": "... Рациональная и Талантливая Фауст знает, что Наивная Фауст хочет спросить..."
     },
     {
       "id": 76,
       "teller": "Рациональная и Талантливая Фауст",
       "title": "Гесселшафт",
-      "content": "... as well as the fact that there is no real need for the query concerned to be set forth."
+      "content": "... так-же как и факт того, что не присутствует действительной нужды в формулировке этого запроса."
     },
     {
       "id": 77,
       "teller": "Проницательная и Сообразительная Фауст",
       "title": "Гесселшафт",
-      "content": "*sigh* How long must Faust spoon-feed Naive Faust?"
+      "content": "*вздох* Как долго Фауст должна нянчить Наивную Фауст?"
     },
     {
       "id": 78,
       "teller": "Почтенная и Великодушная Фауст",
       "title": "Гесселшафт",
-      "content": "Let it be heard, at the very least."
+      "content": "Позвольте нам услышать вопрос, хотя-бы."
     },
     {
       "id": 79,
@@ -398,83 +398,83 @@
       "model": "파우스트",
       "teller": "Наивная Фауст?",
       "title": "Гесселшафт",
-      "content": "The attempt to review information on the recent incident at the House of Spiders was met with denials of access at multiple turns."
+      "content": "Попытка ознакомиться с информацией о недавнем инциденте в Доме пауков была встречена с отказом в доступе в нескольких местах."
     },
     {
       "id": 81,
       "model": "파우스트",
       "teller": "Наивная Фауст?",
       "title": "Гесселшафт",
-      "content": "Requesting access to intelligence on the individual who has deliberately compromised the security of Limbus Company's HQ."
+      "content": "Запрос на доступ к информации, о лице, кто намеренно скомпрометировал безопасность Штаба Компании Лимбус."
     },
     {
       "id": 82,
       "teller": "Проницательная и Сообразительная Фауст",
       "title": "Гесселшафт",
-      "content": "Could Naive Faust not even manage to answer such a trivial query herself? Must Astute and Intelligent Faust provide every single piece of information?"
+      "content": "Неужели Наивная Фауст даже не может сама ответить на настолько банальный запрос? Неужели Проницательная и Сообразительная Фауст должна предоставлять каждый малейший кусочек информации?"
     },
     {
       "id": 83,
       "teller": "Почтенная и Великодушная Фауст",
       "title": "Гесселшафт",
-      "content": "There is no obligation to disclose more information to a Faust of such inferior access rights."
+      "content": "У нас нет облигации разглашать больше информации Фауст с настолько меньшими правами доступа."
     },
     {
       "id": 84,
       "teller": "Несгибаемая, Предприимчивая и Сообразительная Фауст",
       "title": "Гесселшафт",
-      "content": "Surely Naive Faust has not forgotten how access rights work?"
+      "content": "Точно ведь Наивная Фауст не забыла, как работают права доступа?"
     },
     {
       "id": 85,
       "model": "파우스트",
       "teller": "Наивная Фауст?",
       "title": "Гесселшафт",
-      "content": "Reviewing Gesellschaft's information requires access rights that are several tiers higher, yes."
+      "content": "Просмотр информации Гесселшафта требует права доступа на несколько уровней выше, да."
     },
     {
       "id": 86,
       "model": "파우스트",
       "teller": "Наивная Фауст?",
       "title": "Гесселшафт",
-      "content": "What I mea—what Faust means to say is..."
+      "content": "Что я хо- что Фауст хочет сказать, это..."
     },
     {
       "id": 87,
       "teller": "Рациональная и Талантливая Фауст",
       "title": "Гесселшафт",
-      "content": "A thoroughly intentional slip of the tongue. To refer to Faust in the first-person is strictly prohibited."
+      "content": "Тщательно умышленная оговорка. Обращение к Фауст в первом лице строго запрещено."
     },
     {
       "id": 88,
       "teller": "Прекрасная и Пронырливая Фауст",
       "title": "Гесселшафт",
-      "content": "Naive Faust has long been known to show... quite a precarious side."
+      "content": "Наивная Фауст давно известна тем, что показывает... достаточно нестабильную сторону."
     },
     {
       "id": 89,
       "teller": "Почтенная и Великодушная Фауст",
       "title": "Гесселшафт",
-      "content": "Hmm. Does Naive Faust wish to join the ranks of dead Fausts?"
+      "content": "Хмм. Хочет Наивная Фауст присоединиться к рангам мертвых Фауст?"
     },
     {
       "id": 90,
       "model": "파우스트",
       "teller": "Наивная Фауст?",
       "title": "Гесселшафт",
-      "content": "*sigh* Of course not. Faust does not wish to join the ranks of dead Fausts. Faust is simply curious."
+      "content": "*вздох* Конечно нет. Фауст не желает присоединяться к рангам мёртвых Фауст. Фауст лишь любопытна."
     },
     {
       "id": 91,
       "teller": "Несгибаемая, Предприимчивая и Сообразительная Фауст",
       "title": "Гесселшафт",
-      "content": "There is no information to be granted to Naive Faust, who time and again has attempted to leech off the Gesellschaft."
+      "content": "Нет информации для предоставления Наивной Фауст, кто снова и снова пыталась паразитировать на Гесселшафте."
     },
     {
       "id": 92,
       "teller": "Прекрасная и Пронырливая Фауст",
       "title": "Гесселшафт",
-      "content": "Lovely and Guileful Faust can offer an answer. In return, however, Naive Faust must consent to have her title changed. Это приемлемо?"
+      "content": "Прекрасная и Пронырливая Фауст может предложить ответ. В обмен, однако, Наивная Фауст должна согласиться со сменой своего титула. Это приемлемо?"
     },
     {
       "id": 93,
@@ -494,19 +494,19 @@
       "model": "파우스트",
       "teller": "Тупая Фауст?",
       "title": "Гесселшафт",
-      "content": "... The sharing of information is appreciated."
+      "content": "... Факт обмена информацией ценится."
     },
     {
       "id": 96,
       "teller": "Проницательная и Сообразительная Фауст",
       "title": "Гесселшафт",
-      "content": "To think that Stupid Faust would go so far as to convene a Classical Walpurgisnacht for a query that requires only the least effort of deductive reasoning."
+      "content": "Подумать, что Тупая Фауст пойдет так далеко, и соберёт Классическую Вальпургиеву ночь ради вопроса, что требует минимальных усилий дедукции."
     },
     {
       "id": 97,
       "teller": "Проницательная и Сообразительная Фауст",
       "title": "Гесселшафт",
-      "content": "The new title could not be more appropriate for Stupid Faust."
+      "content": "Новый титул не может быть более подходящим для Тупой Фауст."
     },
     {
       "id": 98,
@@ -519,63 +519,63 @@
       "id": 99,
       "teller": "Прекрасная и Пронырливая Фауст",
       "title": "Гесселшафт",
-      "content": "Could it be that Stupid Faust is indignant? *chuckle* She seems to be expressing displeasure by means of silence."
+      "content": "Может ли быть, что Тупая Фауст возмущена? *хи-хи* Похоже, она проявляет недовольство методом молчания."
     },
     {
       "id": 100,
       "teller": "Почтенная и Великодушная Фауст",
       "title": "Гесселшафт",
-      "content": "Such is the price for requesting so much information as a Faust of a non-administrative role."
+      "content": "Такова цена запроса такого большого количества информации для Фауст не-административной роли. "
     },
     {
       "id": 101,
       "model": "파우스트",
       "teller": "Тупая Фауст?",
       "title": "Гесселшафт",
-      "content": "In that case, if Faust were to—"
+      "content": "В таком случае, если Фауст сможе-"
     },
     {
       "id": 102,
       "teller": "Рациональная и Талантливая Фауст",
       "title": "Гесселшафт",
-      "content": "No need to build on impossible hypotheticals."
+      "content": "Нет нужды обосновываться на невозможных гипотезах."
     },
     {
       "id": 103,
       "teller": "Рациональная и Талантливая Фауст",
       "title": "Гесселшафт",
-      "content": "Although it is a fact that Stupid Faust has retrieved the most Golden Boughs, she cannot be reinstated as an administrator Faust."
+      "content": "Хоть это и факт, что Тупая Фауст заполучила большее количество Золотых ветвей, она не может быть восстановлена на пост Фауст-администратора."
     },
     {
       "id": 104,
       "teller": "Несгибаемая, Предприимчивая и Сообразительная Фауст",
       "title": "Гесселшафт",
-      "content": "Still, if Stupid Faust were to plant the sapling and harvest an apple from it... who knows? She might have a chance of becoming an administrator again."
+      "content": "Однако, если Тупая Фауст посадит саженец и соберёт с него яблоко... кто знает? Она может получить шанс снова стать администратором."
     },
     {
       "id": 105,
       "teller": "Прекрасная и Пронырливая Фауст",
       "title": "Гесселшафт",
-      "content": "*scoff* Can Stupid Faust even accomplish such a feat? It sounds improbable... What does Stupid Faust think?"
+      "content": "*смешок* Может ли Тупая Фауст достичь этого? Звучит маловероятно... Что думает Тупая Фауст?"
     },
     {
       "id": 106,
       "model": "파우스트",
       "teller": "Тупая Фауст?",
       "title": "Гесселшафт",
-      "content": "That's..."
+      "content": "Это..."
     },
     {
       "id": 107,
       "teller": "Почтенная и Великодушная Фауст",
       "title": "Гесселшафт",
-      "content": "Enough. The time and floor granted to Stupid Faust have come to a close. Stupid Faust shall be dismissed from the Gesellschaft Forum forthwith."
+      "content": "Достаточно. Время и место, предоставленные Тупой Фауст подошли к концу. Тупая Фауст немедленно исключается из собрания Гесселшафта."
     },
     {
       "id": 108,
       "teller": "Несгибаемая, Предприимчивая и Сообразительная Фауст",
       "title": "Гесселшафт",
-      "content": "The Classical Walpurgisnacht is thus forcibly adjourned."
+      "content": "Так, Классическая Вальпургиева ночь силой прервана."
     },
     {
       "id": 109,
@@ -587,7 +587,7 @@
       "model": "넬리2",
       "title": "Новая Лига девяти литераторов корп. N",
       "place": "Корп. N",
-      "content": "Madam Director. I have some updates to report on Limbus Company."
+      "content": "Мадам Директор. У меня есть новости на счёт Компании Лимбус."
     },
     {
       "id": 111,
@@ -600,60 +600,60 @@
       "id": 112,
       "model": "넬리2",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "First, Limbus Company's Golden Bough grafting experiments have finally succeeded. Only five more Boughs left to be retrieved, and..."
+      "content": "Первое, эксперименты Компании Лимбус по сращиванию Золотых ветвей наконец достигли успеха. Осталось заполучить лишь пять Ветвей, и..."
     },
     {
       "id": 113,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "And the sapling will be planted. It won't be long now."
+      "content": "И саженец будет посажен. Осталось недолго."
     },
     {
       "id": 114,
       "model": "넬리2",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "Next, the LCB's 11th Sinner—Sinclair's \"Sign\"... has completely awakened, though only for a moment."
+      "content": "Дальше, \"Метка\" одиннадцатого грешника LCB - Синклера... полностью пробудилась, но только на мгновение."
     },
     {
       "id": 115,
       "model": "소냐",
       "teller": "Соня",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "That's interesting indeed. I thought it'd take a few more years."
+      "content": "И вправду интересно. Я думал это займёт ещё несколько лет."
     },
     {
       "id": 116,
       "model": "소냐",
       "teller": "Соня",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "Did all three strokes manifest?"
+      "content": "Все три линии проявились?"
     },
     {
       "id": 117,
       "model": "넬리2",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "The Signs aren't visible to me, so I cannot say with much certainty... But I don't believe he has. It was most likely just a... short-lived awakening."
+      "content": "Метки для меня не видны, так что я не могу с уверенностью сказать... Но я не думаю, что все. Это скорее было просто... краткое пробуждение."
     },
     {
       "id": 118,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "They say an accomplished butler's resourcefulness rivals that of a Fixer in Seven Association's Section 1... The speed and accuracy of your information-gathering is indeed commendable. Anything else I should be aware of?"
+      "content": "Говорят, находчивость опытного дворецкого соперничает с той у Корректировщика из первой Секции ассоциации Севен... Скорость и точность сбора тобой информации на самом деле похвальная. Ещё что-то, о чём мне стоит знать?"
     },
     {
       "id": 119,
       "model": "넬리2",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "Yes. Lastly... Your son's royal-blood gene factor has also awakened."
+      "content": "Да. Напоследок... Фактор гена королевской крови вашего сына пробудился."
     },
     {
       "id": 120,
       "model": "구보",
       "teller": "Губо",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "The \"factor,\" huh... Does that mean your son has finally unwrapped what you gave him?"
+      "content": "\"Фактор,\" ха... Значит ли, что ваш сын наконец распаковал то, что вы ему дали?"
     },
     {
       "id": 121,
@@ -667,152 +667,152 @@
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "The Roach Emperor is but another layer of wrappings, if a bit fancier than the others."
+      "content": "Император Тараканов - лишь еще один слой упаковки, пусть и изысканнее других."
     },
     {
       "id": 123,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "He has yet to unwrap the valuable, precious gift I've given him."
+      "content": "Ему ещё предстоит распаковать бесценный подарок, что я ему подарила."
     },
     {
       "id": 124,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "But it may not be long now. The real surprise gift will begin from the mistletoe that will bud from the sapling."
+      "content": "Но это может быть уже скоро. Настоящий сюрприз начнётся с омелы, распустившейся на ростке."
     },
     {
       "id": 125,
       "model": "아세아",
       "teller": "Асеа",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "By the way, where's the captain? I haven't seen her around since H Corp."
+      "content": "Кстати, где капитан? Не видел её со времени корп. H."
     },
     {
       "id": 126,
       "model": "넬리2",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "Ah, she should be whetting her harpoon for the Whale-hunting. She asked to call her and her crew only once the hunt begins."
+      "content": "А, она, должно быть, затачивает свой гарпун для охоты на Китов. Она попросила позвать её команду только когда начнётся охота."
     },
     {
       "id": 127,
       "model": "가환",
       "teller": "Цзя Хуан",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "Hah... How long will we be stuck in this pure-white building?"
+      "content": "Хах... Как долго мы будем находиться в этом белоснежном здании?"
     },
     {
       "id": 128,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "... For now, we will focus on restoring the Xianhuang Worm and interpreting its interactions in this place. Although circumstances might change fast once the upcoming N Corp. board meeting concludes."
+      "content": "... Пока что, мы сфокусируемся на восстановлении червя Сянхуан и интерпретации его действий здесь. Хоть обстоятельства и могут смениться достаточно быстра, как только предстоящая конференция корп. N завершится."
     },
     {
       "id": 129,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "Speaking of, Sonya... Have you looked into what I asked?"
+      "content": "Кстати, Соня... Проверил то, о чем я просила?"
     },
     {
       "id": 130,
       "model": "소냐",
       "teller": "Соня",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "Yes, the infiltrator agents reported back just yesterday. Heinrich Kromer and Jacob—both are confirmed to attend the board meeting."
+      "content": "Да, внедрённые агенты донесли как раз вчера. Хейнрик Кромер и Джейкоб - подтверждено, что оба прибудут на собрание."
     },
     {
       "id": 131,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "It's a hassle to deal with people who make even the simplest of conversations a nuisance... But I won't deny that this bodes well."
+      "content": "Утомительно иметь дело с людьми, что превращают даже самые простые разговоры в проблему... Но не буду отрицать, что предвестия хорошие."
     },
     {
       "id": 132,
       "model": "소냐",
       "teller": "Соня",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "If the same Heinrich, who didn't even budge when the younger Kromer was killed, is finally making a move... I suppose it's just around the corner now."
+      "content": "Если тот Хейнрик, кто даже не шелохнулся, когда убили младшую Кромер, наконец делает шаг... Думаю, всё скоро начнется."
     },
     {
       "id": 133,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "Indeed. It won't be long before the Malleus Maleficarum's roster is finalized."
+      "content": "Верно. Уже скоро список участников Malleus Maleficarum  <size=70%>(Молота ведьм)</size> будет утверждён."
     },
     {
       "id": 134,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "A hunt for prosthetic users, the likes of which the City has never seen, will soon begin. Even the Machine Purge would look downright tame in comparison."
+      "content": "Охота на людей с протезами, каких Город ещё не видывал, скоро начнётся. Даже Чистка Машин в сравнении будет выглядеть совсем мирной."
     },
     {
       "id": 135,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "And we'll use that chaos..."
+      "content": "И мы используем этот хаос..."
     },
     {
       "id": 136,
       "model": "아세아",
       "teller": "Асеа",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "... to aim for every Mirror World in existence."
+      "content": "... чтобы нацелиться на каждый существующий Зеркальный мир."
     },
     {
       "id": 137,
       "model": "가환",
       "teller": "Цзя Хуан",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "Hah. The captain will love that. It'll be like going on a Whale hunt across all possible worlds herself."
+      "content": "Ха. Капитану это понравится. Будет как выход на Китовую охоту по всем возможным мирам."
     },
     {
       "id": 138,
       "model": "소냐",
       "teller": "Соня",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "Perhaps we should wrap up our talk here and head inside. It's time."
+      "content": "Наверное на стоит закончить разговор и пройти внутрь. Время пришло."
     },
     {
       "id": 139,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "Of course. Nelly, keep an eye on Limbus Company until your next assignment."
+      "content": "Конечно. Нелли, следи за Компанией Лимбус до своего следующего задания."
     },
     {
       "id": 140,
       "model": "넬리2",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "Yes, Madam Director."
+      "content": "Да, Мадам Директор."
     },
     {
       "id": 141,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "Choose your words and actions carefully once the board meeting begins. Even the slightest misstep could tip the balance and put us at a disadvantage—that's another headache we don't need."
+      "content": "Выбирайте свои слова и действия аккуратно, как только сбор начнётся. Даже малейшая оплошность может сдвинуть баланс и поставить нас в невыгодное положение - это еще одна проблема, что нам не нужна."
     },
     {
       "id": 142,
       "model": "구보",
       "teller": "Губо",
       "title": "Новая Лига девяти литераторов корп. N",
-      "content": "I must admit, it's rather unnerving to have to deal with the infamous Ones Who Grip in their own Nest."
+      "content": "Должен признать, достаточно волнительно, иметь дело с знаменитыми \"Теми, кто хватает\" в их собственном Гнезде."
     },
     {
       "id": 143,
       "model": "헤르만",
       "teller": "Херманн",
       "title": "Корп. N",
-      "content": "All right, then... Shall we head inside?"
+      "content": "Ладно, тогда... Пройдёмте внутрь?"
     }
   ]
 }
