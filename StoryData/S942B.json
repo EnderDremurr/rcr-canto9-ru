@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Коридор Большого",
       "model": "엄지아비",
+      "place": "Коридор Большого",
       "content": "... Эй."
     },
     {
@@ -14,12 +14,12 @@
     {
       "id": 2,
       "model": "그레고르",
-      "content": "Is she... is she drinking right now?"
+      "content": "Она что... она что, пьёт прямо сейчас?"
     },
     {
       "id": 3,
       "model": "베르길리우스3",
-      "content": "Those who are falling apart tend to rely on the very thing that's breaking them."
+      "content": "Те, кто разрушаются, склонны полагаться на ту самую вещь, что их ломает."
     },
     {
       "id": 4,
@@ -34,37 +34,37 @@
     {
       "id": 6,
       "model": "엄지아비",
-      "content": "Wha—that you? Red Color? You're here, too?"
+      "content": "Чег- эт ты? Красный цвет? Ты тоже здесь?"
     },
     {
       "id": 7,
       "model": "엄지아비",
-      "content": "What... the hell, man... I gave you back your bundle of liability unhurt, didn't I?"
+      "content": "Че... за хрень, чувак... Я вернула тебе твой комочек обязанностей в целости, разве нет?"
     },
     {
       "id": 8,
       "model": "엄지아비",
-      "content": "I didn't think you were the type to hold a grudge."
+      "content": "Не думала, что ты из злопамятных."
     },
     {
       "id": 9,
       "model": "베르길리우스3",
-      "content": "I'm just here to make sure you get yours."
+      "content": "Я здесь лишь для того, чтобы убедиться, что ты получишь по заслугам."
     },
     {
       "id": 10,
       "model": "엄지아비",
-      "content": "Alright. Stop rushing me and sit down over there for a second."
+      "content": "Ладно. Хватит подгонять меня и сядь ка вон там на минутку."
     },
     {
       "id": 11,
       "model": "엄지아비",
-      "content": "This bad boy's got a few more swigs left in it."
+      "content": "В этом проказнике еще осталось пару глотков."
     },
     {
       "id": 12,
       "model": "엄지아비",
-      "content": "Junk like you probably don't have the eyes to recognize it, but this is quality liquor."
+      "content": "Отбросы как ты, наверное не в состоянии понять, но это качественный ликёр."
     },
     {
       "id": 13,
@@ -74,7 +74,7 @@
     {
       "id": 14,
       "model": "베르길리우스3",
-      "content": "I don't know about quality, but the name certainly suits you."
+      "content": "Не знаю на счёт качества, но название тебе точно подходит."
     },
     {
       "id": 15,
@@ -84,52 +84,53 @@
     {
       "id": 16,
       "model": "엄지아비",
-      "content": "I was like you once. Bold... proud... feeling like I could take on the whole City all on my own."
+      "content": "Когда-то я была как ты. Смелая... гордая... чувствующая себя, будто я могу справиться со всем городом в одиночку."
     },
     {
       "id": 17,
       "model": "엄지아비",
-      "content": "Back in my day..."
+      "content": "В мои дни..."
     },
     {
       "id": 18,
       "model": "엄지아비",
-      "content": "... little shits like you wouldn't even have dared to talk to me."
+      "place": "",
+      "content": "... мелкие засранцы типа тебя даже не смели говорить со мной."
     },
     {
       "id": 19,
       "model": "히스클리프",
-      "content": "... Ain't ever seen a sod at the bottom of the barrel worth their boast."
+      "content": "... Никогда не видел грязь на дне бочки, стоящую своих понтов."
     },
     {
       "id": 20,
       "model": "엄지아비",
-      "content": "This is why greenhorns who haven't had a taste of the War... don't understand..."
+      "content": "Поэтому зелень, кто не испробовала вкуса войны... и не понимает..."
     },
     {
       "id": 21,
       "model": "엄지아비",
-      "content": "A mere mention of my name, \"Valencina of Famiglia Bognatelli,\" would summon all kinds of high-and-mighty Fixers and Syndicate officers outta their trenches just to grovel at my feet. You know that?"
+      "content": "Лишь одно упоминание моего имени, \"Валенчина из Famiglia Bognatelli,\" призывало все виды высокопоставленных Корректировщиков и офицеров Синдикатов из их траншей, просто чтобы ползать у моих ног. Знали?"
     },
     {
       "id": 22,
       "model": "엄지아비",
-      "content": "I lived up to my family name... I was in the front lines, cuttin' 'em all down with nothing but a rifle and a bayonet."
+      "content": "Я соответствовала имени своей семьи... Я была в фронте, рубя всех при помощи лишь винтовки и штыка."
     },
     {
       "id": 23,
       "model": "엄지아비",
-      "content": "Whatever famous fuck the opposing Corporation sent out, I met 'em all in the field of battle, dueled them, bored a new hole through their heads, tore 'em apart...!"
+      "content": "Какого бы знаменитого уёбка противостоящая Корпорация бы не отправила, я встречала их на поле боя, вступала в дуэль, пробивала дыру через их головы, разрывала их на части...!"
     },
     {
       "id": 24,
       "model": "그레고르",
-      "content": "... All that glory and honor... worth a whole lot of nothing now, aren't they?"
+      "content": "... Вся эта слава и честь... теперь стоят целое ничего, м?"
     },
     {
       "id": 25,
       "model": "그레고르",
-      "content": "Look at you. Going so low as to take a kid hostage to stop just one man."
+      "content": "Посмотри на себя. Опускаться так низко, беря ребёнка в заложники, ради того, чтобы остановить одного человека."
     },
     {
       "id": 26,
@@ -139,17 +140,17 @@
     {
       "id": 27,
       "model": "엄지아비",
-      "content": "... I wouldn't have had to pull that stunt with the kid if I didn't have to get so up-close to Ticket."
+      "content": "... Мне не пришлось бы вытворять такое с девченкой, если бы мне не было нужно подойти так близко к Тикет."
     },
     {
       "id": 28,
       "model": "엄지아비",
-      "content": "If I gave Red a fair fight with a fucked-up eye, he would've slaughtered the shit out of me..."
+      "content": "Если бы я начала драться с Красным пока мой глаз разъёбан, он бы выбил из меня всё дерьмо..."
     },
     {
       "id": 29,
       "model": "엄지아비",
-      "content": "*вздох* Учебник. Gimme another drink."
+      "content": "*вздох* Учебник. Принеси мне ещё пойла."
     },
     {
       "id": 30,
@@ -159,7 +160,7 @@
     {
       "id": 31,
       "model": "엄지아비",
-      "content": "I just need to get through this... And they'll reinstate me."
+      "content": "Нужно просто пережить это... И они восстановят меня."
     },
     {
       "id": 32,
@@ -169,47 +170,47 @@
     {
       "id": 33,
       "model": "엄지아비",
-      "content": "I've... hah. I've been waiting for decades at this point."
+      "content": "Я... ха. Я уже жду десятилетиями."
     },
     {
       "id": 34,
       "model": "엄지아비",
-      "content": "I used to order those low-ranking fodder to grovel at my feet like dogs with a wave of my hand..."
+      "content": "Раньше я взмахом руки приказывала этому низкоранговому корму ползать у моих ног, как собаки..."
     },
     {
       "id": 35,
       "model": "엄지아비",
-      "content": "And now that they outrank me, they think they're some hot shit...? Motherfuckers, looking at me like I'm beneath them... Impudent little shit..."
+      "content": "И теперь, когда они стоят выше меня, они думают что теперь большие шишки...? Уёбки, смотрят на меня, будто я под ними... Наглые говнюки..."
     },
     {
       "id": 36,
       "model": "베르길리우스3",
-      "content": "Have you really... never concerned yourself with this question?"
+      "content": "Неужели ты... никогда не задавалась таким вопросом?"
     },
     {
       "id": 37,
       "model": "베르길리우스3",
-      "content": "The question of what the House of Spiders is really trying to make?"
+      "content": "Вопросом, что Дом пауков на самом деле пытается создать?"
     },
     {
       "id": 38,
       "model": "엄지아비",
-      "content": "... I think it's obvious. A killer. The House is making the best assassin on the market... for all Fingers to use... a blade that can cut through anyone, anything... probably."
+      "content": "... Мне кажется это очевидно. Убийцу. Дом создает лучшего убийцу на рынке... для использования всеми Пальцами... клинок, что может прорезаться через любого, что угодно... наверное."
     },
     {
       "id": 39,
       "model": "베르길리우스3",
-      "content": "Don't you find something amiss listening to yourself?"
+      "content": "Разве ты не находишь в своих словах какое-то упущение?"
     },
     {
       "id": 40,
       "model": "베르길리우스3",
-      "content": "You've dedicated decades of your life to it, but you don't even know what it was all for."
+      "content": "Ты посвятила этому десятилетия своей жизни, но даже не знаешь для чего всё это было."
     },
     {
       "id": 41,
       "model": "엄지아비",
-      "content": "I don't know... Fucking hell, why... do I have to bother knowing shit like that...?"
+      "content": "Я не знаю... Да блять, зачем... мне вообще знать о таком дерьме...?"
     },
     {
       "id": 42,
@@ -224,12 +225,12 @@
     {
       "id": 44,
       "model": "엄지아비",
-      "content": "Все эти десятилетия, что я потратила в той параше..."
+      "content": "Все те десятилетия, что я потратила в этой параше..."
     },
     {
       "id": 45,
       "model": "엄지아비",
-      "content": "It'll... It'll all be worth it in the end..."
+      "content": "Это... Это всё будет стоить того, в конце..."
     },
     {
       "id": 46,
@@ -239,59 +240,59 @@
     {
       "id": 47,
       "model": "베르길리우스3",
-      "content": "Once you've spent too long hanging from the web..."
+      "content": "Когда ты потратишь достаточно времени свисая с паутины..."
     },
     {
       "id": 48,
       "model": "베르길리우스3",
-      "content": "... the sky will seem to grow closer and closer,"
+      "content": "... будет казаться, что небо становится всё ближе и ближе,"
     },
     {
       "id": 49,
       "model": "베르길리우스3",
-      "content": "deluding you into thinking that you can soar into the sky with your own wings."
+      "content": "вводя тебя в заблуждение о том, что ты можешь подняться в небо на собственных крыльях."
     },
     {
       "id": 50,
       "model": "베르길리우스3",
-      "content": "But you will realize..."
+      "content": "Но ты поймешь..."
     },
     {
       "id": 51,
       "model": "엄지아비",
-      "content": "You have any idea how I honed that Ticket of mine, day after day...?"
+      "content": "Ты хоть представляешь как я совершенствовала свою Тикет, день за днём...?"
     },
     {
       "id": 52,
       "model": "베르길리우스3",
-      "content": "... that you're not flying, but grasping at the empty air."
+      "content": "... что ты не летаешь, но хватаешься за пустое пространство."
     },
     {
       "id": 53,
       "model": "엄지아비",
-      "content": "... Bring me Ticket. Now."
+      "content": "... Приведи ко мне Тикет. Сейчас."
     },
     {
       "id": 54,
       "model": "엄지아비",
-      "content": "Ungrateful little bitch. She doesn't even know what sort of shit her own Nursefather's going through..."
+      "content": "Неблагодарная сучка. Она даже не знает, через какое говно проходит её собственный Опекун..."
     },
     {
       "id": 55,
       "model": "엄지아비",
-      "content": "After all that I've taught her..."
+      "content": "После всего, чему я её научила..."
     },
     {
       "id": 56,
-      "place": -1,
       "model": "엄지아비",
-      "content": "Oh, dammit... my head. I shouldn't have taken that bomb shot..."
+      "place": "-1",
+      "content": "Ох, бля... моя голова. Не стоило выпивать тот бомб-шот..."
     },
     {
       "id": 57,
-      "place": "Коридор Большого, Прошлое",
       "model": "엄지아비",
-      "content": "The hell are you doing there in the corner?"
+      "place": "Коридор Большого, Прошлое",
+      "content": "Какого хера ты делаешь там, в углу?"
     },
     {
       "id": 58,
@@ -301,22 +302,22 @@
     {
       "id": 59,
       "model": "과거료슈1",
-      "content": "I'll... I'll do better next time..."
+      "content": "Я... В следующий раз я постараюсь сильнее..."
     },
     {
       "id": 60,
       "model": "과거료슈1",
-      "content": "I'm sorry..."
+      "content": "Мне жаль..."
     },
     {
       "id": 61,
       "model": "엄지아비",
-      "content": "... Dammit, I really messed her up, didn't I...?"
+      "content": "... Черт, я реально её довела, да...?"
     },
     {
       "id": 62,
       "model": "엄지아비",
-      "content": "Эй, Тикет. Clean yourself up with this. You're not looking pretty."
+      "content": "Эй, Тикет. Умойся этим. Выглядишь некрасиво."
     },
     {
       "id": 63,
@@ -326,7 +327,7 @@
     {
       "id": 64,
       "model": "엄지아비",
-      "content": "... I mean your face. You're bleeding from the nose."
+      "content": "... Я имею ввиду лицо. У тебя кровь из носа."
     },
     {
       "id": 65,
@@ -336,7 +337,7 @@
     {
       "id": 66,
       "model": "엄지아비",
-      "content": "What are you smiling about? You're all bloodied up..."
+      "content": "От чего ты улыбаешься? Ты вся в крови..."
     },
     {
       "id": 67,
@@ -370,19 +371,19 @@
     },
     {
       "id": 73,
-      "place": "Коридор Большого",
       "model": "베르길리우스3",
-      "content": "Don't overestimate the significance of your conditional affection."
+      "place": "Коридор Большого",
+      "content": "Не переоценивай важность своей корыстной привязанности."
     },
     {
       "id": 74,
       "model": "베르길리우스3",
-      "content": "Time to get up. Haven't you emptied more than enough bottles for a day?"
+      "content": "Пора подниматься. Не думаешь, что опустошила более, чем достаточно бутылок для одного дня?"
     },
     {
       "id": 75,
       "model": "엄지아비",
-      "content": "... So impatient."
+      "content": "... Такой нетерпеливый."
     },
     {
       "id": 76,
@@ -392,27 +393,27 @@
     {
       "id": 77,
       "model": "엄지아비",
-      "content": "The thing is, with my Ticket..."
+      "content": "Дело в том, что с моей Тикет..."
     },
     {
       "id": 78,
       "model": "엄지아비",
-      "content": "I had to beat that girl head to toe more than a few times before any fire sparked in her eyes."
+      "content": "Мне пришлось пороть эту девочку с головы до ног множество раз, перед тем, как огонь вспыхнул в её глазах."
     },
     {
       "id": 79,
       "model": "엄지아비",
-      "content": "In that regard, I suppose my Textbook here has something to be proud of."
+      "content": "В этом плане, я думаю у моего Учебника есть чем гордиться."
     },
     {
       "id": 80,
       "model": "엄지아비",
-      "content": "You see, this one doesn't cry."
+      "content": "Видишь ли, вот этот не плачет."
     },
     {
       "id": 81,
       "model": "엄지아비",
-      "content": "Lucio, stop limping around. That wound's nothing serious."
+      "content": "Лючио, хватит слоняться. Эта рана - ничего серьезного."
     },
     {
       "id": 82,
@@ -422,32 +423,32 @@
     {
       "id": 83,
       "model": "히스클리프",
-      "content": "... I don't bloody get it."
+      "content": "... Я нихера не понимаю."
     },
     {
       "id": 84,
       "model": "히스클리프",
-      "content": "Oi... Why do you even listen to someone who thinks you ain't worth shite?"
+      "content": "Эй... Зачем тебе вообще слушать кого-то, кто думает, что ты не стоишь и цента?"
     },
     {
       "id": 85,
       "model": "히스클리프",
-      "content": "She beats you all the time, talkin' down to you like that... I doubt she even sees you as a person."
+      "content": "Она каждый раз тебя избивает, говорит с тобой вот так... Сомневаюсь, что она вообще видит в тебе человека."
     },
     {
       "id": 86,
       "model": "엄지제자다침",
-      "content": "... Watch your words."
+      "content": "... Следи за языком."
     },
     {
       "id": 87,
       "model": "엄지제자다침",
-      "content": "My master was generous enough to take me, a vagrant with nothing to my name, under her wing. She fed me warm food and put a roof over my head. I would've ended up in a corpse pile somewhere in the Backstreets without her help."
+      "content": "Моя Мастер была достаточно щедра, чтобы взять меня, бродягу без ничего, под своё крыло. Она кормила меня тёплой едой и дала мне крышу над головой. Я бы стал одним из кучи трупов где-то в Подворотнях без её помощи."
     },
     {
       "id": 88,
       "model": "엄지제자다침",
-      "content": "Which is why... it is only right that I obey her with all my heart."
+      "content": "Поэтому... это лишь правильно, что я повинуюсь ей всем сердцем."
     },
     {
       "id": 89,
@@ -457,12 +458,12 @@
     {
       "id": 90,
       "model": "엄지아비",
-      "content": "That's right. It's pointless to question and think. Just do exactly as you're told—<i>exactly</i> as I taught you."
+      "content": "Верно. Нет смысла спрашивать и думать. Просто делай точно так, как тебе говорят - <i>точно так</i>, как я тебя учила."
     },
     {
       "id": 91,
       "model": "엄지아비",
-      "content": "It's the one thing you're good at, isn't it?"
+      "content": "Это единственное в чём ты хорош, так ведь?"
     }
   ]
 }
