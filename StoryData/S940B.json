@@ -2,14 +2,14 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Коридор Мизинца",
       "model": "단테",
-      "content": "<Does anyone actually live here...?>"
+      "place": "Коридор Мизинца",
+      "content": "<Здесь вообще кто-то живёт...?>"
     },
     {
       "id": 1,
       "model": "뫼르소",
-      "content": "While the signs of habitation are minimal, there is evidence of regular cleaning."
+      "content": "Хоть признаки обитания и минимальны, здесь присутствуют доказательства регулярной уборки."
     },
     {
       "id": 2,
@@ -23,15 +23,15 @@
     },
     {
       "id": 4,
-      "content": "An odd silence filled the space we entered."
+      "content": "Странная тишина заполняет пространство, в которое мы вошли."
     },
     {
       "id": 5,
-      "content": "The room was completely quiet and devoid of any warmth."
+      "content": "Комната была совсем тиха и лишена любого тепла."
     },
     {
       "id": 6,
-      "content": "Ryōshū gingerly made her way past the threshold."
+      "content": "Рёшу с опаской переступила через порог."
     },
     {
       "id": 7,
@@ -41,23 +41,23 @@
     {
       "id": 8,
       "model": "료슈",
-      "content": "When I opened this drawer..."
+      "content": "Когда я открыла этот ящик..."
     },
     {
       "id": 9,
       "model": "료슈",
-      "content": "... there used to be... a schoolbag."
+      "content": "... там был... школьный рюкзак."
     },
     {
       "id": 10,
-      "place": -1,
       "model": "료슈딸",
+      "place": "-1",
       "content": "Мамочка... Мамочка!"
     },
     {
       "id": 11,
       "model": "료슈딸",
-      "content": "Did you ever see stuff like this outside?"
+      "content": "Когда-то видела такое снаружи?"
     },
     {
       "id": 12,
@@ -67,12 +67,12 @@
     {
       "id": 13,
       "model": "료슈딸",
-      "content": "It's soooo pretty, though."
+      "content": "Но он такооооооой красивый."
     },
     {
       "id": 14,
       "model": "과거료슈3",
-      "content": "Hey, why don't you take off that schoolbag? You've been carrying it on your back all day."
+      "content": "Эй, чего бы не снять этот рюкзак? Носишь его на спине весь день."
     },
     {
       "id": 15,
@@ -137,17 +137,17 @@
     {
       "id": 27,
       "model": "료슈딸",
-      "content": "Okay, that's it. I'm gonna teach ya everything I learned at school! Starting today!"
+      "content": "Ладно, поняла. Я научу тебя всему, чему научилась в школе! Начиная с сегодня!"
     },
     {
       "id": 28,
       "model": "과거료슈3",
-      "content": "... I don't need to know."
+      "content": "... Мне не нужно знать."
     },
     {
       "id": 29,
       "model": "과거료슈3",
-      "content": "It doesn't matter how popular they are now. With time, they'll all become old, outdated, and embarrassingly anachronistic anyway."
+      "content": "Не важно, насколько они популярный сейчас. Со временем они состарятся, устареют и станут постыдно анахроничными."
     },
     {
       "id": 30,
@@ -157,12 +157,12 @@
     {
       "id": 31,
       "model": "료슈딸",
-      "content": "And you're like, all about aesthetics of shortening, right?"
+      "content": "И ты, типа, вся про эстетику сокращений, так ведь?"
     },
     {
       "id": 32,
       "model": "료슈딸",
-      "content": "You gotta learn these if you dun wanna fall behind! Серьёзно, SMH!"
+      "content": "Тебе нужно запомнить эти, если не хочешь остаться позади! Серьёзно, SMH!"
     },
     {
       "id": 33,
@@ -202,36 +202,36 @@
     {
       "id": 40,
       "model": "료슈딸",
-      "content": "You're getting it, Mommy!"
+      "content": "Ты начинаешь понимать, Мамочка!"
     },
     {
       "id": 41,
       "model": "료슈",
-      "content": "I'm not..."
+      "content": "Я не..."
     },
     {
       "id": 42,
-      "place": "Коридор Мизинца",
       "model": "료슈",
-      "content": "I didn't get it, can you repeat that... one more time...?"
+      "place": "Коридор Мизинца",
+      "content": "Я не поняла, можешь повторить... еще раз...?"
     },
     {
       "id": 43,
-      "content": "The visions slowly lift from us like dissipating mist..."
+      "content": "Видения медленно отпускают нас, как рассеивающийся туман..."
     },
     {
       "id": 44,
-      "content": "... leaving a cobwebbed, empty room behind."
+      "content": "... оставляя пустую, всю в паутине, комнату."
     },
     {
       "id": 45,
       "model": "소지제자",
-      "content": "Spiderwebs are..."
+      "content": "Паутины..."
     },
     {
       "id": 46,
       "model": "소지제자",
-      "content": "... such difficult things to remove once they stick."
+      "content": "... так трудно убирать, когда они прилипли."
     },
     {
       "id": 47,
@@ -241,63 +241,63 @@
     {
       "id": 48,
       "model": "소지제자",
-      "content": "I shall impart unto you the reply before the question is asked. As it is with the cause for which you have arrived here, herein lies something you have all... lost."
+      "content": "Я сообщу вам ответ до того, как будет спрошен вопрос. Как и с причиной, по который вы сюда прибыли, здесь лежит что-то, что все вы... потеряли."
     },
     {
       "id": 49,
       "model": "뫼르소",
-      "content": "Nothing was lost. We are here to retrieve what's stolen from us."
+      "content": "Ничего не было потеряно. Мы прибыли сюда, чтобы вернуть то, что было у нас украдено."
     },
     {
       "id": 50,
       "model": "소지제자",
-      "content": "... Are you?"
+      "content": "... Так и есть?"
     },
     {
       "id": 51,
       "model": "소지제자",
-      "content": "Mischievous adults like to pose facetious questions to children that are, in truth, quite cruel."
+      "content": "Вредные взрослые любят задавать детям шутливые вопросы, которые, по правде, достаточно жестоки."
     },
     {
       "id": 52,
       "model": "소지제자",
-      "content": "Do you like your mother more or your father more? Do you like strawberry ice cream more or chocolate ice cream more?"
+      "content": "Любишь ли ты больше своего отца или свою мать? Тебе больше нравится клубничное или шоколадное мороженое?"
     },
     {
       "id": 53,
       "model": "소지제자",
-      "content": "Perhaps my master, Yoshihide... considers you naught but a child still."
+      "content": "Возможно моя мастер, Йошихиде... считает тебя ничем иным, как ребёнком."
     },
     {
       "id": 54,
       "model": "료슈",
-      "content": "Get to the point, or you'll find out firsthand how exactly your master lost her tongue."
+      "content": "Давай к сути, или на деле узнаешь, как твоя мастер потеряла язык."
     },
     {
       "id": 55,
       "model": "소지제자",
-      "content": "I present before you, Yoshihide... and your companions... a choice."
+      "content": "Я представляю пред тобой, Йошихиде... и твоим компаньонами... выбор."
     },
     {
       "id": 56,
       "model": "소지제자",
-      "content": "The Golden Boughs... and the child. If you could return with only one of the two..."
+      "content": "Золотые ветви... и ребёнок. Если бы ты могла вернуться лишь с одним из двух..."
     },
     {
       "id": 57,
       "model": "소지제자",
-      "content": "... which would you choose?"
+      "content": "... что бы ты выбрала?"
     },
     {
       "id": 58,
-      "place": -1,
       "model": "소지아비2",
-      "content": "You're becoming more and more like me."
+      "place": "-1",
+      "content": "Ты всё больше и больше походишь на меня."
     },
     {
       "id": 59,
       "model": "과거료슈3",
-      "content": "... Do I have a choice? I am your blood, after all."
+      "content": "... У меня есть выбор? Я твоей крови, всё-таки."
     },
     {
       "id": 60,
@@ -319,17 +319,17 @@
     {
       "id": 63,
       "model": "소지아비2",
-      "content": "So, she's the child."
+      "content": "Значит, она - тот ребёнок."
     },
     {
       "id": 64,
       "model": "검지아비",
-      "content": "Yes, indeed. A child of your blood... a very precious child."
+      "content": "Да, верно. Ребёнок твоей крови... очень драгоценный ребёнок."
     },
     {
       "id": 65,
       "model": "검지아비",
-      "content": "Her aptitude, her ability to \"sense\" the flow of time is... impossibly precise. She makes you look downright dull in comparison, Dihui Star."
+      "content": "Её склонность, её способность \"чувствовать\" течение времени... невероятно точно. В сравнении с ней, ты выглядишь совсем заурядной, Звезда Дихуэй."
     },
     {
       "id": 66,
@@ -339,22 +339,22 @@
     {
       "id": 67,
       "model": "검지아비",
-      "content": "For now, we're going to give her enough room to perceive and experience \"time\" as she interacts with the world in her own way."
+      "content": "Пока, мы дадим ей достаточно свободы, чтобы почувствовать и ощутить \"время\", пока она будет взаимодействовать с миром как хочет."
     },
     {
       "id": 68,
       "model": "엄지아비",
-      "content": "Ugh... It's gonna take forever before she's even remotely useful, then."
+      "content": "Агх... В таком случае, пройдет целая вечность до того, когда она станет хотя-бы отдалённо полезной."
     },
     {
       "id": 69,
       "model": "약지아비",
-      "content": "Fuhu... the more care we put into hammering and chiseling this material, the worthier shall it become."
+      "content": "Хуху... чем больше заботы мы вкладываем в обработку материала, тем ценнее он станет."
     },
     {
       "id": 70,
       "model": "중지아비",
-      "content": "Aww, look at this kid! She just smiled at me! Did you guys see that?"
+      "content": "Оуу, посмотрите на эту малышку! Она только что мне улыбнулась! Вы, ребята, видели?"
     },
     {
       "id": 71,
@@ -364,7 +364,7 @@
     {
       "id": 72,
       "model": "약지아비",
-      "content": "It appears that should be the next subject on our table. Personally, I would prefer if she could be named Elisa—"
+      "content": "Видимо это должно быть нашим следующей темой. Лично, я бы предпочел, назови вы её Элиза-"
     },
     {
       "id": 73,
@@ -374,7 +374,7 @@
     {
       "id": 74,
       "model": "검지아비",
-      "content": "\"Yoshihide\" should be a good name for her."
+      "content": "\"Йошихиде\" должно быть для неё хорошим именем."
     },
     {
       "id": 75,
@@ -389,12 +389,12 @@
     {
       "id": 77,
       "model": "엄지아비",
-      "content": "*пых* Well, whatever your precious Prescript says goes, right? It's better than crap like Elisa or whatever, anyway."
+      "content": "*пых* Ладно, всё, что скажет твоё дорогое предписание, верно? Все равно это лучше чем дерьмо типа Элизы или как там."
     },
     {
       "id": 78,
       "model": "약지아비",
-      "content": "I would appreciate it if you would keep your comments on my naming sense to yourself, Valencina."
+      "content": "Я был бы признателен, если бы ты могла оставить свои комментарии на счет моих имён при себе, Валенчина."
     },
     {
       "id": 79,
@@ -405,7 +405,7 @@
     {
       "id": 80,
       "model": "중지아비",
-      "content": "Look at 'er... Looks to me she's a fan of the name Yoshihide. Then it is decided! You're gonna be Yoshihide from now on, Yoshihide!"
+      "content": "Гляньте на неё... Похоже она фанат имени Йошихиде. Тогда решено! Теперь ты будешь Йошихиде, Йошихиде!"
     },
     {
       "id": 81,
@@ -415,47 +415,47 @@
     {
       "id": 82,
       "model": "검지아비",
-      "content": "You take care of her for a while, Dihui Star."
+      "content": "Позаботься о ней какое-то время, Звезда Дихуэй."
     },
     {
       "id": 83,
       "model": "소지아비2",
-      "content": "Why does it have to be... me?"
+      "content": "Почему это должна делать... я?"
     },
     {
       "id": 84,
       "model": "검지아비",
-      "content": "Well, because she is of your blood. She's a near-carbon copy of you... save for her eyes."
+      "content": "Ну, потому что она твоей крови. Она почти идеальная копия тебя... за исключением глаз."
     },
     {
       "id": 85,
       "model": "소지아비2",
-      "content": "You know that's not what I'm asking. I'm asking why it had to be—!"
+      "content": "Ты знаешь, что я не про это. Я спрашиваю, почему я должна- !"
     },
     {
       "id": 86,
       "model": "검지아비",
-      "content": "... To us, who are discarded here, nothing has less meaning than the question of \"why.\""
+      "content": "... Для нас, сброшенных сюда, ничего не имеет меньшего значения, чем вопрос \"почему.\""
     },
     {
       "id": 87,
       "model": "중지아비",
-      "content": "Yoooo, are you guys seeing this? See how she picked up that little rattle?"
+      "content": "Йоооо, вы ребята это видите? Видите как она подняла эту погремушку?"
     },
     {
       "id": 88,
       "model": "엄지아비",
-      "content": "Hah... Is she still on about that? Never tired of bitching, are you?"
+      "content": "Ха... она всё еще этим занимается? Никогда не устаёшь выебываться, да?"
     },
     {
       "id": 89,
       "model": "소지아비2",
-      "content": "... Says the reprobate mongrel who's fallen out of favor with her own Famiglia. Another word out of your mouth, and I'll..."
+      "content": "... Говорит выброшенная дворняга, что потеряла доверие своей Famiglia. Ещё одно слово из твоего рта, и я..."
     },
     {
       "id": 90,
       "model": "중지아비",
-      "content": "Guys, guys! Don't fight! Not before we place our bets! And you—aren't you gonna stop 'em?"
+      "content": "Ребят, ребят! Не ссорьтесь! Тем более до того, как мы сделали ставки! И ты - ты не будешь их останавливать?"
     },
     {
       "id": 91,
@@ -465,12 +465,12 @@
     {
       "id": 92,
       "model": "검지아비",
-      "content": "This is how we will be entangled. Every blow, every bickering a pull that brings us closer and closer... The intertwining of our bond and karma completes the web that is the House of Spiders."
+      "content": "Так мы и будем спутаны. Каждый удар, каждая ссора - толчок, что приближает нас сильнее и сильнее... Переплетение нашей связи и кармы завершают паутину, которая и есть Дом пауков."
     },
     {
       "id": 93,
       "model": "검지아비",
-      "content": "It is now time for us each to do our best for this precious child that has finally been given to us."
+      "content": "Теперь время для нас постараться на полную ради этого ребёнка, что наконец был нам дан."
     },
     {
       "id": 94,
@@ -497,17 +497,17 @@
     {
       "id": 98,
       "model": "소지아비2",
-      "content": "... This is my first and final request to you: don't become like me."
+      "content": "... Это моя первая и последняя к тебе просьба: не становись такой, как я."
     },
     {
       "id": 99,
       "model": "소지아비2",
-      "content": "Before you came to me, I... knew nothing but freedom and comfort in a world that belonged only to me."
+      "content": "До того как ты у меня появилась, Я... знала лишь свободу и комфорт мира, что принадлежал лишь мне."
     },
     {
       "id": 100,
       "model": "소지아비2",
-      "content": "Until they broke into my world, dragged me out of there, and cast me into this gutter."
+      "content": "Пока они не вломились в мой мир, утащили меня оттуда, и сбросили меня в эту канаву."
     },
     {
       "id": 101,
@@ -517,37 +517,37 @@
     {
       "id": 102,
       "model": "소지아비2",
-      "content": "Wrinkles covered my skin like a crumpled blanket, and I realized I had become irreversibly damaged."
+      "content": "Морщины покрыли мою кожу как мятое одеяло, и я поняла, что я была необратимо повреждена."
     },
     {
       "id": 103,
       "model": "소지아비2",
-      "content": "As you grow up, so will my misery..."
+      "content": "С твоим ростом, будет расти и моё горе..."
     },
     {
       "id": 104,
       "model": "소지아비2",
-      "content": "... until I am nothing but a wrinkled, shriveled-up husk."
+      "content": "... пока я не стану лишь морщинистой, иссохшей оболочкой."
     },
     {
       "id": 105,
       "model": "소지아비2",
-      "content": "A husk that existed only to birth you into this world..."
+      "content": "Оболочкой, что была нужна лишь для рождения тебя в этот мир..."
     },
     {
       "id": 106,
       "model": "소지아비2",
-      "content": "That is why you must never become like me."
+      "content": "Поэтому ты не должна никогда становиться такой, как я."
     },
     {
       "id": 107,
       "model": "소지아비2",
-      "content": "The more our likeness grows, the clearer it will become that I am but a source of nourishment for you to feed upon. I will be sucked dry to wither and shrink into insignificance..."
+      "content": "Чем больше растёт наше сходство, тем яснее будет становиться, что я лишь источник твоего питания. Я буду высосана досуха и сожмусь в полную незначительность..."
     },
     {
       "id": 108,
       "model": "소지아비2",
-      "content": "So don't you dare become like me."
+      "content": "Так что даже не смей становиться такой, как я."
     },
     {
       "id": 109,
@@ -582,83 +582,83 @@
     {
       "id": 115,
       "model": "소지아비2",
-      "content": "The day you returned home after receiving those combat ocular augmentations..."
+      "content": "В день, когда ты вернулась домой после установки этих боевых усилений для зрения..."
     },
     {
       "id": 116,
       "model": "소지아비2",
-      "content": "... and stared at me with red eyes that are just like my own, I came to realize, with horror..."
+      "content": "... и смотрела на меня красными глазами, такими же, как у меня, я с ужасом начала понимать..."
     },
     {
       "id": 117,
       "model": "소지아비2",
-      "content": "You're becoming like me."
+      "content": "Ты становишься такой, как я."
     },
     {
       "id": 118,
       "model": "소지아비2",
-      "content": "You revolting thing."
+      "content": "Ты, отвратительная вещица."
     },
     {
       "id": 119,
       "model": "과거료슈3",
-      "content": "... Can't really help it."
+      "content": "... Не могу ничего поделать."
     },
     {
       "id": 120,
       "model": "과거료슈3",
-      "content": "I'm your kid, after all."
+      "content": "Я твой ребёнок, в конце концов."
     },
     {
       "id": 121,
-      "place": "Коридор Мизинца",
       "model": "료슈",
-      "content": "I'm not in the mood to play along with your riddles."
+      "place": "Коридор Мизинца",
+      "content": "Я не в настроении подыгрывать твоим загадкам."
     },
     {
       "id": 122,
       "model": "소지제자",
-      "content": "In that case, would you allow my humble self to understand your intent as a refusal to give up either of them?"
+      "content": "В таком случае, позволишь моему скоромному Я понять твоё решение как отказ уступать что-то из этого?"
     },
     {
       "id": 123,
       "model": "소지제자",
-      "content": "I am afraid my master does not appreciate the greedy..."
+      "content": "Боюсь, моя мастер не приветствует алчную..."
     },
     {
       "id": 124,
       "model": "료슈",
-      "content": "Bring her to me."
+      "content": "Приведи её ко мне."
     },
     {
       "id": 125,
       "model": "료슈",
-      "content": "I'll talk to her, and if she wouldn't listen, I'll split her vertically from her throat."
+      "content": "Я поговорю с ней, и если она не послушает, я разрежу её пополам, начиная с горла."
     },
     {
       "id": 126,
       "model": "료슈",
-      "content": "And if that still doesn't do the trick, I will crush the Nursefathers' heads one by one until someone breaks and talks. Believe me, I will."
+      "content": "И если это не сработает, я размозжу головы Опекунов одну за одной, пока один из них не расколется. Поверь мне, я это сделаю."
     },
     {
       "id": 127,
       "model": "소지아비",
-      "content": "Heads can be decapitated, tongues can be sliced off, faces can be ground to mulch, and limbs can be amputated, but..."
+      "content": "Головы могут быть отрублены, языки могут быть отрезаны, лица могут быть перемолоты в мульчу, и конечности могут быть ампутированы, но..."
     },
     {
       "id": 128,
       "model": "소지아비",
-      "content": "... this, you cannot sever."
+      "content": "... эту, ты не можешь разорвать."
     },
     {
       "id": 129,
       "model": "소지아비",
-      "content": "It really is stubborn, isn't it? This thread."
+      "content": "Она очень упряма, да? Эта нить."
     },
     {
       "id": 130,
       "model": "소지아비",
-      "content": "I agree."
+      "content": "Я соглашаюсь."
     },
     {
       "id": 131,
@@ -668,65 +668,65 @@
     {
       "id": 132,
       "model": "소지아비",
-      "content": "Invisible, intangible, yet doggedly existent..."
+      "content": "Невидимая, неосязаемая, однако настойчиво реальная..."
     },
     {
       "id": 133,
       "model": "소지아비",
-      "content": "... and utterly inseverable."
+      "content": "... и абсолютно неразрываемая."
     },
     {
       "id": 134,
-      "content": "The Nursefather raises her hand, lifting the red thread tethering her and Ryōshū together."
+      "content": "Опекун поднимает руку, вместе с красной нитью, связывающей её и Рёшу вместе."
     },
     {
       "id": 135,
-      "content": "When her hand touches it, the thread becomes clearly visible, as though it has always been there."
+      "content": "Когда рука её касается, нить становиться отчетливо видимой, будто всегда там была."
     },
     {
       "id": 136,
       "model": "소지아비",
-      "content": "But if that's the only thing you're hanging onto..."
+      "content": "Но если это - единственная вещь, за которую ты держишься..."
     },
     {
       "id": 137,
       "model": "소지아비",
-      "content": "If the only thing tying you to this place..."
+      "content": "Если единственная вещь, связывающая тебя с этим местом..."
     },
     {
       "id": 138,
       "model": "소지아비",
-      "content": "... is that single thread..."
+      "content": "... - эта единственная нить..."
     },
     {
       "id": 139,
       "model": "소지아비",
-      "content": "Wouldn't it be better for you to sever it away?"
+      "content": "Не было бы лучше разорвать её?"
     },
     {
       "id": 140,
       "model": "소지아비",
-      "content": "I'm telling you this, because unlike the other Nursefathers, we are related by blood."
+      "content": "Я говорю тебе это, потому что, в отличии от других Опекунов, мы кровно связаны."
     },
     {
       "id": 141,
       "model": "소지아비",
-      "content": "In other words, I'm giving you a chance to be free."
+      "content": "Другими словами, я даю тебе шанс стать свободной."
     },
     {
       "id": 142,
       "model": "소지아비",
-      "content": "Because I know the inescapable end you will meet now that you've returned here."
+      "content": "Потому что я знаю неизбежный конец, что встретит тебя, раз ты сюда вернулась."
     },
     {
       "id": 143,
       "model": "소지아비",
-      "content": "... Unless you were to sever that thread before delving deeper into the House, that is."
+      "content": "... Это, конечно, если ты сначала не разорвёшь эту нить, перед тем как пройти дальше в Дом."
     },
     {
       "id": 144,
       "model": "소지아비",
-      "content": "This is your way out, a way to save yourself from a terrible fate."
+      "content": "Это твой выход, способ защитить себя от ужасной судьбы."
     },
     {
       "id": 145,
@@ -736,57 +736,57 @@
     {
       "id": 146,
       "model": "소지아비",
-      "content": "... are the Golden Boughs really that important to you?"
+      "content": "... Золотые ветви и вправду так для тебя важны?"
     },
     {
       "id": 147,
       "model": "소지아비",
-      "content": "... What was their answer to my question, Ren?"
+      "content": "... Каков был их ответ на моё предложение, Рен?"
     },
     {
       "id": 148,
       "model": "소지제자",
-      "content": "... They gave none, Master. It may be that they wish to claim both—"
+      "content": "... Они никак не ответили, Мастер. Возможно они хотят заполучить оба-"
     },
     {
       "id": 149,
       "model": "소지아비",
-      "content": "No."
+      "content": "Нет."
     },
     {
       "id": 150,
       "model": "소지아비",
-      "content": "Vengeance has narrowed her vision to all other matters... it's as simple as that."
+      "content": "Месть сузила её восприятие всего остального... всё настолько просто."
     },
     {
       "id": 151,
       "model": "소지아비",
-      "content": "She knew returning to this den of Spiders would bind her in its webs, yet she was foolish enough to do so..."
+      "content": "Она знала, что возвращение в это логово Пауков запутает её в его паутине, и всё-же она была достаточно глупа, чтобы так поступить..."
     },
     {
       "id": 152,
       "model": "소지아비",
-      "content": "What other explanation could there be?"
+      "content": "Какое еще этому может быть объяснение?"
     },
     {
       "id": 153,
       "model": "료슈",
-      "content": "You... won't understand."
+      "content": "Ты... не поймёшь."
     },
     {
       "id": 154,
       "model": "료슈",
-      "content": "Someone like you who has done nothing but blame me for your miseries..."
+      "content": "Кто-то как ты, кто не делал ничего, кроме как винить меня в своих страданиях..."
     },
     {
       "id": 155,
       "model": "료슈",
-      "content": "... and trembled with resentment whenever I called upon you."
+      "content": "... и дрожал неприязнью каждый раз, когда я к тебе обращалась."
     },
     {
       "id": 156,
       "model": "료슈",
-      "content": "So, I've kept that word buried all my life. The word that I would've used to call upon you."
+      "content": "Поэтому, я всю жизнь держала это слово подальше. Слово, которым я могла тебя называть."
     },
     {
       "id": 157,
@@ -796,7 +796,7 @@
     {
       "id": 158,
       "model": "료슈",
-      "content": "You couldn't even handle me—or anyone, really—calling you that. So much so that you'd—"
+      "content": "Ты даже не могла терпеть, когда я - или кто угодно еще, правда - называл тебя так. Так сильно, что ты-"
     },
     {
       "id": 159,
@@ -806,12 +806,12 @@
     {
       "id": 160,
       "model": "소지아비",
-      "content": "Because the echoes of that word carry..."
+      "content": "Потому что эха этого слова несут..."
     },
     {
       "id": 161,
       "model": "소지아비",
-      "content": "... nothing but misery for me."
+      "content": "... для меня ничего, кроме страданий."
     },
     {
       "id": 162,
@@ -821,12 +821,12 @@
     {
       "id": 163,
       "model": "소지아비",
-      "content": "Is that why you brought that child here?"
+      "content": "Поэтому ты привела сюда этого ребёнка?"
     },
     {
       "id": 164,
-      "place": -1,
       "model": "료슈딸",
+      "place": "-1",
       "content": "... очка!"
     },
     {
