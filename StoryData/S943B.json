@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Коридор Безымянного, Прошлое",
       "model": "약지아비",
+      "place": "Коридор Безымянного, Прошлое",
       "content": "Ну, что думаешь, Йошихиде? Эта концепция называется \"Минимализм.\""
     },
     {
       "id": 1,
       "model": "약지아비",
-      "content": "A bold removal of the unnecessary for the preservation of the essence."
+      "content": "Смелое удаление ненужного для презервации сущности."
     },
     {
       "id": 2,
       "model": "약지아비",
-      "content": "As you must be aware, the human corpus has far too many non-essential parts which harm the purity of it."
+      "content": "Как ты можешь знать, в человеческом теле слишком много не-необходимых частей, что портят его чистоту. "
     },
     {
       "id": 3,
@@ -51,22 +51,22 @@
     {
       "id": 9,
       "model": "약지아비",
-      "content": "Let us review. The simplicity with which a straight line sunders is a primordial form of structuralism."
+      "content": "Давай повторим. Простота, с которой разделяется прямая линия - это первозданная форма структурализма."
     },
     {
       "id": 10,
       "model": "약지아비",
-      "content": "I will raise you as a precious pupil of mine, a companion to all of my future artwork. So please, Yoshihide—follow along with my classes."
+      "content": "Я воспитаю тебя как своего дорогого ученика, компаньона для всех моих будущих работ. Так что пожалуйста, Йошихиде - участвуй в моих уроках."
     },
     {
       "id": 11,
       "model": "약지아비",
-      "content": "To reveal the beautiful, original form of the human corpus to the world, the skin must be removed, and the spine severed. That approach, however, runs the risk of being far too safe with the composition."
+      "content": "Для раскрытия прекрасной, оригинальной формы человеческого тела миру, кожа должна быть удалена, и позвоночник перерезан. Такой подход, однако, несет в себе риск чрезмерной осторожности с композицией."
     },
     {
       "id": 12,
       "model": "약지아비",
-      "content": "After all, art is a culmination of moments and choices, and the suffering therein... Yoshihide, will you impart your impression of this piece, how it appears in your eyes...?"
+      "content": "Как-никак, искусство - это кульминация мгновений и выборов, а так же страданий в них... Йошихиде, поделишься своим впечатлением об этой картине, как она выглядит в твоих глазах...?"
     },
     {
       "id": 13,
@@ -81,7 +81,7 @@
     {
       "id": 15,
       "model": "약지아비",
-      "content": "Мясничьей лавки, Йошихиде? I was simply hoping to replicate the striking visual imagery of Fauvism."
+      "content": "Мясничьей лавки, Йошихиде? Я просто надеялся воссоздать яркие образы Фаувизма."
     },
     {
       "id": 16,
@@ -102,7 +102,7 @@
     {
       "id": 19,
       "model": "약지아비",
-      "content": "Ah, you are finally enlightened enough to engage with me in a discourse of tastes."
+      "content": "Ах, ты наконец достаточно просветилась, чтобы вступать со мной в обсуждение о вкусах."
     },
     {
       "id": 20,
@@ -112,17 +112,17 @@
     {
       "id": 21,
       "model": "약지아비",
-      "content": "Perhaps you will evolve beyond simply learning the art movements created by the other Maestros of the Ring, and..."
+      "content": "Возможно ты эволюционируешь дальше банального изучения стилей, созданных другими Маэстро Безымянного, и..."
     },
     {
       "id": 22,
       "model": "약지아비",
-      "content": "... found an art movement of your own someday."
+      "content": "... однажды создашь своё собственное направление."
     },
     {
       "id": 23,
-      "place": "Коридор Безымянного",
       "model": "약지아비",
+      "place": "Коридор Безымянного",
       "content": "Как я скучаю по тем временам."
     },
     {
@@ -133,7 +133,7 @@
     {
       "id": 25,
       "model": "약지아비",
-      "content": "While we certainly had conflicting subjectivities when it came to our tastes... I helped to form the structure and the intellectual framework through which Yoshihide's unique aesthetic sense and her exceptional eye for artistic beauty could thrive."
+      "content": "Хоть у нас точно были конфликтующие субъективности, когда дело доходило до наших вкусов... Я помогал сформировать структуру и интеллектуальный каркас, через который уникальное чувство эстетики Йошихиде и её исключительное виденье художественной красоты могло процветать."
     },
     {
       "id": 26,
@@ -153,17 +153,17 @@
     {
       "id": 29,
       "model": "약지아비",
-      "content": "I am not fond of people like her who let their emotions get the better of them."
+      "content": "Я не люблю людей, как она, кто позволяют эмоциям взять контроль."
     },
     {
       "id": 30,
       "model": "약지아비",
-      "content": "Most of them have... fragile, thin bones that break far too easily."
+      "content": "У большинства из них... хрупкие, тонкие кости, что ломаются слишком легко."
     },
     {
       "id": 31,
       "model": "약지아비",
-      "content": "True strength comes in the form of agility and the patience to find an opening."
+      "content": "Настоящая сила приходит в форме ловкости и настойчивости в поиске бреши в обороне."
     },
     {
       "id": 32,
@@ -173,12 +173,12 @@
     {
       "id": 33,
       "model": "약지아비",
-      "content": "Refer to my manikins for more elaboration on that subject. But I've already expounded enough upon the core of the matter."
+      "content": "Посмотрите на мои манекены для более подробного разъяснения этой темы. Но я уже достаточно разъяснил на счет сути дела."
     },
     {
       "id": 34,
       "model": "싱클레어다침",
-      "content": "... It's about whether... all of their senses are alive..."
+      "content": "... Это о том... все ли их чувства живы..."
     },
     {
       "id": 35,
@@ -188,7 +188,7 @@
     {
       "id": 36,
       "model": "약지아비",
-      "content": "I suppose you have had the opportunity to enjoy a similar piece of artwork elsewhere? I'll admit, this approach is rather archetypal."
+      "content": "Полагаю у тебя была возможность насладиться похожим произведением где-то ещё? Признаю, такой подход довольно архетипичен."
     },
     {
       "id": 37,
@@ -234,13 +234,13 @@
       "id": 44,
       "model": "9장소드다침2",
       "teller": "Рация",
-      "content": "I know exactly what you're reliving. I was right there with you, in that village where that horrible carol was playing, where Effie was..."
+      "content": "Я в точности знаю, что ты сейчас переживаешь. Я была прямо там, с тобой, в той деревне, где играла та ужасная колядка, где Эффи был..."
     },
     {
       "id": 45,
       "model": "9장소드다침2",
       "teller": "Рация",
-      "content": "But... that's behind us now. It's over—what's done is done. There's no undoing it like the way Dante rewinds the clock."
+      "content": "Но... теперь это в прошлом. Всё кончилось - что было, то было. Нет способа развернуть всё назад так, как отматыванием часов Данте."
     },
     {
       "id": 46,
@@ -312,27 +312,27 @@
     {
       "id": 59,
       "model": "약지아비",
-      "content": "I do not get angry. Anger makes things drab and monotonous. So, I will now proceed to elevate you into artistic completion."
+      "content": "Я не становлюсь зол. Злость делает вещи серыми и монотонными. Так что, теперь я начну возвышать вас к художественному совершенству."
     },
     {
       "id": 60,
       "model": "호엔하임2",
-      "content": "... What a meaningful piece of art. Truly."
+      "content": "... Что за глубокое произведение. Воистину."
     },
     {
       "id": 61,
       "model": "약지아비",
-      "content": "Pardon?"
+      "content": "Пардон?"
     },
     {
       "id": 62,
       "model": "호엔하임2",
-      "content": "But if I were to add a few words of advice..."
+      "content": "Но если бы я мог дать пару советов..."
     },
     {
       "id": 63,
       "model": "호엔하임2",
-      "content": "I think your work is rather uninspired."
+      "content": "Я думаю ваша работа достаточно невдохновленная."
     },
     {
       "id": 64,
@@ -342,7 +342,7 @@
     {
       "id": 65,
       "model": "이스마엘다침",
-      "content": "Hohenheim, what are you—"
+      "content": "Хохенхайм, что ты-"
     },
     {
       "id": 66,
@@ -352,72 +352,72 @@
     {
       "id": 67,
       "model": "이스마엘다침",
-      "content": "Right. I'll use the Ampule on Faust and get her back on her feet if I can find an opening. The manager has to be... occupied with something else."
+      "content": "Ладно. Я использую Ампулу на Фауст и подниму её на ноги, если смогу найти брешь. Менеджер должно быть... занят чем-то другим."
     },
     {
       "id": 68,
       "model": "호엔하임2",
-      "content": "Though I may not look the part, I like to think I have seen far beyond my share of corpses."
+      "content": "Хоть я вероятно так не выгляжу, я считаю, что увидел намного больше трупов, чем положено."
     },
     {
       "id": 69,
       "model": "호엔하임2",
-      "content": "It's nothing to be proud of, but I've spent years at a company full of these... \"Abnormalities.\""
+      "content": "Нет повода для гордости, но я провёл годы в компании, наполненную этими... \"Аномалиями.\""
     },
     {
       "id": 70,
       "model": "호엔하임2",
-      "content": "Many of which employed methods of killing my fellow staff that showed far greater artistic merit and depth than anything you have prepared here."
+      "content": "Многие из которых применяли способы убийства моих коллег демонстрирующие намного большую художественную доблесть и глубину чем всё, что вы здесь приготовили."
     },
     {
       "id": 71,
       "model": "호엔하임2",
-      "content": "Let me think... ah, of course."
+      "content": "Дайте мне подумать... а, конечно."
     },
     {
       "id": 72,
       "model": "호엔하임2",
-      "content": "There was this employee who took on the role of the protagonist, staging quite a poignant play."
+      "content": "Был один сотрудник, что принял роль протагониста, поставив довольно душераздирательный спектакль."
     },
     {
       "id": 73,
       "model": "호엔하임2",
-      "content": "Their role was to slit the throat of the Captain they respected most, parade their lifeless torso around for 2 hours, and confess their sins to whomever they came across."
+      "content": "Его роль была в том, чтобы перерезать горло Капитана, которого он уважал сильнее всего, демонстрировать его безжизненный торс вокруг, на протяжении двух часов, и исповедоваться в своих грехах каждому, кто с ним встречался."
     },
     {
       "id": 74,
       "model": "호엔하임2",
-      "content": "I watched the play from beginning to end, comforted only by the fact that I was never really that close with that individual. Because once a play had begun, the audience had to watch it to its curtain call."
+      "content": "Я смотрел этот спектакль с начала до конца, теша себя лишь фактом того, что я никогда не был так близок с этим человеком. Потому что как только спектакль начался, аудитория должна была смотреть его до занавеса."
     },
     {
       "id": 75,
       "model": "약지아비",
-      "content": "You... have my attention."
+      "content": "Ты... заполучил моё внимание."
     },
     {
       "id": 76,
       "model": "약지아비",
-      "content": "Is there something you would like to impart about this... artwork I am working on?"
+      "content": "Есть что-то, что ты хотел бы сказать об этом... произведении, над которым я работаю?"
     },
     {
       "id": 77,
       "model": "호엔하임2",
-      "content": "A few things."
+      "content": "Несколько вещей."
     },
     {
       "id": 78,
       "model": "호엔하임2",
-      "content": "One, you're not making full use of your medium."
+      "content": "Во-первых, вы не используете материал полностью."
     },
     {
       "id": 79,
       "model": "호엔하임2",
-      "content": "What you show me now is no different from one of those cursory autopsy reports I can find lying around in my office."
+      "content": "То, что вы мне сейчас показываете, ничем не отличается от тех поверхностных отчетах об аутопсии, что я могу найти в своём офисе."
     },
     {
       "id": 80,
       "model": "호엔하임2",
-      "content": "Your work can be boiled down to simply cutting open a corpus and rearranging its organs in neat order. I do recall, quite vaguely, some Abnormalities with neither originality nor creativity—much like this piece you're working on."
+      "content": "Вашу работу можно свести к простому вскрытию тела и перестановки его органов в лаконичном порядке. Я вспоминаю, хоть и смутно, несколько Аномалий без и оригинальности, и креативности - прям как произведение, над которым вы работаете."
     },
     {
       "id": 81,
@@ -427,102 +427,102 @@
     {
       "id": 82,
       "model": "호엔하임2",
-      "content": "And you've drained too much blood, far more than what is necessary. That limits the spectrum of color in your piece."
+      "content": "И вы слили слишком много крови, намного больше, чем требуется. Это ограничивает спектр цветов в вашем произведении."
     },
     {
       "id": 83,
       "model": "호엔하임2",
-      "content": "On a more positive note, the element I found most compelling upon closer inspection was the contrasting duet of veins and arteries. It is the kind of expression achievable only through a refined understanding of the human anatomy and its workings."
+      "content": "С более позитивной стороны, элемент, что я нашел наиболее интригующим при внимательном осмотре - был контрастный дуэт вен и артерий. Это - вид выражения, достижимый лишь через глубокое понимания человеческой анатомии и её работы."
     },
     {
       "id": 84,
       "model": "약지아비",
-      "content": "Ah...!"
+      "content": "Ах...!"
     },
     {
       "id": 85,
       "model": "약지아비",
-      "content": "So you noticed it after all! That detail alone demanded more than 3 days of devoted labor, yet it failed to resonate with any audience—even with Albina!"
+      "content": "Значит ты всё-таки заметил! Эта деталь потребовала более трех дней усердного труда, и всё равно она не смогла срезонировать с моей аудиторией - даже с Альбиной!"
     },
     {
       "id": 86,
       "model": "호엔하임2",
-      "content": "Every artist craves the understanding of others. Art for art's sake is without meaning. "
+      "content": "Каждый художник жаждет понимания со стороны других. Искусство ради искусства не имеет смысла."
     },
     {
       "id": 87,
       "model": "약지아비",
-      "content": "Yes, yes. That is what I was here for. To create a revolutionary artwork, something to move people... and to observe them."
+      "content": "Да, да. Поэтому я здесь. Для создания революционного произведения, чего-то для движения людей... и наблюдения за ними."
     },
     {
       "id": 88,
       "model": "약지아비",
-      "content": "But the others were still so attached to their hollow ambitions and ties to the secular world that they did not even pretend to understand my creations..."
+      "content": "Но остальные были так привязаны к своим пустым амбициям и связями с светским миром, что они даже не делали вид, что понимали мои творения... "
     },
     {
       "id": 89,
       "model": "약지아비",
-      "content": "I have harsh words especially for Valencina, for always pickling her body in alcohol, stumbling into my space and almost destroying my work."
+      "content": "Особенно у меня есть грубые слова в сторону Валенчины, за постоянный маринад своего тела в алкоголе, врыв в моё пространство и почти что уничтожение моих работ."
     },
     {
       "id": 90,
       "model": "약지아비",
-      "content": "As for Rien... he is merely a self-inflicted imitation—no more than a simulacrum that mimics, at the behest of the Prescript, the fate of a certain Fixer in the Library..."
+      "content": "Что на счёт Риена... он лишь самонавязанная имитация - ничего более, чем симулякр, что мимикрирует, по воле Предписания, судьбу некого Корректировщика в Библиотеке..."
     },
     {
       "id": 91,
       "model": "약지아비",
-      "content": "Fuhu... I suppose I've gotten ahead of myself in all this excitement. Please do excuse my faux pas."
+      "content": "Хуху... Кажется я слишком увлёкся со всем этим воодушевлением. Пожалуйста, простите мою оплошность."
     },
     {
       "id": 92,
       "model": "약지아비",
-      "content": "Returning to the subject at hand... If you were to work on this piece, how would you add the missing artistic element?"
+      "content": "Возвращаясь к главной теме... Если бы ты работал над этим произведением, как бы ты добавил недостающий элемент?"
     },
     {
       "id": 93,
       "model": "호엔하임2",
-      "content": "... The fasciculus of humans, when desiccated in an oxygen-deprived environment for days, begins to emanate a faint glow."
+      "content": "... Фасцикул людей, высушенный в среде без кислорода на протяжении нескольких дней, начинает испускать слабый свет."
     },
     {
       "id": 94,
       "model": "호엔하임2",
-      "content": "Perhaps you could use that as half-decent decoration."
+      "content": "Возможно вы могли бы использовать его как неплохое украшение."
     },
     {
       "id": 95,
       "model": "호엔하임2",
-      "content": "Another thing—don't trap yourself in a box thinking that macabre violence and the exhibition thereof is all there is to art. Make your art tell a story that is unique to you."
+      "content": "И ещё - не загоняйте себя в коробку, думая, что мрачное насилие и его показ - всё искусство. Позвольте вашему искусству рассказывать уникальную для вас историю."
     },
     {
       "id": 96,
       "model": "호엔하임2",
-      "content": "An example:"
+      "content": "Пример:"
     },
     {
       "id": 97,
       "model": "호엔하임2",
-      "content": "While the rest of my body is unremarkable, I am the individual with the most remarkably genius brain in this company."
+      "content": "Хоть остальная честь моего тела непримечательная, я - человек с самым замечательно гениальным мозгом в этой компании."
     },
     {
       "id": 98,
       "model": "호엔하임2",
-      "content": "How about this? Split open my skull to reveal the brain underneath, and let that be your finishing touch. I hear that knowledge and the number of folds in one's brain have a direct correlation. This would be a good opportunity for me to observe that."
+      "content": "Как на счёт такого? Разрежьте мой череп пополам, чтобы раскрыть мозг под ним, и позвольте ему быть вашим финальным штрихом. Я слышал, что знания и чисто извилин в мозге имеют прямую корреляцию. Будет для меня хорошей возможностью самому это увидеть."
     },
     {
       "id": 99,
       "model": "호엔하임2",
-      "content": "As you must be aware, compared to other organs, the brain is highly complex and fickle to work with. I assure you, it will be a good challenge."
+      "content": "Как вы можете знать, в сравнении с другими органами, мозг очень сложен и непостоянен в работе. Уверяю вас, это будет прекрасным испытанием."
     },
     {
       "id": 100,
       "model": "약지아비",
-      "content": "Yes, I agree... the harder the material is to work with, the more exciting it becomes when I've finally tamed it as my own..."
+      "content": "Да, я согласен... чем сложнее в работе материал, тем увлекательнее работа становится, когда я наконец его осваиваю..."
     },
     {
       "id": 101,
       "model": "약지아비",
-      "content": "Now... Come closer, and speak your name to me."
+      "content": "Теперь... Подойди ближе, и скажи мне своё имя."
     },
     {
       "id": 102,
@@ -532,27 +532,27 @@
     {
       "id": 103,
       "model": "호엔하임2",
-      "content": "I have never been so ashamed of my own name."
+      "content": "Никогда мне не было так стыдно от своего имени."
     },
     {
       "id": 104,
       "model": "싱클레어다침",
-      "content": "S-stop, Mister Hohenheim..."
+      "content": "О-остановитесь, мистер Хохенхайм..."
     },
     {
       "id": 105,
       "model": "싱클레어다침",
-      "content": "W-what are you even trying to do?"
+      "content": "Ч-что вы вообще пытаетесь сделать?"
     },
     {
       "id": 106,
       "model": "싱클레어다침",
-      "content": "We're all too hurt to do anything. Faust, Ishmael, and me..."
+      "content": "Мы все слишком ранены. Фауст, Ишмаэль, и я..."
     },
     {
       "id": 107,
       "model": "호엔하임2",
-      "content": "Well... my best, I suppose."
+      "content": "Ну... что смогу, я думаю."
     },
     {
       "id": 108,
@@ -562,118 +562,120 @@
     {
       "id": 109,
       "model": "호엔하임2",
-      "content": "I am well aware. My gear and weapon are... utterly inadequate to defeat a man of such strength."
+      "content": "Я хорошо осведомлён. Моё снаряжение и оружие... крайне неадекватны для сражения человека такой силы."
     },
     {
       "id": 110,
       "model": "호엔하임2",
-      "content": "But what matters is that I am determined to never regret anything, ever again."
+      "content": "Но что важно - это то, что я решил больше ни о чем не сожалеть, никогда."
     },
     {
       "id": 111,
       "model": "호엔하임2",
-      "content": "Besides, there are moments when gambling may yield a rather fascinating outcome."
+      "content": "Да и всё-же, есть случаи, когда ставка на удачу может привести к довольно удивительным результатам."
     },
     {
       "id": 112,
       "model": "싱클레어다침",
-      "content": "Remember... at the check-up? My placement in your scale of power was..."
+      "content": "Помните.. на осмотре? Моё место в вашем рейтинге силы было..."
     },
     {
       "id": 113,
       "model": "싱클레어다침",
-      "content": "I... I'm just not strong enough... I can't turn this situation around..."
+      "content": "Я... Я просто недостаточно силён... Я не могу развернуть эту ситуацию вспять..."
     },
     {
       "id": 114,
       "model": "호엔하임2",
-      "content": "Stop thinking in numbers. Forget those rankings."
+      "content": "Хватит думать числами. Забудь те ранги."
     },
     {
       "id": 115,
       "model": "호엔하임2",
-      "content": "One may come to mistake numbers as the ultimate truth of the world, as something that interweaves both rationality and analysis; however, the numbers themselves are but conduits by which we may physically realize and translate the abstract into the present reality."
+      "content": "Кто-то может ошибочно думать о числах, как об ультимативной истине мира, как о чем-то, что переплетает в себе и рациональность и анализ; однако, сами числа лишь посредники, при помощи которых мы можем понять и перевести абстрактное в настоящую реальность."
     },
     {
-      "id": 116
+      "id": 116,
+      "content": ""
     },
     {
       "id": 117,
       "model": "싱클레어다침",
-      "content": "The present..."
+      "content": "Настоящее..."
     },
     {
       "id": 118,
       "model": "약지아비",
-      "content": "It is time, dear Hohenheim."
+      "content": "Время пришло, дорогой Хохенхайм."
     },
     {
       "id": 119,
       "model": "약지아비",
-      "content": "Thank you. Thank you for understanding me."
+      "content": "Спасибо тебе. Спасибо, что смог меня понять."
     },
     {
       "id": 120,
       "model": "약지아비",
-      "content": "I will preserve and cherish you until the day I am gone."
+      "content": "Я сохраню тебя и будут ценить до конца своих дней."
     },
     {
       "id": 121,
       "model": "호엔하임공중",
-      "content": "Yes, and... while this may be an unnecessary concern, I would prefer it if you could avoid wearing something like that... wide-brimmed hat of yours."
+      "content": "Да, и... это может быть излишним замечанием, я бы предпочёл, если бы вы избегали ношения чего-то вроде этой... широкой шляпы на вас."
     },
     {
       "id": 122,
       "model": "약지아비",
-      "content": "Ah, this hat?"
+      "content": "А, эта шляпа?"
     },
     {
       "id": 123,
       "model": "약지아비",
-      "content": "A long, long time ago, I wished to delve into the depths of the physical manifestation of my mind. Then, I realized that my skills were yet too immature to attempt such a thing... and bound it together once again."
+      "content": "Давным-давно, я желал погрузится в глубины физической манифестации своего разума. Тогда, я понял, что мои навыки пока слишком малоразвиты для попытки так сделать... и снова его объединил."
     },
     {
       "id": 124,
       "model": "호엔하임공중",
-      "content": "Aha, so the hat is a kind of helmet or a brace, as the wound never fully closed..."
+      "content": "А, значит эта шляпа - что-то вроде шлема или ортеза, ведь рана так и не зажила..."
     },
     {
       "id": 125,
       "model": "호엔하임공중",
-      "content": "And here I thought it was some horribly ill-conceived fashion choice."
+      "content": "А я думал это просто какой-то ужасно продуманный выбор одежды."
     },
     {
       "id": 126,
       "model": "약지아비",
-      "content": "And what significance does it bear in your present circumstance?"
+      "content": "И какое значение она имеет в твоей нынешней ситуации?"
     },
     {
       "id": 127,
       "model": "호엔하임공중",
-      "content": "Well, I was hoping that..."
+      "content": "Ну, я надеялся, что..."
     },
     {
       "id": 128,
       "model": "호엔하임공중",
-      "content": "... I should be able to inflict some degree of damage with my surprise attack."
+      "content": "... я смогу нанести определенный уровень ущерба моей внезапной атакой."
     },
     {
-      "id": 129
+      "id": 129,
+      "content": ""
     },
     {
       "id": 130,
       "model": "호엔하임2",
-      "content": "How is it? I don't suppose you saw that coming."
+      "content": "Как оно? Не думал, что ты этого ожидал."
     },
     {
       "id": 131,
       "model": "호엔하임2",
-      "content": "It is an E.G.O called \"Diffraction\"—extracted from a particularly tricky Abnormality."
+      "content": "Это - Э.Г.О, названное \"Дифракция\" - извлечённое из особенно замысловатой Аномалии."
     },
     {
       "id": 132,
       "model": "호엔하임2",
-      "content": "I'm curious if you ever learned the lesson that there's always more to reality than what meets the eye... or that the really important things are invisible to the eye."
+      "content": "Интересно, пришлось ли тебе хоть раз познать урок - что в реальности всегда присутствует больше, чем видно глазом... или что по правде важные вещи невидимы для глаза."
     },
     {
       "id": 133,
@@ -688,32 +690,32 @@
     {
       "id": 135,
       "model": "약지아비2",
-      "content": "... My amygdala is shaking. The corpus amygdaloideum is connected to the brainstem, which is involved in the brain’s emotional centers."
+      "content": "... Моя амигдала трясётся. Миндалевидное тело соединено со стволом мозга, который участвует в работе эмоциональных центров мозга."
     },
     {
       "id": 136,
       "model": "약지아비2",
-      "content": "Ah... when Yoshihide shattered that sword of mine so long ago..."
+      "content": "Ах... когда Йошихиде разбила тот меч, давным давно..."
     },
     {
       "id": 137,
       "model": "약지아비2",
-      "content": "... I believe I felt an emotion similar to this."
+      "content": "... думаю я почувствовал похожую эмоцию."
     },
     {
       "id": 138,
       "model": "호엔하임공중",
-      "content": "Hnngh..."
+      "content": "Хннгх..."
     },
     {
       "id": 139,
       "model": "이스마엘다침",
-      "content": "This is our opening...! Faust and I are both almost healed. We can't give him any time to—agh...!"
+      "content": "Это наш шанс...! Фауст и я почти излечились. Мы не можем дать ему времени - агх...!"
     },
     {
       "id": 140,
       "model": "약지제자2",
-      "content": "I can't let you do that. Not before we become friends."
+      "content": "Я не могу позволить тебе сделать это. Не до того, как мы станем друзьями."
     },
     {
       "id": 141,
@@ -723,27 +725,27 @@
     {
       "id": 142,
       "model": "약지아비2",
-      "content": "Oh, you're the one who suddenly collapsed in the Research Facility, aren't you?"
+      "content": "Оу, ты - тот, кто внезапно потерял сознание в Центре исследований, да?"
     },
     {
       "id": 143,
       "model": "약지아비2",
-      "content": "While wrath may indeed force your body to function beyond its breaking point... even that has its limits."
+      "content": "Хоть гнев действительно может заставить твоё тело работать дальше предела... даже у этого есть свои ограничения."
     },
     {
       "id": 144,
       "model": "약지아비2",
-      "content": "83% of your body has been heavily damaged. At that level, even properly wielding your weapon becomes a challenge."
+      "content": "83% твоего тела было тяжело повреждено. На таком уровне, даже грамотное использование оружия становится испытанием."
     },
     {
       "id": 145,
       "model": "약지아비2",
-      "content": "The corpus works in immaculate ways indeed. Every cause and effect is crystal clear."
+      "content": "Дело действительно работает безупречно. Каждая причина и следствие предельно ясны."
     },
     {
       "id": 146,
       "model": "싱클레어다침",
-      "content": "Dante... if you're watching... do something—please, do something...!"
+      "content": "Данте... если вы смотрите.. сделайте что-то - пожалуйста, сделайте что-то...!"
     },
     {
       "id": 147,
@@ -753,52 +755,52 @@
     {
       "id": 148,
       "model": "싱클레어다침",
-      "content": "I can't... rely on others to solve my problems... forever."
+      "content": "Я не могу... полагаться на других в решении своих проблем... каждый раз."
     },
     {
       "id": 149,
       "model": "약지제자2",
-      "content": "Don't leave. The others are gone—you're the only one left here to be friends with me and Fascia."
+      "content": "Не уходи. Остальные ушли - ты единственный, кто остался здесь, чтобы быть друзьями со мной и Фасцией."
     },
     {
       "id": 150,
       "model": "싱클레어다침",
-      "content": "... Get off me."
+      "content": "... Свали."
     },
     {
       "id": 151,
       "model": "약지아비2",
-      "content": "There are faster ways, indeed. But I would prefer to choke the air out of him..."
+      "content": "Есть и более быстрые способы, да. Но я бы предпочел его задушить..."
     },
     {
       "id": 152,
       "model": "약지아비2",
-      "content": "... because asphyxiation is the most appropriate approach to ensure that the subject suffers for as long as possible without leaving any damage to the corpus."
+      "content": "... потому что удушение - наиболее подходящий способ для обеспечения факта, что субъект будет страдать как можно дольше без какого-либо повреждения тела."
     },
     {
       "id": 153,
       "model": "호엔하임공중",
-      "content": "*choke*"
+      "content": "*удушье*"
     },
     {
       "id": 154,
       "model": "약지제자2",
-      "content": "And that is the Maestro's special brand of mercy."
+      "content": "Это - особая форма милосердия Маэстро."
     },
     {
       "id": 155,
       "model": "약지제자2",
-      "content": "He is demonstrating his act of creation before all of us..."
+      "content": "Он показывает свой процесс творения перед всеми нами..."
     },
     {
       "id": 156,
       "model": "약지제자2",
-      "content": "Now, let us both become audience to this rare opportunity. Keep your eyes peeled to the end."
+      "content": "Теперь, давай оба станем аудиторией этой редкой возможности. Не отводи глаз до самого конца."
     },
     {
       "id": 157,
       "model": "약지제자2",
-      "content": "In the future, I want to be a Maestro who has surpassed even my Maestro. What are your dreams?"
+      "content": "В будущем, я хочу быть Маэстро, что превзойдёт даже моего Маэстро. О чем ты мечтаешь?"
     },
     {
       "id": 158,
@@ -806,7 +808,8 @@
       "content": "Будущее..."
     },
     {
-      "id": 159
+      "id": 159,
+      "content": ""
     },
     {
       "id": 160,
@@ -826,7 +829,7 @@
     {
       "id": 163,
       "model": "약지아비2",
-      "content": "... I beg your pardon? My gallery boasts a perfect balance of temperature and humidity for the preservation of artworks. They are isolated from external contaminants at all times."
+      "content": "... Прошу прощения? Моя галерея поддерживает идеальный баланс температуры и влажности для сохранения работ. Они всегда изолированы от внешних загрязнений."
     },
     {
       "id": 164,
@@ -840,7 +843,8 @@
     },
     {
       "id": 166,
-      "place": -1
+      "place": "-1",
+      "content": ""
     },
     {
       "id": 167,
@@ -849,7 +853,8 @@
     },
     {
       "id": 168,
-      "place": -1
+      "place": "-1",
+      "content": ""
     }
   ]
 }
