@@ -103,12 +103,12 @@
     {
       "id": "9SV-BAT5-04",
       "desc": "호엔하임 과출력 상태 진입",
-      "dlg": "So you... You are the beast of this forest."
+      "dlg": "Значит ты... Ты - монстр этого леса."
     },
     {
       "id": "9SV-BAT5-05",
       "desc": "호엔하임 리타이어",
-      "dlg": "Darn it..."
+      "dlg": "Чтоб его..."
     },
     {
       "id": "9SV-BAT6-BR1-1-01",
@@ -223,12 +223,12 @@
     {
       "id": "9SV-BAT6-BR3-8",
       "desc": "에즈라 스크류 망치 4",
-      "dlg": "Spiiiin..."
+      "dlg": "Крутииииииись..."
     },
     {
       "id": "9SV-BAT6-BR3-10",
       "desc": "에즈라 스크류 망치 5",
-      "dlg": "... and drill!"
+      "dlg": "... и сверли!"
     },
     {
       "id": "9SV-BAT6-BR4-1-01",
@@ -323,32 +323,32 @@
     {
       "id": "9SV-BAT3-BR3-1-01",
       "desc": "중지 아비 3스킬 이제 1",
-      "dlg": "These toys..."
+      "dlg": "Эти игрушки..."
     },
     {
       "id": "9SV-BAT3-BR3-1",
       "desc": "중지 아비 3스킬 이제 2",
-      "dlg": "These toys..."
+      "dlg": "Эти игрушки..."
     },
     {
       "id": "9SV-BAT3-BR3-2-01",
       "desc": "중지 아비 3스킬 갖고놀기 1",
-      "dlg": "... ain't fun..."
+      "dlg": "... больше совсем..."
     },
     {
       "id": "9SV-BAT3-BR3-2",
       "desc": "중지 아비 3스킬 갖고놀기 2",
-      "dlg": "... ain't fun..."
+      "dlg": "... больше совсем..."
     },
     {
       "id": "9SV-BAT3-BR3-3-01",
       "desc": "중지 아비 3스킬 질렸다 1",
-      "dlg": "... no more!"
+      "dlg": "... не интересные!"
     },
     {
       "id": "9SV-BAT3-BR3-3",
       "desc": "중지 아비 3스킬 질렸다 2",
-      "dlg": "... no more!"
+      "dlg": "... не интересные!"
     },
     {
       "id": "9SV-BAT3-BR5-1-01",
@@ -478,17 +478,17 @@
     {
       "id": "9SV-BAT13-BR2-2-01",
       "desc": "중지 제자 skill 2",
-      "dlg": "One, two! Three! Hyah!"
+      "dlg": "Один, два! Три! Хъя!"
     },
     {
       "id": "9SV-BAT13-BR2-2-02",
       "desc": "중지 제자 skill 2",
-      "dlg": "One, two! Three! Hyah!"
+      "dlg": "Один, два! Три! Хъя!"
     },
     {
       "id": "9SV-BAT13-BR2-2",
       "desc": "중지 제자 skill 2",
-      "dlg": "One, two! Three! Hyah!"
+      "dlg": "Один, два! Три! Хъя!"
     },
     {
       "id": "9SV-BAT13-03",
@@ -568,7 +568,7 @@
     {
       "id": "9SV-BAT8-06-1",
       "desc": "엄지 아비 6스킬",
-      "dlg": "Hahahahaha!"
+      "dlg": "Хахахахаха!"
     },
     {
       "id": "9SV-BAT8-06-3",
@@ -738,17 +738,17 @@
     {
       "id": "9SV-BAT9-14-1",
       "desc": "보이스 비어있는 턴 시작 시",
-      "dlg": "March. March. Consume."
+      "dlg": "Шагайте. Шагайте. Поглощайте."
     },
     {
       "id": "9SV-BAT9-14-2",
       "desc": "보이스 비어있는 턴 시작 시",
-      "dlg": "Procreate. Consume. Erase."
+      "dlg": "Размножайтесь. Поглощайте. Стирайте."
     },
     {
       "id": "9SV-BAT9-14-3",
       "desc": "보이스 비어있는 턴 시작 시",
-      "dlg": "Erase. Regenerate. March."
+      "dlg": "Стирайте. Восстанавливайтесь. Шагайте."
     },
     {
       "id": "9SV-BAT10-02-1",
@@ -1048,12 +1048,12 @@
     {
       "id": "9SV-BAT15-08-2-01",
       "desc": "약지 아비 원호 방어 발동 시 (133107 사용전)",
-      "dlg": "Vandalism is prohibited!"
+      "dlg": "Вандализм запрещён!"
     },
     {
       "id": "9SV-BAT15-08-2",
       "desc": "약지 아비 원호 방어 발동 시 (133107 사용전)",
-      "dlg": "Vandalism is prohibited!"
+      "dlg": "Вандализм запрещён!"
     },
     {
       "id": "9SV-BAT15-09",
