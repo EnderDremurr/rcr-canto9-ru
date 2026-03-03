@@ -3,52 +3,52 @@
     {
       "id": "9SV-BAT1-BR3-3",
       "desc": "베스파 9스킬 1",
-      "dlg": "Breaking through."
+      "dlg": "Прорываюсь."
     },
     {
       "id": "9SV-BAT1-BR3-5",
       "desc": "베스파 9스킬 2",
-      "dlg": "Impaled."
+      "dlg": "Пронзён."
     },
     {
       "id": "9SV-BAT1-12",
       "desc": "베스파 모제스 붉은숨 상호작용",
-      "dlg": "Acknowledged."
+      "dlg": "Услышано."
     },
     {
       "id": "9SV-BAT1-13",
       "desc": "베스파 모제스 붉은점 이후 공간참",
-      "dlg": "... I will cut him down."
+      "dlg": "... Я зарежу его."
     },
     {
       "id": "9SV-BAT1-BR4-5-01",
       "desc": "베스파 10스킬",
-      "dlg": "This is where it ends."
+      "dlg": "Всё кончится здесь."
     },
     {
       "id": "9SV-BAT1-BR4-5",
       "desc": "베스파 10스킬",
-      "dlg": "This is where it ends."
+      "dlg": "Всё кончится здесь."
     },
     {
       "id": "9SV-BAT2-03",
       "desc": "모제스 붉은숨 차징",
-      "dlg": "Ezra. Vespa. Assist the LCB personnel as you cover me."
+      "dlg": "Эзра. Веспа. Помогите сотрудникам LCB пока прикрываете меня."
     },
     {
       "id": "9SV-BAT2-03-1",
       "desc": "모제스 붉은숨 차징",
-      "dlg": "Ezra. Vespa. Assist the LCB personnel as you cover me."
+      "dlg": "Эзра. Веспа. Помогите сотрудникам LCB пока прикрываете меня."
     },
     {
       "id": "9SV-BAT2-04",
       "desc": "모제스 붉은숨 모으는 스킬",
-      "dlg": "Every atrocious moment of the past throughout my life swirls around me."
+      "dlg": "Каждый отвратительный момент моего прошлого вихрится вокруг меня."
     },
     {
       "id": "9SV-BAT2-05",
       "desc": "모제스 1차 붉은점 1",
-      "dlg": "*puff* All of that malice, full to the brim."
+      "dlg": "*пых* Вся эта злоба, полная, до краёв."
     },
     {
       "id": "9SV-BAT2-06",
@@ -63,42 +63,42 @@
     {
       "id": "9SV-BAT11-03",
       "desc": "알리사 40000703 사용시",
-      "dlg": "Monsters...! I'll burn you all to ash!"
+      "dlg": "Монстры...! Я сожгу вас всех дотла!"
     },
     {
       "id": "9SV-BAT11-04-1",
       "desc": "알리사 40000705 사용시",
-      "dlg": "I'm sorry, Boss. But I can't think of anything better than this to take them down."
+      "dlg": "Извините, Босс. Но я не могу придумать ничего лучше этого для их нейтрализации."
     },
     {
       "id": "9SV-BAT11-04-2-01",
       "desc": "알리사 40000705 사용시",
-      "dlg": "As long as I can burn those horrible things to ash, I'll...! I'll gladly throw myself to the fire...!"
+      "dlg": "Пока я могу сжечь эти ужасные творения дотла, я...! Я с радостью брошусь в огонь...!"
     },
     {
       "id": "9SV-BAT11-04-2",
       "desc": "알리사 40000705 사용시",
-      "dlg": "As long as I can burn those horrible things to ash, I'll...! I'll gladly throw myself to the fire...!"
+      "dlg": "Пока я могу сжечь эти ужасные творения дотла, я...! Я с радостью брошусь в огонь...!"
     },
     {
       "id": "9SV-BAT11-05",
       "desc": "알리사 전투 중 체력이 낮아져서 전투 불능 상태가 될 때",
-      "dlg": "Nngh... I promise I'll kill you both... No matter what it takes..."
+      "dlg": "Ннгх... Я обещаю, я убью вас обоих... Чего бы это не стоило..."
     },
     {
       "id": "9SV-BAT5-01",
       "desc": "호엔하임 3스킬",
-      "dlg": "Boosting E.G.O Attunement... Fire."
+      "dlg": "Усиление синхронизации Э.Г.О... Огонь."
     },
     {
       "id": "9SV-BAT5-02",
       "desc": "호엔하임 3스킬 현혹",
-      "dlg": "A proper researcher... has no interest in faux imitation!"
+      "dlg": "Настоящий исследователь... не интересуется ложными имитациями!"
     },
     {
       "id": "9SV-BAT5-03",
       "desc": "호엔하임 과출력 3스킬",
-      "dlg": "Let's brighten... the road ahead, so I can have a good view of the lives I must save."
+      "dlg": "Давайте озарим... дорогу спереди, чтобы у меня был хороший обзор на жизни, которые я должен спасти."
     },
     {
       "id": "9SV-BAT5-04",
@@ -183,12 +183,12 @@
     {
       "id": "9SV-BAT6-BR3-3-01",
       "desc": "에즈라 네스터 망치 1",
-      "dlg": "Spread the impact!"
+      "dlg": "Распространяйте эффект!"
     },
     {
       "id": "9SV-BAT6-BR3-3",
       "desc": "에즈라 네스터 망치 2",
-      "dlg": "Spread the impact!"
+      "dlg": "Распространяйте эффект!"
     },
     {
       "id": "9SV-BAT6-BR3-4-01",
@@ -208,17 +208,17 @@
     {
       "id": "9SV-BAT6-BR3-7-01",
       "desc": "에즈라 스크류 망치 1",
-      "dlg": "Screw Hammer!"
+      "dlg": "Винтовой молот!"
     },
     {
       "id": "9SV-BAT6-BR3-7-02",
       "desc": "에즈라 스크류 망치 2",
-      "dlg": "Screw Hammer!"
+      "dlg": "Винтовой молот!"
     },
     {
       "id": "9SV-BAT6-BR3-7",
       "desc": "에즈라 스크류 망치 3",
-      "dlg": "Screw Hammer!"
+      "dlg": "Винтовой молот!"
     },
     {
       "id": "9SV-BAT6-BR3-8",
@@ -233,12 +233,12 @@
     {
       "id": "9SV-BAT6-BR4-1-01",
       "desc": "에즈라 유리아 도끼 1",
-      "dlg": "All-out Attack Mode, Mk. 17!"
+      "dlg": "Режим Максимальной мощности, Mk. 17!"
     },
     {
       "id": "9SV-BAT6-BR4-1",
       "desc": "에즈라 유리아 도끼 2",
-      "dlg": "All-out Attack Mode, Mk. 17!"
+      "dlg": "Режим Максимальной мощности, Mk. 17!"
     },
     {
       "id": "9SV-BAT6-BR4-2-01",
@@ -278,47 +278,47 @@
     {
       "id": "9SV-BAT6-BR4-8",
       "desc": "에즈라 유리아 도끼 10",
-      "dlg": "Wrecked!"
+      "dlg": "Разнесло!"
     },
     {
       "id": "9SV-BAT6-BR5-1",
       "desc": "에즈라 가드 1",
-      "dlg": "Team Leader! I'm counting on you as always!"
+      "dlg": "Капитан! Рассчитываю на вас, как обычно!!"
     },
     {
       "id": "9SV-BAT6-BR5-3",
       "desc": "에즈라 가드 2",
-      "dlg": "I'm the one you're up against!"
+      "dlg": "Это со мной ты сражаешься!"
     },
     {
       "id": "9SV-BAT6-06-1",
       "desc": "에즈라 원호방어 1",
-      "dlg": "This is nothing. Leave it to us!"
+      "dlg": "Это мелочь. Мы разберёмся!"
     },
     {
       "id": "9SV-BAT6-06-2",
       "desc": "에즈라 원호방어 2",
-      "dlg": "You'll have to get through me first!"
+      "dlg": "Тебе придётся сначала пробиться через меня!"
     },
     {
       "id": "9SV-BAT6-06-3",
       "desc": "에즈라 원호방어 3",
-      "dlg": "No way I'm letting our junior steal all the spotlight!"
+      "dlg": "Ни за что не дам нашему Новичку стырить всю славу!"
     },
     {
       "id": "9SV-BAT6-07-01",
       "desc": "에즈라 모제스 붉은숨 상호작용",
-      "dlg": "Gotcha!!"
+      "dlg": "Ясно!!"
     },
     {
       "id": "9SV-BAT6-07-02",
       "desc": "에즈라 모제스 붉은숨 상호작용",
-      "dlg": "Gotcha!!"
+      "dlg": "Ясно!!"
     },
     {
       "id": "9SV-BAT6-07",
       "desc": "에즈라 모제스 붉은숨 상호작용",
-      "dlg": "Gotcha!!"
+      "dlg": "Ясно!!"
     },
     {
       "id": "9SV-BAT3-BR3-1-01",
@@ -363,27 +363,27 @@
     {
       "id": "9SV-BAT3-06_1",
       "desc": "중지 아비 검 단계 1 -> 2",
-      "dlg": "Oh yeah, I'm down to unbox a layer for this fight!"
+      "dlg": "О да, я готов снять один слой ради этого боя!"
     },
     {
       "id": "9SV-BAT3-06_2",
       "desc": "중지 아비 검 단계 2 -> 3",
-      "dlg": "Interesting... So this is what it feels like to meet a Color Fixer in battle!"
+      "dlg": "Интересно... Вот каково чувство, встретиться с Цветным Корректировщиком в бою!"
     },
     {
       "id": "9SV-BAT3-06_3",
       "desc": "중지 아비 검 단계 3 -> 4",
-      "dlg": "You're pushin' me to go balls out... Hah!"
+      "dlg": "Заставляешь мои яйца попотеть... Хах!"
     },
     {
       "id": "9SV-BAT3-BR7-2",
       "desc": "중지 아비 4단계 2스킬 1",
-      "dlg": "Be warned, it's gonna be hot."
+      "dlg": "Предупреждаю, будет горячо.."
     },
     {
       "id": "9SV-BAT3-BR7-3",
       "desc": "중지 아비 4단계 2스킬 2",
-      "dlg": "Hot as hell!"
+      "dlg": "Чертовски горячо!"
     },
     {
       "id": "9SV-BAT3-BR8-4-01",
@@ -413,12 +413,12 @@
     {
       "id": "9SV-BAT3-11",
       "desc": "중지 아비 원한 버프 최대치 턴시작시",
-      "dlg": "*sigh* Not even gonna write that down. That's a summary execution!"
+      "dlg": "*вздох* Даже не буду этого записывать. Это - мгновенная казнь!"
     },
     {
       "id": "9SV-BAT3-11-01",
       "desc": "중지 아비 원한 버프 최대치 턴시작시",
-      "dlg": "*sigh* Not even gonna write that down. That's a summary execution!"
+      "dlg": "*вздох* Даже не буду этого записывать. Это - мгновенная казнь!"
     },
     {
       "id": "9SV-BAT3-13",
@@ -433,47 +433,47 @@
     {
       "id": "9SV-BAT3-12-1",
       "desc": "중지 아비 중지 제자가 조건을 만족하여 칭찬 받았다! 버프 획득 시",
-      "dlg": "Hell yeah! You got it, Kiddo!"
+      "dlg": "Туда его! Молодец, малышка!"
     },
     {
       "id": "9SV-BAT3-12-2",
       "desc": "중지 아비 중지 제자가 조건을 만족하여 칭찬 받았다! 버프 획득 시",
-      "dlg": "Well done! Here's a good-job sticker for ya."
+      "dlg": "Отлично сработано! Вот тебе стикер за хорошую работу."
     },
     {
       "id": "9SV-BAT3-12-3",
       "desc": "중지 아비 중지 제자가 조건을 만족하여 칭찬 받았다! 버프 획득 시",
-      "dlg": "That's my little girl!"
+      "dlg": "Вот это - моя девочка!"
     },
     {
       "id": "9SV-BAT18-14",
       "desc": "검지 제자 스테이지 시작 시",
-      "dlg": "... I-if I can make it through this test... I can become M-Mister Rien's daughter too, like Yoshihide, my big sis!"
+      "dlg": "... Е-если я смогу сдать этот тест... Я смогу стать дочерью м-мистера Риена, как Йошихиде, моя старшая сестра!"
     },
     {
       "id": "9SV-BAT18-17",
       "desc": "검지 제자 턴 시작 시, 압박감 또는 압박감-신이 처음으로 3이 되었을 때 <하>",
-      "dlg": "\"Clock,\" \"return path,\" \"pure-white.\" P-please don't interfere. M-my big sis must be completed. For the Prescript... and for me."
+      "dlg": "\"Часы,\" \"путь обратно,\" \"белоснежный.\" П-пожалуйста, не мешайте. М-моя старшая сестра должна быть завершена. Ради Предписания... и ради меня."
     },
     {
       "id": "9SV-BAT18-25",
       "desc": "검지 제자 133706 사용 시",
-      "dlg": "My cherished hope... I s-simply follow it."
+      "dlg": "Моя почтенная вера.. Я л-лишь следую ей."
     },
     {
       "id": "9SV-BAT18-26",
       "desc": "검지 제자 사망 시",
-      "dlg": "... W-were they not one and the same? M-my immanent yearning—and the Prescript..."
+      "dlg": "... Они б-были не одним и тем-же? М-моя неотъемлемая жажда - и Предписание..."
     },
     {
       "id": "9SV-BAT4-01",
       "desc": "소지 제자 스테이지 시작 시",
-      "dlg": "So that... is the state of Muga, the non-self... Even her own self is forgotten."
+      "dlg": "Так это... - состояние Муга, не-я... Даже её собственное Я забыто."
     },
     {
       "id": "9SV-BAT4-02",
       "desc": "소지 제자 사망 시",
-      "dlg": "I have failed to save my master... That is my woeful regret..."
+      "dlg": "Мне не удалось спасти свою Мастер... Это - моё горестное сожаление..."
     },
     {
       "id": "9SV-BAT13-BR2-2-01",
@@ -493,12 +493,12 @@
     {
       "id": "9SV-BAT13-03",
       "desc": "중지 제자 skill 3",
-      "dlg": "Phew... This is just like that final battle in Episode 24!"
+      "dlg": "Фух... Это прямо как та финальная битва в серии 24!"
     },
     {
       "id": "9SV-BAT13-03-01",
       "desc": "중지 제자 skill 3",
-      "dlg": "Take my ultimate move! Violet~ Breaking Slam!!!"
+      "dlg": "Отхвати мою ульту! Violet~ Breaking Slam!!!"
     },
     {
       "id": "9SV-BAT13-05",
@@ -508,62 +508,62 @@
     {
       "id": "9SV-BAT13-06-01",
       "desc": "중지 제자 중지 아비 쪽 상호작용 패시브 발동 시",
-      "dlg": "Isn't papa such a badass?"
+      "dlg": "Папа такой крутой, да?"
     },
     {
       "id": "9SV-BAT13-06-02",
       "desc": "중지 제자 중지 아비 쪽 상호작용 패시브 발동 시",
-      "dlg": "Damn~ Can't believe I'm getting a front-row seat to this!"
+      "dlg": "Жесть~ Не могу поверить, что получила место в первом ряду!"
     },
     {
       "id": "9SV-BAT13-06",
       "desc": "중지 제자 중지 아비 쪽 상호작용 패시브 발동 시",
-      "dlg": "Ooh, papa's about to open a can of whoop-ass on you guys!"
+      "dlg": "Оо, папа сейчас выльет на вас банку набитых морд, ребята!"
     },
     {
       "id": "9SV-BAT13-07",
       "desc": "중지 제자 스킬 2회 피격 시 잘 봐둬라 딸! 1 감소",
-      "dlg": "I'll get you back for this...!"
+      "dlg": "Я отомщу тебе за это...!"
     },
     {
       "id": "9SV-BAT7-08",
       "desc": "엄지 제자 타겟 지정 패턴 발동 시",
-      "dlg": "I will face this enemy."
+      "dlg": "Я стану против этого врага."
     },
     {
       "id": "9SV-BAT7-09-2",
       "desc": "엄지 제자 타겟 지정 패턴 발동 시",
-      "dlg": "I'm doing my part."
+      "dlg": "Я выполняю свою часть."
     },
     {
       "id": "9SV-BAT7-09-1",
       "desc": "엄지 제자 원호 방어 시",
-      "dlg": "You will not get past me."
+      "dlg": "Ты не пройдешь через меня."
     },
     {
       "id": "9SV-BAT7-09-3",
       "desc": "엄지 제자 원호 방어 시",
-      "dlg": "Agh."
+      "dlg": "Агх."
     },
     {
       "id": "9SV-BAT8-BR4-1",
       "desc": "엄지 아비 4스킬",
-      "dlg": "Fuck off!"
+      "dlg": "Иди нахуй!"
     },
     {
       "id": "9SV-BAT8-BR4-2",
       "desc": "엄지 아비 4스킬",
-      "dlg": "Feeling confident today? Then parry this, asshole."
+      "dlg": "Сегодня самоуверенный? Тогда парируй это, мудила."
     },
     {
       "id": "9SV-BAT8-BR4-4",
       "desc": "엄지 아비 4스킬",
-      "dlg": "Match my hatred."
+      "dlg": "Сравнись с моей ненавистью."
     },
     {
       "id": "9SV-BAT8-BR5-2-01",
       "desc": "엄지 아비 5스킬",
-      "dlg": "Distraction'll bury you six-feet under!"
+      "dlg": "Невнимательность похоронит тебя шесть метров под землей!"
     },
     {
       "id": "9SV-BAT8-06-1",
@@ -573,17 +573,17 @@
     {
       "id": "9SV-BAT8-06-3",
       "desc": "엄지 아비 6스킬",
-      "dlg": "And the hunt comes to a close!"
+      "dlg": "И охота подходит к концу!"
     },
     {
       "id": "9SV-BAT8-06-4-01",
       "desc": "엄지 아비 6스킬",
-      "dlg": "I'll make mincemeat out of you all!"
+      "dlg": "Я превращу вас всех в фарш!"
     },
     {
       "id": "9SV-BAT8-07-1",
       "desc": "엄지 아비 7스킬",
-      "dlg": "Yeah, I hate you all! The damn Famiglia, you, and Ticket, too!"
+      "dlg": "Да, я ненавижу вас всех! Чертову Famiglia, тебя, и Тикет, тоже!"
     },
     {
       "id": "9SV-BAT8-07-2",
@@ -618,7 +618,7 @@
     {
       "id": "9SV-BAT8-11-1",
       "desc": "회피 스킬로 실패시",
-      "dlg": "What the hell—"
+      "dlg": "Какого хера- "
     },
     {
       "id": "9SV-BAT8-11-2",
@@ -643,7 +643,7 @@
     {
       "id": "9SV-BAT8-12",
       "desc": "엄지 아비 과부하된 예지안(버프)이 있을 때, 턴 시작 시",
-      "dlg": "... Tsk. Overheated already?"
+      "dlg": "... Тц. Уже перегрелся?"
     },
     {
       "id": "9SV-BAT8-13",
@@ -658,7 +658,7 @@
     {
       "id": "9SV-BAT8-14-2",
       "desc": "흐트러짐 해제하고, 다음 턴 시작 시",
-      "dlg": "Fuck you! I am Valencina della Famiglia Bognatelli...! I refuse to rot in this fucking dump!"
+      "dlg": "Идите нахуй! Я - Валенчина della Famiglia Bognatelli...! Я отказываюсь гнить в этой ёбаной дыре!"
     },
     {
       "id": "9SV-BAT8-15",
@@ -773,7 +773,7 @@
     {
       "id": "9SV-BAT10-03-2",
       "desc": "베르길리우스 엄지 아비가 베르길리우스의 공격을 회피했을 때",
-      "dlg": "That Relic won't work forever."
+      "dlg": "Эта Реликвия не будет работать вечно."
     },
     {
       "id": "9SV-BAT10-03-3",
@@ -1323,12 +1323,12 @@
     {
       "id": "9SV-BAT17-32-01",
       "desc": "검지 아비 134811 (Furioso 닮은 스킬 - 2페이즈 강력한 스킬) 처음 이후에 준비될 때마다, 대사",
-      "dlg": "You belong here, in this hell."
+      "dlg": "Твоё место здесь, в этом аду."
     },
     {
       "id": "9SV-BAT17-32",
       "desc": "검지 아비 134811 (Furioso 닮은 스킬 - 2페이즈 강력한 스킬) 처음 이후에 준비될 때마다, 대사",
-      "dlg": "You belong here, in this hell."
+      "dlg": "Твоё место здесь, в этом аду."
     },
     {
       "id": "9SV-BAT17-33",
@@ -1343,12 +1343,12 @@
     {
       "id": "9SV-BAT17-35-01",
       "desc": "검지 아비 134812 (Furioso 닮은 스킬 - 2페이즈 매우 강력한 스킬) 준비되었을 때, 대사",
-      "dlg": "You cannot cut this off, sweetheart.\n... This isn't something you can break off so easily."
+      "dlg": "Ты не можешь это отрезать, милая.\n... Это не что-то, что можно так легко разорвать."
     },
     {
       "id": "9SV-BAT17-35",
       "desc": "검지 아비 134812 (Furioso 닮은 스킬 - 2페이즈 매우 강력한 스킬) 준비되었을 때, 대사",
-      "dlg": "You cannot cut this off, sweetheart.\n... This isn't something you can break off so easily."
+      "dlg": "Ты не можешь это отрезать, милая.\n... Это не что-то, что можно так легко разорвать."
     },
     {
       "id": "9SV-BAT17-36-01",
@@ -1373,17 +1373,17 @@
     {
       "id": "9SV-BAT17-38",
       "desc": "검지 아비 료슈 쓰러뜨리면서 플레이어가 게임 패배할 경우",
-      "dlg": "That is not your fate. Climb out of there, Yoshihide."
+      "dlg": "Это - не твоя судьба. Выползай оттуда, Йошихиде."
     },
     {
       "id": "9SV-BAT99-01",
       "desc": "료슈 2페이즈",
-      "dlg": "You talk... as if I'm gonna choose to stay."
+      "dlg": "Говоришь... будто я решу остаться."
     },
     {
       "id": "9SV-BAT99-03",
       "desc": "9장 종료 이후 에고 대사",
-      "dlg": "OSHARE\n(Overcome the Searing Hellfire for Araya, to Reality's Extinction)"
+      "dlg": "ПЖАГР\n(Преодолевать Жгучее пламя ада ради Араи, до Гибели Реальности)"
     }
   ]
 }
