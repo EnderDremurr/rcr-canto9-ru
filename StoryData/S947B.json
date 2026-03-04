@@ -21,8 +21,8 @@
     },
     {
       "id": 4,
-      "place": -1,
       "model": "료슈",
+      "place": "-1",
       "content": "Дети чувствуют, как по инстинкту:"
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "id": 23,
-      "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
+      "place": "Коридор Указательного, Прошлое",
       "content": "Это чувство называется \"жалость.\""
     },
     {
@@ -129,12 +129,12 @@
     {
       "id": 25,
       "model": "검지아비",
-      "content": "Remember that book we read yesterday? The snake swallows the frog..."
+      "content": "Помнишь ту книгу, что мы вчера читали? Змея проглатывает лягушку..."
     },
     {
       "id": 26,
       "model": "검지아비",
-      "content": "... but wails loudly when it feels the frog thrashing in its throat."
+      "content": "... но громко завывает, когда начинает чувствовать биение лягушки в своём горле."
     },
     {
       "id": 27,
@@ -149,7 +149,7 @@
     {
       "id": 29,
       "model": "검지아비",
-      "content": "The snake pities the frog, knowing the pain the prey will suffer as it is devoured. It's grieving because the frog's life will be cut short."
+      "content": "Змее жаль лягушку, зная боль, что добыча испытает, пока её пожирают. Она скорбит потому что жизнь лягушки будет преждевременно окончена."
     },
     {
       "id": 30,
@@ -159,7 +159,7 @@
     {
       "id": 31,
       "model": "과거료슈2",
-      "content": "Do my other dads feel that way for me too?"
+      "content": "А мои остальные отцы тоже чувствуют такое ко мне?"
     },
     {
       "id": 32,
@@ -169,7 +169,7 @@
     {
       "id": 33,
       "model": "검지아비",
-      "content": "I don't think many of us are even capable of pity."
+      "content": "Не думаю что многие из нас вообще способны к жалости."
     },
     {
       "id": 34,
@@ -209,27 +209,27 @@
     {
       "id": 41,
       "model": "과거료슈2",
-      "content": "Why am I not allowed to pull the sword out? It's always sheathed."
+      "content": "Почему мне не разрешено доставать меч? Он всегда в ножнах."
     },
     {
       "id": 42,
       "model": "검지아비",
-      "content": "That, too—you'll know when the time comes."
+      "content": "Это, тоже - ты узнаешь, когда придёт время."
     },
     {
       "id": 43,
       "model": "과거료슈2",
-      "content": "Am I gonna get a magic beeper like yours someday, Dad?"
+      "content": "Я тоже получу магический бипер как у тебя, Отец?"
     },
     {
       "id": 44,
       "model": "과거료슈2",
-      "content": "The beeper tells you everything, right?"
+      "content": "Бипер тебе обо всём говорит, верно?"
     },
     {
       "id": 45,
       "model": "검지아비",
-      "content": "You won't be getting one, no."
+      "content": "Ты не получишь такого, нет."
     },
     {
       "id": 46,
@@ -249,7 +249,7 @@
     {
       "id": 49,
       "model": "검지아비",
-      "content": "Let something you cherish take root in your heart... and it will carve out a gaping hole far larger than itself when it's taken away."
+      "content": "Позволь чему-то, что ты ценишь, укоренится в твоём сердце... и оно вырежет огромную дыру, больше своего размера, когда его у тебя отнимут."
     },
     {
       "id": 50,
@@ -258,29 +258,29 @@
     },
     {
       "id": 51,
-      "place": -1,
       "model": "료슈",
-      "content": "His words were always gentle, yet the subtle tone of detached observation betrayed that pretense."
+      "place": "-1",
+      "content": "Его слова были всегда мягки, и всё-же слабый тон отстранённого наблюдения предавал это притворство."
     },
     {
       "id": 52,
       "model": "료슈",
-      "content": "But back then, I was exhausted from the endless barrage of biting remarks from the other Nursefathers..."
+      "content": "Но тогда, я была измотана нескончаемым градом колких замечание со стороны других Опекунов..."
     },
     {
       "id": 53,
       "model": "료슈",
-      "content": "... so I was drawn to his cryptic way of speaking. For me, at least, I thought there was a certain warmth in it..."
+      "content": "... поэтому меня привлекал его таинственный стиль речи. Я, как минимум, считала, что в нём была какая-то теплота... "
     },
     {
       "id": 54,
       "model": "료슈",
-      "content": "A genuine intention to convey something to me."
+      "content": "Искреннее намерение донести до меня что-то."
     },
     {
       "id": 55,
-      "place": "Комната Рёшу, Прошлое",
       "model": "과거료슈2",
+      "place": "Комната Рёшу, Прошлое",
       "content": "... Нет."
     },
     {
@@ -291,22 +291,22 @@
     {
       "id": 57,
       "model": "소지아비2",
-      "content": "I recall you bragging rather confidently that you had beaten that attitude out of her, Valencina. What happened?"
+      "content": "Я помню как ты достаточно уверенно хвасталась о том, что выбила из неё эту склонность, Валенчина. Что случилось?"
     },
     {
       "id": 58,
       "model": "엄지아비",
-      "content": "Hah! Hello, the brat's practically <i>cut</i> from your cloth, you know."
+      "content": "Ха! Здрасте, малявка буквально <i>вырезана</i> из тебя, знаешь ли."
     },
     {
       "id": 59,
       "model": "엄지아비",
-      "content": "Must've gotten that nasty bit from you."
+      "content": "Должно быть переняла эту мерзость от тебя."
     },
     {
       "id": 60,
       "model": "중지아비",
-      "content": "C'mon, guys. The kid's right here, you know?"
+      "content": "Ладно вам, ребят. Малышка прямо здесь, не заметили? "
     },
     {
       "id": 61,
@@ -385,18 +385,18 @@
     },
     {
       "id": 76,
-      "place": -1,
       "model": "료슈",
-      "content": "I know precisely how and where to stab to snuff out a life with a single thrust."
+      "place": "-1",
+      "content": "Я знаю точно, как и куда пырнуть, чтобы потушить огонь жизни одним ударом."
     },
     {
       "id": 77,
       "model": "료슈",
-      "content": "All thanks to the innumerable hours I've spent practicing on targets, dummies, manikins, and chunks of flesh."
+      "content": "Всё благодаря бесчисленным часам, что я потратила практикуясь на целях, манекенах и кусках мяса."
     },
     {
       "id": 78,
-      "teller": "Target of the House of Spiders",
+      "teller": "Цель Дома Пауков",
       "title": "???",
       "content": "Агх...!"
     },
@@ -408,17 +408,17 @@
     {
       "id": 80,
       "model": "료슈",
-      "content": "Какой ужасный вкус."
+      "content": "Какой ужасный вкус в одежде."
     },
     {
       "id": 81,
       "model": "료슈",
-      "content": "The target was an employee of a sizable bank. And I didn't know anything beyond that. Didn't need to know."
+      "content": "Цель была сотрудником крупного банка. И я не знала ничего, кроме этого. Не нужно было знать."
     },
     {
       "id": 82,
       "model": "료슈",
-      "content": "By then, I came to understand what it means to die."
+      "content": "К тому времени я поняла, что значит - умереть."
     },
     {
       "id": 83,
@@ -427,8 +427,8 @@
     },
     {
       "id": 84,
-      "place": "Коридор Мизинца, Прошлое",
       "model": "과거료슈2",
+      "place": "Коридор Мизинца, Прошлое",
       "content": "... Пароль. Сейчас."
     },
     {
@@ -449,7 +449,7 @@
     {
       "id": 88,
       "model": "소지아비2",
-      "content": "How did you get past the Fixers who were guarding the target?"
+      "content": "Как ты прошла через Корректировщиков, что охраняли цель?"
     },
     {
       "id": 89,
@@ -464,12 +464,12 @@
     {
       "id": 91,
       "model": "료슈",
-      "content": "She was staring me down with a peculiar look in her eyes, and her mouth..."
+      "content": "Она всматривалась в меня странным взглядом, и её рот..."
     },
     {
       "id": 92,
       "model": "료슈",
-      "content": "Her mouth opened with an equally inexplicable expression. Perhaps it was a laugh—or the opposite. I had no way of knowing it."
+      "content": "Её рот открылся с настолько-же непостижимым выражением. Возможно это был смех - или наоборот. Я никак не могла знать."
     },
     {
       "id": 93,
@@ -479,28 +479,28 @@
     {
       "id": 94,
       "model": "료슈",
-      "content": "But every time she breathed, I could hear her wheeze and struggle for air..."
+      "content": "Но каждый раз как она вздыхала, я слышала, как она хрипит и хватает воздух..."
     },
     {
       "id": 95,
       "model": "료슈",
-      "content": "... and her tail no longer wagged with delight when she saw me."
+      "content": "... и её хвост больше не вилял в восторге когда она меня видела."
     },
     {
       "id": 96,
-      "place": "Коридор Безымянного, Прошлое",
       "model": "약지아비",
-      "content": "Yoshihide, I have prepared a little something to celebrate your birthday."
+      "place": "Коридор Безымянного, Прошлое",
+      "content": "Йошихиде, я приготовил небольшой сюрприз к празднованию твоего дня рождения."
     },
     {
       "id": 97,
       "model": "약지아비",
-      "content": "The name I have bestowed upon this sword... is \"Beastbone Blade Saru.\""
+      "content": "Имя, что я дал этому мечу... \"Зверокостный Клинок Сару.\""
     },
     {
       "id": 98,
       "model": "약지아비",
-      "content": "An adorable size to perfectly fit the grip of your palms."
+      "content": "Очаровательный размер, чтобы идеально поместиться в хват твоих ладоней."
     },
     {
       "id": 99,
@@ -510,63 +510,63 @@
     {
       "id": 100,
       "model": "약지아비",
-      "content": "One day, Yoshihide, I would like to have a child of my own... A child completed with my flesh and blood."
+      "content": "Когда-то, Йошихиде, я хотел бы завести собственного ребёнка... Ребёнка, созданного из моей плоти и крови."
     },
     {
       "id": 101,
       "model": "약지아비",
-      "content": "I eagerly await that moment with every passing day."
+      "content": "Я рьяно жду этого момента каждый день."
     },
     {
       "id": 102,
-      "place": -1,
       "model": "료슈",
-      "content": "The sensation of the hilt on my palm was the kind of pure love that only he could impart."
+      "place": "-1",
+      "content": "Ощущение рукояти в моей ладони было типом чистой любви, какую лишь он мог дарить."
     },
     {
       "id": 103,
       "model": "료슈",
-      "content": "Wasn't the first time I've felt something like that."
+      "content": "Это был не первый раз, когда я чувствовала что-то такое."
     },
     {
       "id": 104,
       "model": "료슈",
-      "content": "The whiff of booze clinging to her, and the bruises she left on my body."
+      "content": "Слабый запах алкоголя, витающий вокруг неё, и синяки, что она оставила на моём теле."
     },
     {
       "id": 105,
       "model": "료슈",
-      "content": "The warm tone of the voice that never hesitated to read to me, even though the man always made it a point to shut a book before the ending."
+      "content": "Тёплый тон голоса, который никогда сомневался в чтении для меня, хоть этот человек всегда и настаивал на закрытии книги перед концовкой."
     },
     {
       "id": 106,
       "model": "료슈",
-      "content": "The desire to see me walk only the comfortable path, which came with possessiveness so fierce that it was sated only by dooming into the pits of hell all those who got between him and that goal."
+      "content": "Желание увидеть меня идущей лишь по легкому пути, которое сопровождалось ревнивостью настолько яростной, что она могла быть удовлетворена лишь обречением на адские муки всех тех, кто ставал между ним и этой целью"
     },
     {
       "id": 107,
       "model": "료슈",
-      "content": "The passion to shape me into the only being in the world who understands him, by pouring into me every bit of artistic knowledge he possessed..."
+      "content": "Энтузиазм превратить меня в единственное в мире существо, кто понимает его, путем вливания в меня каждой капли художественных знаний, что у него были..."
     },
     {
       "id": 108,
       "model": "료슈",
-      "content": "And the desolate screams of she who could not bear to meet my gaze—or have me meet hers."
+      "content": "И пустые крики той, кто не могла вынести взгляда в мои глаза - или моего взгляда в её."
     },
     {
       "id": 109,
       "model": "료슈",
-      "content": "These five threads twine to make a rope that binds me into who I am."
+      "content": "Эти пять нитей сплетаются в веревку, что связывает меня в то, чем я являюсь."
     },
     {
       "id": 110,
       "model": "료슈",
-      "content": "And the rope is laid along the road to—"
+      "content": "И верёвка лежит вдоль дороги к-"
     },
     {
       "id": 111,
-      "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
+      "place": "Коридор Указательного, Прошлое",
       "content": "А, это?"
     },
     {
@@ -577,22 +577,22 @@
     {
       "id": 113,
       "model": "검지아비",
-      "content": "Once it is lodged inside the body, even the slightest of movements will make it burrow deeper into the flesh... forcing the victim to remain perfectly still."
+      "content": "Как только она попадает в тело, даже малейшие движения побуждают её впиваться глубже в плоть... заставляя жертву оставаться полностью спокойной."
     },
     {
       "id": 114,
       "model": "검지아비",
-      "content": "It may not sting any worse than the prick of a thorn at first, but the more you try to yank it free, the further it will drill into the body."
+      "content": "По началу боль не сильнее укола шипом, но чем больше ты пытаешься её вынуть, тебя глубже в тело она будет вкручиваться."
     },
     {
       "id": 115,
       "model": "검지아비",
-      "content": "But no matter how much it keeps digging in, it will never make it to the other side.\nThe closer it gets to the end, the slower it becomes—it can never meet its endpoint."
+      "content": "Но не важно сколько она будет впиваться, она никогда не достигнет обратной стороны. Чем ближе она подходит к концу, тем медленнее становится - она никогда не дойдет до точки назначения."
     },
     {
       "id": 116,
       "model": "검지아비",
-      "content": "You know what else shares that property?"
+      "content": "Знаешь, у чего ещё есть такое свойство?"
     },
     {
       "id": 117,
@@ -617,7 +617,7 @@
     {
       "id": 121,
       "model": "과거료슈1",
-      "content": "So it's like a game where, when you're frozen, I tag you and say \"Unfreeze!\" Then you can start moving again!"
+      "content": "Ну это типа игра, где тебя замораживают, я касаюсь тебя и говорю \"Разморозься!\" И потом ты можешь снова двигаться!"
     },
     {
       "id": 122,
@@ -627,28 +627,28 @@
     {
       "id": 123,
       "model": "검지아비",
-      "content": "Then I... I'll keep waiting until my darling daughter decides to unfreeze me."
+      "content": "Тогда я... Я буду ждать, пока моя дорогая дочь решит меня разморозить."
     },
     {
       "id": 124,
-      "place": -1,
       "model": "료슈",
+      "place": "-1",
       "content": "Тогда я не могла понять, что он имел ввиду."
     },
     {
       "id": 125,
       "model": "료슈",
-      "content": "The \"Spiral\" that pierced Saru was then used to pierce dozens more lives, and then dozens after that..."
+      "content": "\"Спираль,\" что пронзила Сару была использована, чтобы пронзить еще десятки жизней, и потом ещё десятки..."
     },
     {
       "id": 126,
       "model": "료슈",
-      "content": "Until one day, a stake of doubt, shaped just like that Spiral, lodged itself in me as well."
+      "content": "Пока в один день, кол сомнения, по форме такой-же, как та Спираль, нашёл своё место и во мне."
     },
     {
       "id": 127,
       "model": "료슈",
-      "content": "Threads become knots, endlessly tangling and winding into a jumbled clew."
+      "content": "Нити становятся узлами, бесконечно спутываясь и скручиваясь в небрежный клубок."
     },
     {
       "id": 128,
@@ -703,33 +703,33 @@
     {
       "id": 138,
       "model": "료슈",
-      "content": "When I saw the twinkle in those eyes, I suddenly craved the cigs I'd quit... and strangely enough, didn't miss them at all at the same time."
+      "content": "Когда я увидела блеск в тех глазах, я внезапно захотела сигарет, которые я бросила курить... и, как ни странно, одновременно совсем по ним не скучала."
     },
     {
       "id": 139,
       "model": "료슈",
-      "content": "My stomach lurched, and I felt like I was falling into an endless pit."
+      "content": "Мой живот скрутило, и я почувствовала, будто падала в бездонную яму."
     },
     {
       "id": 140,
       "model": "료슈",
-      "content": "I'd never once thought of wanting to go to school,"
+      "content": "Я никогда, ни разу не думала о желании пойти в школу,"
     },
     {
       "id": 141,
       "model": "료슈",
-      "content": "but I wonder—if someone had asked me the same question long ago, would I have been just as excited?"
+      "content": "но вот вопрос - если бы кто-то, давно, спросил у меня это, была бы я настолько рада?"
     },
     {
       "id": 142,
-      "place": "Комната Рёшу и Араи, Прошлое",
       "model": "료슈딸2",
+      "place": "Комната Рёшу и Араи, Прошлое",
       "content": "Посмотри, Мамочка!"
     },
     {
       "id": 143,
       "model": "료슈딸2",
-      "content": "Это рандосэру, такие сейчас очень популярные!"
+      "content": "Это рандосеру, такие сейчас очень популярные!"
     },
     {
       "id": 144,
@@ -739,74 +739,74 @@
     {
       "id": 145,
       "model": "료슈딸2",
-      "content": "I can put textbooks in here. Pencil case goes here, my name tag goes here... and the lunchbox goes..."
+      "content": "Сюда я могу положить учебники. Пенал вот сюда, бейджик сюда... а ланчбокс вот..."
     },
     {
       "id": 146,
-      "place": -1,
       "model": "료슈",
-      "content": "What would happen if she went to school?"
+      "place": "-1",
+      "content": "Что бы случилось, пойди она в школу?"
     },
     {
       "id": 147,
       "model": "료슈",
-      "content": "Like any other 8-year-old, she'll begin by learning how to read and write... and before I even know it, she'll be all grown-up."
+      "content": "Как любой другой восьмилетний ребенок, она бы сначала научилась как читать и писать... и до того, как я моргну, она уже будет совсем взрослая."
     },
     {
       "id": 148,
       "model": "료슈",
-      "content": "She's always loved music, so I'm sure her hands'll carry not a dagger, but a stylish, chic guitar case."
+      "content": "Она всегда любила музыку, так что я уверена, что её руки будут держать не кинжал, но стильный, модный чехол для гитары."
     },
     {
       "id": 149,
       "model": "료슈",
-      "content": "A grown-up..."
+      "content": "Взрослая..."
     },
     {
       "id": 150,
       "model": "료슈",
-      "content": "Will she ever get to be one?"
+      "content": "Сможет ли она стать такой?"
     },
     {
       "id": 151,
       "model": "료슈",
-      "content": "That's when my vision opened..."
+      "content": "И тогда я прозрела..."
     },
     {
       "id": 152,
       "model": "료슈",
-      "content": "... and I could finally see it: we'd been caught in the middle of the spiderweb..."
+      "content": "... и я наконец смогла увидеть: я была застрявшей в центре паутины..."
     },
     {
       "id": 153,
       "model": "료슈",
-      "content": "... all along."
+      "content": "... всё это время."
     },
     {
       "id": 154,
       "model": "료슈",
-      "content": "Why did the Nursefathers let Araya into the House of Spiders without asking for anything in return in the first place?"
+      "content": "Почему Опекуны пустили Араю в Дом пауков, даже не попросив ничего взамен?"
     },
     {
       "id": 155,
       "model": "료슈",
-      "content": "When had that house ever been a place of such mercy, granting charity without exacting a price or a demand?"
+      "content": "Когда этот дом был местом такого милосердия, проявляя благотворительность без выставления цены или требования?"
     },
     {
       "id": 156,
-      "place": "Комната Рёшу и Араи, Прошлое",
       "model": "뇌횡",
-      "content": "Class wrapped up without a hitch, y'know. Hwell, it wasn't so easy, was it? Bayonets, gunblades, all 'o them fancy doohicky call for some tricky timin'... Must've been mighty hard fer ya to keep up, Kiddo."
+      "place": "Комната Рёшу и Араи, Прошлое",
+      "content": "Урок прошёл как по маслу, реально. Ладненько, было не совсем легко, да? Штыки, ганблейды, все эти хитрые хернюшки требуют точного исполнения... Тебе должно было быть супер сложно уследить, Малютка."
     },
     {
       "id": 157,
       "model": "과거료슈3",
-      "content": "... It wasn't. Fuck off if we're done here."
+      "content": "... Не было. Пиздуй нахуй если это всё."
     },
     {
       "id": 158,
       "model": "뇌횡",
-      "content": "Hot damn. Look at'cha, always givin' me the evil eye, y'sure do. One o' these days you'll end up stabbin' me 'fore yer done, I swear."
+      "content": "Капец. Глянь ка, всегда на меня так зло смотришь, да-да. В один из дней ваще пырнешь меня ещё до конца урока, клянусь."
     },
     {
       "id": 159,
@@ -816,47 +816,47 @@
     {
       "id": 160,
       "model": "뇌횡",
-      "content": "Hey, Yoshihide. You've got talent. You best polish it up real good, y'hear?"
+      "content": "Эй, Йошихиде. У тебя талант. Лучше хорошенько его отполируй, слышишь?"
     },
     {
       "id": 161,
       "model": "뇌횡",
-      "content": "Lessee'ere. Next up... well, hot diggity. All kinds o' folks showin' up to tutor ya today. Guess plenty o' fellers're lookin' forward to this."
+      "content": "Таааааааак. Дальше... ну, многовато. Всякий разный народ пришёл сегодня тебя учить. Походу много чуваков этого сильно ждут."
     },
     {
       "id": 162,
       "model": "뇌횡",
-      "content": "That ol' Bloodfiend Elder from the Ring's comin' in person... and this feller over here, ain't got a clue who that is. Must be one o' them Pinkies."
+      "content": "Тот Старина кровожадов из Безымянного лично придёт... и вот этот чувачок, ваще не знаю кто это. Наверное кто-то из этих, Мизинчиков."
     },
     {
       "id": 163,
       "model": "뇌횡",
-      "content": "Hah... Ain't that a hoot? How'd these devils all get assigned 'ere just months after that Finger Bow-Bell? Mighty sure them's the same ones that were busy raisin' hell out on the Outskirts Strife not long ago."
+      "content": "Ха... Разве не смешно? Как все эти черти были сюда назначены всего через пару месяцев после того Колокола Пальцев? Точно уверен это те-же самые, кто были заняты подниманием жарухи в Конфликте Окраин не так давно."
     },
     {
       "id": 164,
       "model": "뇌횡",
-      "content": "Hwell, can't deny they're the real deal. 'Least you'll learn things even them Nursefathers can't teach."
+      "content": "Лады, нельзя отрицать, что они что надо. Хотяб узнаешь у них чё-то, чему даже Опекуны не могут научить."
     },
     {
       "id": 165,
       "model": "과거료슈3",
-      "content": "You gonna keep yapping? Fine, I'll leave."
+      "content": "Продолжишь трепаться? Ладно, я уйду."
     },
     {
       "id": 166,
       "model": "뇌횡",
-      "content": "Now now, what's the rush? I know ya still got time to spare."
+      "content": "Ну ну, чего спешим? Я знаю у тебя ещё есть свободное время."
     },
     {
       "id": 167,
       "model": "뇌횡",
-      "content": "By the way—that Relic o' yers... That sword, they say it's somethin' real special, ain't it? Heard tell that 'cept fer that Pinky snake Dihui Star, all them hotshots who tried unsheathin' it got ruined fer life."
+      "content": "Кстати - вот эта твоя Реликвия... Этот меч, говорят он очень особенный, да? Слышал что кроме той змеюки Мизинца, Звезды Дихуэй, все большие шишки что пытались обнажить этот меч, совсем инвалидами стали."
     },
     {
       "id": 168,
       "model": "뇌횡",
-      "content": "Free that fancy blade from the scabbard 'n lemme see it go <i>schwing</i>... just one look, and I'll let ya swing this here Tiantui Star's Blade 'o mine a couple times. How 'bout it?"
+      "content": "Вытащи этот шикарный клинок из ножен и дай мне увидеть. как он <i>просвистит</i> сквозь воздух... одним глазком, и я дам тебе помахать этим моим клинком Звезды Тянтуй пару раз. Че думаешь?"
     },
     {
       "id": 169,
@@ -866,7 +866,7 @@
     {
       "id": 170,
       "model": "과거료슈3",
-      "content": "You think I'll trust a word from you ever again?"
+      "content": "Думаешь я поверю тебе ещё хоть раз?"
     },
     {
       "id": 171,
@@ -876,38 +876,38 @@
     {
       "id": 172,
       "model": "뇌횡",
-      "content": "Hwell, butter my butt 'n call me a biscuit!"
+      "content": "Лады, чтоб мне пусто было!"
     },
     {
       "id": 173,
       "model": "뇌횡",
-      "content": "Ain't fallin' for it twice, huh. Figured you'd forgotten all them memories like ol' peanut shells."
+      "content": "Второй раз не поведёшься, хм. Думал ты забыла все те воспоминания как шкурки от орешков."
     },
     {
       "id": 174,
-      "place": "Коридор Указательного, Long Ago",
       "model": "검지아비",
+      "place": "Коридор Указательного, Long Ago",
       "content": "......."
     },
     {
       "id": 175,
       "model": "뇌횡",
-      "content": "Hwell, that's the way the cookie crumbles, ain't it?"
+      "content": "Ладно, как карты лягут, да?"
     },
     {
       "id": 176,
       "model": "뇌횡",
-      "content": "Just wanted to get a peek while we trained—didn't know the kiddo's mind would fly every which way."
+      "content": "Просто хотел мельком глянуть, пока мы тренировались - не знал что разум девченки разлетится куда попало."
     },
     {
       "id": 177,
       "model": "검지아비",
-      "content": "You could've tried to come up with a better excuse than \"I didn't know.\""
+      "content": "Ты мог попытаться придумать лучшее оправдание, чем \"я не знал.\""
     },
     {
       "id": 178,
       "model": "검지아비",
-      "content": "Looks like... we'll have to put a lock on that scabbard from now on so it only opens with the collective permission of all five Nursefathers."
+      "content": "Видимо... с этого момента нам придется поставить на эти ножны замок, чтобы они открывались лишь с общего согласия всех пяти Опекунов."
     },
     {
       "id": 179,
@@ -917,32 +917,32 @@
     {
       "id": 180,
       "model": "검지아비",
-      "content": "Ah, come to think of it... It's already been 3 years since you started coming here, hasn't it?"
+      "content": "А, так подумать... прошло уже три года с момента, когда ты начал сюда приходить, верно?"
     },
     {
       "id": 181,
       "model": "뇌횡",
-      "content": "3 years? Been more like 5—"
+      "content": "Три года? Да скорее пять-"
     },
     {
       "id": 182,
       "model": "뇌횡",
-      "content": "Hah! Ain't you one smooth motherfucker? Nearly took that as you bein' kind and checkin' in on how I'm doin'. Listen, my poor ol' heart can't handle hearin' that beepin' no more."
+      "content": "Ха! Ну ты и хитрый гандон, да? Почти подумал, что ты проявляешь доброту и интересуешься моей жизнью. Послушай, моё бедное, старое сердечко больше не может выдерживать это пиканье."
     },
     {
       "id": 183,
       "model": "뇌횡",
-      "content": "Always gets me thinkin' maybe it's a Prescript tellin' ya to crack my head open like a watermelon."
+      "content": "Каждый раз заставляет меня думать, что это Предписание, говорящее тебе разнести мою голову как арбуз."
     },
     {
       "id": 184,
       "model": "검지아비",
-      "content": "Of course not. And even if I <i>did</i> want to split your head open like a watermelon... I'd need to take a chance for the right weapon to come out, or..."
+      "content": "Конечно нет. И даже если бы я <i>хотел</i> разнести твою голову как арбуз... Мне бы пришлось попытать удачу в создании подходящего оружия, или..."
     },
     {
       "id": 185,
       "model": "뇌횡",
-      "content": "Yeah yeah, my bad fer even tryna quip with ya."
+      "content": "Да-да, я ошибся, решив поострить в твою сторону."
     },
     {
       "id": 186,
@@ -952,12 +952,12 @@
     {
       "id": 187,
       "model": "과거료슈3",
-      "content": "Saru... Saru's wheezing... like the air's leaking... out of her..."
+      "content": "Сару... Сару хрипит... будто воздух из неё... утекает..."
     },
     {
       "id": 188,
       "model": "검지아비",
-      "content": "I see you've regressed to that moment."
+      "content": "Вижу ты регрессировала к такому моменту."
     },
     {
       "id": 189,
@@ -976,14 +976,14 @@
     },
     {
       "id": 192,
-      "place": "Комната Рёшу и Араи, Прошлое",
       "model": "과거료슈3",
-      "content": "I don't want any part in whatever it is any of you \"tutors\" are scheming."
+      "place": "Комната Рёшу и Араи, Прошлое",
+      "content": "Не хочу иметь никакого отношения к тому, что вы и все ваши \"репетиторы\" замышляете."
     },
     {
       "id": 193,
       "model": "과거료슈3",
-      "content": "I'll never draw my sword just to satisfy that cheap curiosity of yours,"
+      "content": "Я никогда не обнажу свой меч лишь ради удовлетворения твоего жалкого любопытства,"
     },
     {
       "id": 194,
@@ -1003,12 +1003,12 @@
     {
       "id": 197,
       "model": "뇌횡",
-      "content": "Hwell now, who's this little tot?"
+      "content": "Опачки, это что за крошка?"
     },
     {
       "id": 198,
       "model": "료슈딸2",
-      "content": "H-hello! My name is Araya, and there's this letter I learned at school today, and—"
+      "content": "З-здравствуйте! Моё имя Арая, и тут вот слово, что я выучила сегодня в школе, и-"
     },
     {
       "id": 199,
@@ -1018,7 +1018,7 @@
     {
       "id": 200,
       "model": "뇌횡",
-      "content": "Awright, sugar. Ya run along and play now, hear?"
+      "content": "Ладненько, золотце. Беги играть, хорошо?"
     },
     {
       "id": 201,
@@ -1028,7 +1028,7 @@
     {
       "id": 202,
       "model": "뇌횡",
-      "content": "Ну ёлки-иголки, вот это теперь и вправду заставляет сердце мужчины болеть. Могла хотя бы дать девочке сказать привет дяде Лей Хену."
+      "content": "Ну ёлки-иголки, вот это уже и вправду заставляет сердце мужчины болеть. Могла хотя бы дать девочке сказать привет дяде Лей Хену."
     },
     {
       "id": 203,
@@ -1048,38 +1048,38 @@
     {
       "id": 206,
       "model": "뇌횡",
-      "content": "Figured as much—yer holdin' on tight to that kid."
+      "content": "Так и понял - ты очень крепко держишься за этого ребенка."
     },
     {
       "id": 207,
       "model": "뇌횡",
-      "content": "Them Spider fellers sure are sharp as a tack."
+      "content": "Эти чуваки-Пауки реально умны как черти."
     },
     {
       "id": 208,
       "model": "과거료슈3",
-      "content": "Is this just more of your horseshit..."
+      "content": "Это всё ещё пустоблядство..."
     },
     {
       "id": 209,
       "model": "과거료슈3",
-      "content": "... or can you back it up?"
+      "content": "... или у тебя есть обоснования?"
     },
     {
       "id": 210,
       "model": "뇌횡",
-      "content": "... Ain't that a fine mouth you got talkin' to yer teacher."
+      "content": "... Какой же у тебя прекрасный язык при разговоре с учителем."
     },
     {
       "id": 211,
-      "place": -1,
       "model": "뇌횡",
-      "content": "Eh, what's it matter, anyway—I already kicked the bucket."
+      "place": "-1",
+      "content": "Эх, хотя какая разница, всё-равно - Я уже подох."
     },
     {
       "id": 212,
       "model": "뇌횡",
-      "content": "But them lessons I taught ya, those were real, y'hear?"
+      "content": "Но уроки что я тебе давал, он были настоящими, слышишь?"
     },
     {
       "id": 213,
@@ -1089,12 +1089,12 @@
     {
       "id": 214,
       "model": "뇌횡",
-      "content": "You still followin' that thread tied to ya?"
+      "content": "Всё ещё идешь по этой ниточке, что к тебе привязана?"
     },
     {
       "id": 215,
       "model": "뇌횡",
-      "content": "Hang onto it tight like yer life depends on it, Kiddo. I ain't helpin' if ya lose yer way."
+      "content": "Держись за неё своей жизнью, Малышка. Я не помогу, если собьешься с пути."
     },
     {
       "id": 216,
@@ -1179,12 +1179,12 @@
     {
       "id": 232,
       "model": "료슈",
-      "content": "Across the faded screen, lights scatter and gather endlessly."
+      "content": "По тусклому экрану бесконечно разлетаются и собираются огни."
     },
     {
       "id": 233,
       "model": "료슈",
-      "content": "The kaleidoscopic light projected on the wall leaves me mesmerized—and my stomach begins to churn again."
+      "content": "Калейдоскопический свет, проецируемый на стену гипнотизирует меня - и мой живот снова скручивает."
     },
     {
       "id": 234,
@@ -1233,19 +1233,19 @@
     },
     {
       "id": 243,
-      "place": "Коридор Безымянного, Прошлое",
       "model": "약지아비",
+      "place": "Коридор Безымянного, Прошлое",
       "content": "Дорожайшая Йошихиде, этот меч..."
     },
     {
       "id": 244,
       "model": "약지아비",
-      "content": "Must never be drawn on a whim."
+      "content": "Никогда не должен быть обнажён по прихоти."
     },
     {
       "id": 245,
       "model": "약지아비",
-      "content": "Soon, I will forge another sword meant only for you... So you may keep it with you at all times."
+      "content": "Скоро я скую ещё один меч, предназначенный лишь для тебя... Чтобы ты всегда могла носить его при себе."
     },
     {
       "id": 246,
@@ -1260,66 +1260,66 @@
     {
       "id": 248,
       "model": "약지아비",
-      "content": "None among the Nursefathers can draw that blade... save for one."
+      "content": "Никто среди Опекунов не может достать этот меч... кроме одной."
     },
     {
       "id": 249,
       "model": "약지아비",
-      "content": "On top of that... only you can wield it in all its proper might, Yoshihide."
+      "content": "Вдобавок... только ты можешь использовать его во всю силу, Йошихиде."
     },
     {
       "id": 250,
-      "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
+      "place": "Коридор Указательного, Прошлое",
       "content": "Имя этого меча - Араяшики."
     },
     {
       "id": 251,
       "model": "검지아비",
-      "content": "It's one of the rarest Relics in existence, a pinnacle of its kind."
+      "content": "Это одна из редчайших в мире Реликвий, совершенство своего рода."
     },
     {
       "id": 252,
       "model": "검지아비",
-      "content": "It is a blade that cuts through all..."
+      "content": "Это клинок, что прорезается через всё..."
     },
     {
       "id": 253,
       "model": "검지아비",
-      "content": "... and whatever it cuts can never be made whole again."
+      "content": "... и всё, что он режет, больше никогда не может быть восстановлено."
     },
     {
       "id": 254,
-      "place": -1,
       "model": "료슈",
-      "content": "After that day I drew the sword without warning..."
+      "place": "-1",
+      "content": "После того дня, когда я достала меч без предупреждения..."
     },
     {
       "id": 255,
       "model": "료슈",
-      "content": "... it was decided that the blade could be unsheathed only with the unanimous permission of all five Nursefathers."
+      "content": "... было решено, что этот меч может быть обнажен лишь с единогласного разрешения всех пятерых Опекунов."
     },
     {
       "id": 256,
-      "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
-      "content": "In return, however, it cuts your mind as well every time you use it."
+      "place": "Коридор Указательного, Прошлое",
+      "content": "Взамен, однако, он также режет твой разум каждый раз, когда ты его используешь."
     },
     {
       "id": 257,
       "model": "검지아비",
-      "content": "The cuts are so precise and smooth that you won't even notice which memories have been severed away."
+      "content": "Порезы настолько точные и аккуратные, что ты даже не заметишь, какие воспоминания были отрезаны."
     },
     {
       "id": 258,
       "model": "검지아비",
-      "content": "That's why we—well, the House of Spiders is going to decide when and where you may unsheathe that sword. And we will do so with absolute caution."
+      "content": "Поэтому мы - точнее, Дом пауков будет решать, когда и где тебе позволено обнажать этот меч. И мы будем делать это с абсолютной осторожностью."
     },
     {
       "id": 259,
-      "place": -1,
       "model": "료슈",
-      "content": "I had only used that sword fewer than 10 times—just enough to count on my fingers."
+      "place": "-1",
+      "content": "Я использовала этот меч меньше десяти раз - как раз столько, чтобы можно было посчитать на пальцах."
     },
     {
       "id": 260,
@@ -1328,9 +1328,9 @@
     },
     {
       "id": 261,
-      "place": "Комната Рёшу и Араи, Прошлое",
       "model": "료슈딸2",
-      "content": "It was just last week... We went out together and tried that new, weird snack for the first time!"
+      "place": "Комната Рёшу и Араи, Прошлое",
+      "content": "Это было всего на прошлой неделе... Мы вместе пошли гулять и попробовали новую, странную вкусняшку в первый раз!"
     },
     {
       "id": 262,
@@ -1340,76 +1340,76 @@
     {
       "id": 263,
       "model": "료슈딸2",
-      "content": "Ugh, why can't you remember?"
+      "content": "Угх, почему ты не можешь вспомнить?"
     },
     {
       "id": 264,
       "model": "료슈딸2",
-      "content": "You said they were too sweet but ate, like, 5 of them! I only got to eat 3!"
+      "content": "Ты сказала они были слишком сладкие, но съела где-то пять! А мне оставила только три!"
     },
     {
       "id": 265,
-      "place": -1,
       "model": "료슈",
-      "content": "Day after day, the list of memories I wouldn't trade for anything keeps growing, piling, overlapping..."
+      "place": "-1",
+      "content": "День за днём, список воспоминаний, которые я ни на что бы не променяла, продолжал расти, копиться, пересекаться..."
     },
     {
       "id": 266,
       "model": "료슈",
-      "content": "And I realize time is running out."
+      "content": "И я поняла, что время истекало."
     },
     {
       "id": 267,
       "model": "료슈",
-      "content": "The Nursefathers may pretend to not care about Araya."
+      "content": "Опекуны могли делать вид, что им всё равно на Араю."
     },
     {
       "id": 268,
       "model": "료슈",
-      "content": "But the spiral of doubt... is primed for the impaling,"
+      "content": "Но спираль сомнения... готова к пронзанию,"
     },
     {
       "id": 269,
       "model": "료슈",
-      "content": "biding its time for that precise moment when they decide that their fetter around my feet has served its purpose."
+      "content": "дожидаясь того самого момента, когда они решат, что оковы вокруг моих ног выполнили своё предназначение."
     },
     {
       "id": 270,
-      "place": "Комната Рёшу и Араи, Прошлое",
       "model": "과거료슈3",
+      "place": "Комната Рёшу и Араи, Прошлое",
       "content": "Арая."
     },
     {
       "id": 271,
       "model": "과거료슈3",
-      "content": "What do you want to be... when you grow up?"
+      "content": "Кем ты хочешь быть... когда вырастешь?"
     },
     {
       "id": 272,
       "model": "료슈딸2",
-      "content": "Hmm... When I grow up, Mommy..."
+      "content": "Хмм... Когда я вырасту, Мамочка..."
     },
     {
       "id": 273,
       "model": "료슈딸2",
-      "content": "I wanna be..."
+      "content": "Я хочу быть..."
     },
     {
       "id": 274,
-      "place": -1,
       "model": "료슈",
-      "content": "I want to let Araya carry her own bag and grow up to become the person she wants to be."
+      "place": "-1",
+      "content": "Я хочу дать Арае возможность нести свою собственную сумку и вырасти тем, кем она хочет быть."
     },
     {
       "id": 275,
       "model": "료슈",
-      "content": "I want Araya to break free from the House of Spiders so she may find her own path in life."
+      "content": "Я хочу, чтобы Арая вырвалась из Дома пауков, чтобы она смогла найти свой собственный путь по жизни."
     },
     {
       "id": 276,
-      "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
-      "content": "We have decided unanimously to commence the mission."
+      "place": "Коридор Указательного, Прошлое",
+      "content": "Мы единогласно решили начать миссию."
     },
     {
       "id": 277,
@@ -1419,57 +1419,57 @@
     {
       "id": 278,
       "model": "료슈",
-      "content": "The five knots tying the blade, each distinct in shape, loosen themselves one after another."
+      "content": "Пять узлов, связывающих клинок, каждый своей уникальной формы, развязываются один за другим."
     },
     {
       "id": 279,
       "model": "검지아비",
-      "content": "Aren't you going to ask me the questions today?"
+      "content": "Сегодня не будешь задавать мне те вопросы?"
     },
     {
       "id": 280,
       "model": "과거료슈3",
-      "content": "... What questions?"
+      "content": "... Какие вопросы?"
     },
     {
       "id": 281,
       "model": "검지아비",
-      "content": "You always ask the same thing during these missions."
+      "content": "Ты всегда спрашиваешь одно и то-же во время этих миссий."
     },
     {
       "id": 282,
       "model": "검지아비",
-      "content": "Will it ever end? Is there even an end? And if there is one..."
+      "content": "Это когда-нибудь кончится? Есть ли вообще конец? И если есть..."
     },
     {
       "id": 283,
       "model": "검지아비",
-      "content": "... what will it look like?"
+      "content": "... как он будет выглядеть?"
     },
     {
       "id": 284,
       "model": "과거료슈3",
-      "content": "Did I really say all that?"
+      "content": "Я правда всё это говорила?"
     },
     {
       "id": 285,
       "model": "검지아비",
-      "content": "They say children start to talk less and grow distant from their parents when puberty hits."
+      "content": "Говорят, что дети начинаю меньше разговаривать и становятся отдалённее от родителей, когда наступает пубертат."
     },
     {
       "id": 286,
       "model": "검지아비",
-      "content": "Is it finally happening to you too?"
+      "content": "У тебя он тоже наконец начался?"
     },
     {
       "id": 287,
       "model": "과거료슈3",
-      "content": "Hah... Every time I use this sword, a part of me gets sliced away."
+      "content": "Ха... Каждый раз, когда я использую этот меч, часть меня отрезается."
     },
     {
       "id": 288,
       "model": "과거료슈3",
-      "content": "What makes you think my memories'll be fine?"
+      "content": "Почему ты думаешь, что мои воспоминания будут в порядке?"
     },
     {
       "id": 289,
@@ -1479,27 +1479,27 @@
     {
       "id": 290,
       "model": "과거료슈3",
-      "content": "What, did that stupid pager beep you to shut up when I ask you difficult questions?"
+      "content": "Что, этот тупой пейджер напиликал тебе затыкаться, когда я спрашиваю у тебя что-то трудное?"
     },
     {
       "id": 291,
       "model": "검지아비",
-      "content": "You've gotten a bit snappy, sweetie."
+      "content": "Ты стала немного раздражительна, милая."
     },
     {
       "id": 292,
       "model": "검지아비",
-      "content": "Imagine how hurtful it'd be if your daughter started talking like that to you someday."
+      "content": "Представь как больно будет, если твоя дочь в один из дней начнёт говорить с тобой так-же."
     },
     {
       "id": 293,
       "model": "과거료슈3",
-      "content": "Don't bring Araya into this."
+      "content": "Не приплетай сюда Араю."
     },
     {
       "id": 294,
-      "place": "Комната Рёшу и Араи, Прошлое",
       "model": "과거료슈3",
+      "place": "Комната Рёшу и Араи, Прошлое",
       "content": "Арая."
     },
     {
@@ -1510,7 +1510,7 @@
     {
       "id": 296,
       "model": "료슈딸2",
-      "content": "Mommy... you always make scary faces when you take that sword..."
+      "content": "Мамочка... ты всегда делаешь страшное лицо, когда берёшь этот меч..."
     },
     {
       "id": 297,
@@ -1560,23 +1560,23 @@
     {
       "id": 306,
       "model": "료슈",
-      "content": "And so, I followed each length of the rope that was bound to me."
+      "content": "И так, я последовала по каждому отрезку верёвки, что была ко мне привязана."
     },
     {
       "id": 307,
-      "place": "Коридор Большого, Прошлое",
       "model": "엄지아비",
-      "content": "Tell me. Why are you trying to leave?"
+      "place": "Коридор Большого, Прошлое",
+      "content": "Скажи мне. Почему ты пытаешься уйти?"
     },
     {
       "id": 308,
       "model": "엄지아비",
-      "content": "Ha. You know what? Be like that. Keep mum and brood in silence all you want."
+      "content": "Ха. Знаешь что? Да, молчи. Оставляй маму и выводок в тишине сколько хочешь."
     },
     {
       "id": 309,
       "model": "엄지아비",
-      "content": "That brat you call your daughter... I'll find that little bundle of liability... and I'll split her in half."
+      "content": "Эта малявка, что ты называешь дочерью... Я найду эту мелкую обузу... и разрублю её пополам. "
     },
     {
       "id": 310,
@@ -1590,15 +1590,15 @@
     },
     {
       "id": 312,
-      "place": "Коридор Мизинца, Прошлое",
       "model": "중지아비",
-      "content": "Were ya mad at Daddy for something, Buddy...?"
+      "place": "Коридор Мизинца, Прошлое",
+      "content": "Ты была зла на Папочку за что-то, Подруга...?"
     },
     {
       "id": 313,
-      "place": "Коридор Безымянного, Прошлое",
       "model": "약지아비",
-      "content": "Aah! Please stop this vandalism, Yoshihide. For over 10 years, I have assembled this magnum opus, only for your pleasure..."
+      "place": "Коридор Безымянного, Прошлое",
+      "content": "Аа! Пожалуйста, прекрати этот вандализм, Йошихиде. Более десяти лет я собирал этот магнум опус лишь ради твоего удовольствия..."
     },
     {
       "id": 314,
@@ -1607,8 +1607,8 @@
     },
     {
       "id": 315,
-      "place": "Коридор Указательного, Прошлое",
       "model": "검지아비",
+      "place": "Коридор Указательного, Прошлое",
       "content": "Милая."
     },
     {
@@ -1624,7 +1624,7 @@
     {
       "id": 318,
       "model": "검지아비",
-      "content": "You've still got one more of us to go through, don't you?"
+      "content": "Тебе осталось пройти через ещё одного из нас, я прав?"
     },
     {
       "id": 319,
@@ -1633,14 +1633,14 @@
     },
     {
       "id": 320,
-      "place": -1,
       "model": "료슈",
-      "content": "Staggering, I took another step to the last of my Nursefathers."
+      "place": "-1",
+      "content": "Шатаясь, я сделала ещё один шаг к последнему из моих Опекунов."
     },
     {
       "id": 321,
       "model": "료슈",
-      "content": "I cut out the tongue that lashed at me time and again,"
+      "content": "Я отрезала язык, что срывался на меня снова и снова,"
     },
     {
       "id": 322,
@@ -1649,8 +1649,8 @@
     },
     {
       "id": 323,
-      "place": "Коридор Мизинца, Прошлое",
       "model": "소지아비2",
+      "place": "Коридор Мизинца, Прошлое",
       "content": "... Не мож-- быть с-бодн-- от -ого -ста... не- ра---ав..."
     },
     {
@@ -1675,54 +1675,54 @@
     },
     {
       "id": 328,
-      "place": -1,
       "model": "료슈",
-      "content": "It was supposed to be her head."
+      "place": "-1",
+      "content": "Это должна была быть её голова."
     },
     {
       "id": 329,
       "model": "료슈",
-      "content": "Perhaps it was out of some last dreg of pity still left in me that I didn't cut through her brain."
+      "content": "Возможно это было из-за какого-то последнего проблеска жалости, оставшегося во мне, что я не прорезалась сквозь её мозг."
     },
     {
       "id": 330,
       "model": "료슈",
-      "content": "Or maybe, after swinging the blade for so long, I simply forgot that slicing the brain is the surest way to end a life."
+      "content": "Или может из-за продолжительного использования этого меча, я просто напросто забыла, что пронзание меча - самый верный способ прервать жизнь."
     },
     {
       "id": 331,
       "model": "료슈",
-      "content": "With my own two hands, I ended the life of my parent."
+      "content": "Своими собственными руками, я окончила жизнь своего родителя."
     },
     {
       "id": 332,
       "model": "료슈",
-      "content": "A face like mine. A voice like mine. A sword style just like my own."
+      "content": "Лицо как у меня. Голос как у меня. Стиль пользования мечем точно как у меня."
     },
     {
       "id": 333,
       "model": "료슈",
-      "content": "Will my fate come to resemble hers as well?"
+      "content": "Станет ли моя судьба в конце такой-же как у неё?"
     },
     {
       "id": 334,
       "model": "료슈",
-      "content": "I drove the blade that cuts through all..."
+      "content": "Я вонзила клинок, что режет всё..."
     },
     {
       "id": 335,
       "model": "료슈",
-      "content": "... into her heart, and even made sure to give it a good twist."
+      "content": "... в её сердце, и даже удостоверилась хорошенько его провернуть."
     },
     {
       "id": 336,
       "model": "료슈",
-      "content": "If the dying sunset had a voice..."
+      "content": "Если бы у умирающего заката был голос..."
     },
     {
       "id": 337,
       "model": "료슈",
-      "content": "It would sound just like this."
+      "content": "Он звучал бы именно так."
     }
   ]
 }
